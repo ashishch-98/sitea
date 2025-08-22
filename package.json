@@ -83,13 +83,13 @@
     "next:dev": "cross-env NODE_OPTIONS='--inspect' next dev",
     "next:start": "next start",
     "scaffold": "ts-node --project tsconfig.scripts.json scripts/scaffold-component/index.ts",
-    "start:connected": "cross-env NODE_ENV=development NODE_EXTRA_CA_CERTS=\"C:/Users/ashish.chinchkhede/Documents/Certs/sc104.local.cer\" npm-run-all --serial bootstrap --parallel next:dev start:watch-components",
+    "start:connected": "cross-env NODE_ENV=development npm-run-all --serial bootstrap --parallel next:dev start:watch-components",
     "start:production": "cross-env-shell NODE_ENV=production npm-run-all --serial bootstrap next:build next:start",
     "start:watch-components": "ts-node --project tsconfig.scripts.json scripts/generate-component-builder/index.ts --watch",
     "install-pre-push-hook": "ts-node --project tsconfig.scripts.json ./scripts/install-pre-push-hook.ts",
     "sc:login": "dotenv -e .env.local -- cross-env-shell  dotnet sitecore login --authority $SITECORE_ID_HOST --cm $SITECORE_API_HOST --allow-write true",
     "sc:pull": "dotnet sitecore ser pull",
-    "sc:push": "dotnet sitecore ser push",
+    "sc:push": "dotnet sitecore ser push --include SiteA.Settings dotnet sitecore ser push --include SiteA.Templates dotnet sitecore ser push --include SiteA.Renderings dotnet sitecore ser push --include SiteA.Content",
     "init": "jss deploy config && npm install && npm run sc:login && npm run sc:push && npm run start:connected"
   }
 }

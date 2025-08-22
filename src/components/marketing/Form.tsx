@@ -8,7 +8,7 @@ import { useI18n } from 'next-localization';
 // const defaultFieldFactory = createDefaultFieldFactory();
 // defaultFieldFactory.setComponent(FieldTypes.Email, EmailField);
 
-const JssNextForm = ({ fields, router }: { fields: any; router: NextRouter }) => {
+const JssNextForm = ({ fields, router }: { fields: unknown; router: NextRouter }) => {
   const [submitted, setSubmitted] = useState(false);
 
   const handleRedirect = () => setSubmitted(true);

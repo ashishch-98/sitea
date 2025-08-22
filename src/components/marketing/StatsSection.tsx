@@ -1,5 +1,5 @@
 import { JSX } from 'react';
-import { Field, Text, RichText, LinkField, Link, Image } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Field, Text, RichText } from '@sitecore-jss/sitecore-jss-nextjs';
 import { DropLinkField } from 'lib/types';
 import { getBackgroundClasses } from 'lib/styles/bg-class-mapper';
 
@@ -36,7 +36,10 @@ export const Default = (props: StatsSectionProps): JSX.Element => {
   if (props.fields) {
     const { fields } = props;
     return (
-      <div className="max-w-screen-xl px-4 py-8 mx-auto text-center lg:py-16 lg:px-12">
+      <div
+        className="max-w-screen-xl px-4 py-8 mx-auto text-center lg:py-16 lg:px-12"
+        id={id ? id : undefined}
+      >
         <div className="max-w-2xl mx-auto">
           <Text
             field={fields?.title}

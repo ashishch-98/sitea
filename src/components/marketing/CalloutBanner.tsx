@@ -1,6 +1,5 @@
 import { JSX } from 'react';
 import {
-  Link,
   RichText,
   ImageField,
   Field,
@@ -9,7 +8,6 @@ import {
   Image,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import { DropLinkField } from '../../lib/types';
-import IconMapper from 'components/base/IconMapper';
 import ButtonLink from 'components/base/ButtonLink';
 
 interface LogoMultiListField {

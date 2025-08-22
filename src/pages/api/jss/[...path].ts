@@ -14,7 +14,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
   const agent = new https.Agent({ rejectUnauthorized: false });
 
   const sanitizedHeaders = Object.entries(req.headers || {})
-    .filter(([_, value]) => value !== undefined)
+    .filter(([, value]) => value !== undefined)
     .reduce((acc, [key, value]) => {
       acc[key] = value as string;
       return acc;
