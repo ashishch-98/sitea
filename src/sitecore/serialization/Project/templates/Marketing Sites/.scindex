@@ -1,0 +1,181 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\templates\Marketing Sites\Marketing Sites.yml
+ID: "07c9952b-f50e-4ff3-a5c6-94d6ce5b9b5c"
+Parent: "825b30b4-b40b-422e-9920-23a1b6bda89c"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/Marketing Sites
+Signature: 6SEiqAv8TjClrH6+eKjANiXjL3/Z6FFCw/lQ8ZCyG9w=
+Modified: 638912037981250624
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\templates\Marketing Sites\Marketing Sites\Page.yml
+ID: "8d056f4b-2314-4d39-803a-5489b9f70c35"
+Parent: "07c9952b-f50e-4ff3-a5c6-94d6ce5b9b5c"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Marketing Sites/Page
+Signature: Pji9/MzK0Q2AjRmCsI1Qm/LvcNTOAU75vLlgDOch0as=
+Modified: 638912037981290843
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\templates\Marketing Sites\Marketing Sites\JSS Settings\__Standard Values.yml
+ID: "4ef69cbd-fdfd-4542-8075-024c9070d98e"
+Parent: "f73e34c9-1961-4afe-b045-4adc98363c82"
+Template: "f73e34c9-1961-4afe-b045-4adc98363c82"
+Path: /sitecore/templates/Project/Marketing Sites/JSS Settings/__Standard Values
+Signature: oIhyu2xpRQBQxlR8UIi3qUzvDCudqUZh+pq+EQaQLmc=
+Modified: 638912037981478871
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\templates\Marketing Sites\Marketing Sites\Page Designs.yml
+ID: "90d66369-690a-44fe-a769-bb24d27573ce"
+Parent: "07c9952b-f50e-4ff3-a5c6-94d6ce5b9b5c"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Marketing Sites/Page Designs
+Signature: tf1z/sAGD1dvYL1m1DJc2wCIY0VZ3Ht6xo0pPwZAa1A=
+Modified: 638912037981311021
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\templates\Marketing Sites\Marketing Sites\Partial Designs.yml
+ID: "99a4f4c3-b75e-4c4f-8345-10a3bcfc6f21"
+Parent: "07c9952b-f50e-4ff3-a5c6-94d6ce5b9b5c"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Marketing Sites/Partial Designs
+Signature: m5QSsf02JC+m+BYn8uotdqSBb7Ql92Wh8z40xyF16gU=
+Modified: 638912037981331127
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\templates\Marketing Sites\Marketing Sites\Headless Site\__Standard Values.yml
+ID: "a505e779-4e0d-456d-942a-d76d5c07783c"
+Parent: "43e3e908-3e5b-4341-8644-ede0215f597c"
+Template: "43e3e908-3e5b-4341-8644-ede0215f597c"
+Path: /sitecore/templates/Project/Marketing Sites/Headless Site/__Standard Values
+Signature: RVSU5hxaO7OEd6xAwtkhUbiQIXejGkOtXnly5gTmxpM=
+Modified: 638912037981409013
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\templates\Marketing Sites\Marketing Sites\Partial Designs\__Standard Values.yml
+ID: "9c9a8188-fe24-48ce-9c85-bdc94ddd5c30"
+Parent: "99a4f4c3-b75e-4c4f-8345-10a3bcfc6f21"
+Template: "99a4f4c3-b75e-4c4f-8345-10a3bcfc6f21"
+Path: /sitecore/templates/Project/Marketing Sites/Partial Designs/__Standard Values
+Signature: kxS85m/fLmHgz6lTgI9DEFVZSN7nxS3pZFQL+5F0S/Q=
+Modified: 638912037981868667
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\templates\Marketing Sites\Marketing Sites\Page\Content\Content.yml
+ID: "e4e21c5f-3dd1-422e-a17e-54de93907385"
+Parent: "3b8f6655-440d-4ec7-9587-5b2bc0308b87"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Marketing Sites/Page/Content/Content
+Signature: pbaf6rzXhaEi9MncrlAdiQxNTM1plQAt6RRX3D9+5/4=
+Modified: 638912037981388896
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\templates\Marketing Sites\Marketing Sites\JSS Settings.yml
+ID: "f73e34c9-1961-4afe-b045-4adc98363c82"
+Parent: "07c9952b-f50e-4ff3-a5c6-94d6ce5b9b5c"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Marketing Sites/JSS Settings
+Signature: xSSHuXTfEapRhgmt2yPwJKbTdvUjpXVVbGvtuKxeE5Y=
+Modified: 638912037981290843
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\templates\Marketing Sites\Marketing Sites\Page Design Folder.yml
+ID: "867b7a1b-b132-4170-8019-55d64472e19d"
+Parent: "07c9952b-f50e-4ff3-a5c6-94d6ce5b9b5c"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Marketing Sites/Page Design Folder
+Signature: fLZ6aHWMGYnVU/5VFr1NicCAKtMsw5mcz43FGSr2W8Q=
+Modified: 638912037981311021
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\templates\Marketing Sites\Marketing Sites\Partial Design Folder.yml
+ID: "5d9c0f46-b588-4233-a4e3-8a720a37a633"
+Parent: "07c9952b-f50e-4ff3-a5c6-94d6ce5b9b5c"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Marketing Sites/Partial Design Folder
+Signature: 3GPxi+itEuzc4syOyiG1RAU8rc0wNULywhwzhGpOqlk=
+Modified: 638912037981331127
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\templates\Marketing Sites\Marketing Sites\Page\__Standard Values.yml
+ID: "dad7a7c2-7e27-49c6-a098-92e29a41a4ac"
+Parent: "8d056f4b-2314-4d39-803a-5489b9f70c35"
+Template: "8d056f4b-2314-4d39-803a-5489b9f70c35"
+Path: /sitecore/templates/Project/Marketing Sites/Page/__Standard Values
+Signature: qFw05Sk0uWzo7bMfJueA7lYyZYhyaAmoR0uGHHHYBcg=
+Modified: 638912037981498963
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\templates\Marketing Sites\Marketing Sites\Page Designs\__Standard Values.yml
+ID: "739f16eb-1503-4461-9f8d-e772073b9b5f"
+Parent: "90d66369-690a-44fe-a769-bb24d27573ce"
+Template: "90d66369-690a-44fe-a769-bb24d27573ce"
+Path: /sitecore/templates/Project/Marketing Sites/Page Designs/__Standard Values
+Signature: z50GrMiuWRK+LfkqGBhoRywesL75kyu+UIQ+yZOnr2c=
+Modified: 638912037981810929
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\templates\Marketing Sites\Marketing Sites\Partial Design Folder\__Standard Values.yml
+ID: "bbb9bf14-2a5f-4d07-8fab-fe7c8421fcf5"
+Parent: "5d9c0f46-b588-4233-a4e3-8a720a37a633"
+Template: "5d9c0f46-b588-4233-a4e3-8a720a37a633"
+Path: /sitecore/templates/Project/Marketing Sites/Partial Design Folder/__Standard Values
+Signature: z0sUT6Ee0kYmOYbNBhk0gLVNJCGIqWApr3Yww1HRV/E=
+Modified: 638912037981848570
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\templates\Marketing Sites\Marketing Sites\Headless Tenant.yml
+ID: "49018b45-37a7-48e9-a661-7b1401cf00ef"
+Parent: "07c9952b-f50e-4ff3-a5c6-94d6ce5b9b5c"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Marketing Sites/Headless Tenant
+Signature: rx2NY7H7dIFz8qbA/hmO1b1XERyPLyw7RIJ2KI3ITU0=
+Modified: 638912037981270734
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\templates\Marketing Sites\Marketing Sites\Page\Content.yml
+ID: "3b8f6655-440d-4ec7-9587-5b2bc0308b87"
+Parent: "8d056f4b-2314-4d39-803a-5489b9f70c35"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Marketing Sites/Page/Content
+Signature: hxNqNiVApgaq5JbwW/y27naRnJC1vghks/Om6mPHLZc=
+Modified: 638912037981348665
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\templates\Marketing Sites\Marketing Sites\Page Design Folder\__Standard Values.yml
+ID: "7de1abdb-6877-4605-83d5-930ceaaa46ba"
+Parent: "867b7a1b-b132-4170-8019-55d64472e19d"
+Template: "867b7a1b-b132-4170-8019-55d64472e19d"
+Path: /sitecore/templates/Project/Marketing Sites/Page Design Folder/__Standard Values
+Signature: PMkOMxkP7ahZI0pQ3cCFUnykUbWBkE8hyQCKZ0HbHdM=
+Modified: 638912037981790821
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\templates\Marketing Sites\Marketing Sites\Headless Site.yml
+ID: "43e3e908-3e5b-4341-8644-ede0215f597c"
+Parent: "07c9952b-f50e-4ff3-a5c6-94d6ce5b9b5c"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Marketing Sites/Headless Site
+Signature: JYV7GUZdFnj8yL4Ra4TYVrD/ah/4ASOVS+FgQSQV8gk=
+Modified: 638912037981270734
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\templates\Marketing Sites\Marketing Sites\Headless Tenant\__Standard Values.yml
+ID: "ebf1b29f-caba-4152-899a-36b440968054"
+Parent: "49018b45-37a7-48e9-a661-7b1401cf00ef"
+Template: "49018b45-37a7-48e9-a661-7b1401cf00ef"
+Path: /sitecore/templates/Project/Marketing Sites/Headless Tenant/__Standard Values
+Signature: ONDLY4TdyemVF3ivsjbCPc6oWThFgu8TleD+cnRo5qU=
+Modified: 638912037981429152
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\templates\Marketing Sites\Marketing Sites\Page\Content\Title.yml
+ID: "772037a4-fa88-45ca-807d-c1ee70be9cb7"
+Parent: "3b8f6655-440d-4ec7-9587-5b2bc0308b87"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Marketing Sites/Page/Content/Title
+Signature: TYQOFc94krD+Vvi3sxK80fHjmcjF3wWC3DKcKv5hM3Q=
+Modified: 638912037981388896

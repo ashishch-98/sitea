@@ -1,0 +1,955 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Options Folder\__Standard Values.yml
+ID: "39d72bba-2be2-4b94-a23f-9735cc77dec1"
+Parent: "e886bb34-2334-47d7-b3df-cddfcbb32655"
+Template: "e886bb34-2334-47d7-b3df-cddfcbb32655"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Options Folder/__Standard Values
+Signature: wh8/ibszXdncv/AHzrmW1O3emjFWz2kWy5G8y7DAL2s=
+Modified: 638912037980232313
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Callout Banner\CalloutBanner.yml
+ID: "0ea559cc-ef81-453c-bf36-48c472039793"
+Parent: "2e5704aa-fba6-4b96-9b5c-4cf9f857ed28"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Callout Banner/CalloutBanner
+Signature: AyOLebP5zONSOZlzG1F1Ih+0ORFb6nV8pzrt3sirv44=
+Modified: 638912037977639783
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites.yml
+ID: "b49deb1c-2483-49f5-89f1-160687989c69"
+Parent: "8f343079-3cc5-4ef7-bc27-32addb46f45e"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Marketing Sites
+Signature: ga95zT2CW/Bwqz8ePwBfhO4S8bYDWBwJ9Hmf+JTgJGs=
+Modified: 638912037976723097
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Rendering Parameters\Carousel.yml
+ID: "999da143-f850-47b5-9403-8e73fa862894"
+Parent: "448d3a3c-2ab5-4e7c-b79f-8ed671b3cb4f"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Rendering Parameters/Carousel
+Signature: Ieew5vsg05Oi1a2EXXF89keznKa6fD/f6akMJFBulrA=
+Modified: 638912037978330340
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common.yml
+ID: "7d65620b-cfaa-44e5-ba09-8ac25d316254"
+Parent: "b49deb1c-2483-49f5-89f1-160687989c69"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Marketing Sites/Common
+Signature: /s9Wv6HlBI0rz5tKhIgPGxv0LhX1lsn+EHA0w+Y5ssg=
+Modified: 638912037976819305
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Rendering Parameters\FeatureSection.yml
+ID: "60ced685-864f-4c53-9986-7a6f20d2cebb"
+Parent: "448d3a3c-2ab5-4e7c-b79f-8ed671b3cb4f"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Rendering Parameters/FeatureSection
+Signature: 7AO2ew6lmARsGynjPL7OFM3Gt1ngNy7JhukciPfG6m4=
+Modified: 638912037978468526
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA.yml
+ID: "edbe7155-b077-4d53-81a5-18e9dc742d3a"
+Parent: "b49deb1c-2483-49f5-89f1-160687989c69"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA
+Signature: +rKuxRCFv0xJC3qwvNic88cjQdw1Tr8Wc4e6f3D1APY=
+Modified: 638912037976839405
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Rendering Parameters\Stats Section.yml
+ID: "8c635a43-d4b3-4f35-9096-309f21b0daf6"
+Parent: "448d3a3c-2ab5-4e7c-b79f-8ed671b3cb4f"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Rendering Parameters/Stats Section
+Signature: tTbRa6BJUPsuxAZ+97xxNDbDfsyX4hUNcb/fkGEgsbg=
+Modified: 638912037978488632
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Footer.yml
+ID: "af0da90e-7489-46ba-8fbd-f607d4d3d0c6"
+Parent: "7d65620b-cfaa-44e5-ba09-8ac25d316254"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Footer
+Signature: Cx96gm1T53ghCO8FaLXM3B6uQQKxGxB8+WqWMNXfDHY=
+Modified: 638912037976859503
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Footer\Footer\Footer.yml
+ID: "d9c728ad-0cd4-4d6a-9980-6c97259a7425"
+Parent: "5a22b4fb-b33d-4fc8-84e5-1467e3447d35"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Footer/Footer/Footer
+Signature: FqhpY6cuePlLY4KUBISdudDHZbQkUmuqih2/VUH45IY=
+Modified: 638912037978508732
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Header.yml
+ID: "bc94d33a-5b07-4073-ab81-27ae68faf0a4"
+Parent: "7d65620b-cfaa-44e5-ba09-8ac25d316254"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Header
+Signature: JuRPM4lzy7EzzNU891JRxiUxjOUcUIMIBU39SBFqbd0=
+Modified: 638912037976859503
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Footer\Footer\Social Links.yml
+ID: "266aa2f7-0ee3-4826-a2a3-9afb78e2de0a"
+Parent: "5a22b4fb-b33d-4fc8-84e5-1467e3447d35"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Footer/Footer/Social Links
+Signature: zh/ZodyIgt7gLgozWUtWBsWUzHb/dBzx9Wc89WDrzCw=
+Modified: 638912037978528846
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Logo.yml
+ID: "96185e83-b909-4f9b-9768-6c2bcf0c5dbd"
+Parent: "7d65620b-cfaa-44e5-ba09-8ac25d316254"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Logo
+Signature: 8+SH7oqkNs3TQiPn8lTMmtMAZ1IzP8eCJdS902jFLuM=
+Modified: 638912037976909972
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Footer\Footer\__Standard Values.yml
+ID: "3e317e22-80af-4c20-a166-3670fc740877"
+Parent: "5a22b4fb-b33d-4fc8-84e5-1467e3447d35"
+Template: "5a22b4fb-b33d-4fc8-84e5-1467e3447d35"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Footer/Footer/__Standard Values
+Signature: fnr7hf+OD4DcsKEQ+bmIUeUogqvmluep61hduPxLZro=
+Modified: 638912037980507502
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Footer\Footer.yml
+ID: "5a22b4fb-b33d-4fc8-84e5-1467e3447d35"
+Parent: "af0da90e-7489-46ba-8fbd-f607d4d3d0c6"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Footer/Footer
+Signature: Lu9rrISiEQvhp69V+w2q2LzGbf5ZtnTaKzDnuEGo9Ws=
+Modified: 638912037977430730
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Footer\Footer Folder\__Standard Values.yml
+ID: "ca685ad2-59f2-4a2d-875c-3fb6e8db3c3e"
+Parent: "5261c1d8-3d72-4069-8b19-0930a770b5af"
+Template: "5261c1d8-3d72-4069-8b19-0930a770b5af"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Footer/Footer Folder/__Standard Values
+Signature: PlknTbRTPLXObpqNkgah1Az0hMVUUjcf5nCs2rKRZG4=
+Modified: 638912037980527515
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Rendering Parameters\Base Container.yml
+ID: "a157b98a-b3c5-4369-bc74-19cdee2465a2"
+Parent: "b1e0b115-dc9f-4b3e-a013-89580eedbb39"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Rendering Parameters/Base Container
+Signature: Js34Tkrxuqw2ws9ekYBsNHnihi8fYAHnQ8xgfcjhm5M=
+Modified: 638912037977579471
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Header\Header\Header Details.yml
+ID: "4c9fc077-c00c-4b73-9460-651b63fd90bc"
+Parent: "329ebe29-f9ff-453a-ad8f-24b667ab00f5"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Header/Header/Header Details
+Signature: 5TM8msyTa7iIb0TaZvSwgdACuYOBxQoyCFgvc4BzzW8=
+Modified: 638912037978546372
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Rendering Parameters\Footer.yml
+ID: "72b8c21f-fa5c-4c55-8a4e-f460ea20fe64"
+Parent: "b1e0b115-dc9f-4b3e-a013-89580eedbb39"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Rendering Parameters/Footer
+Signature: r6QUs691ZIT6CxQ7TQttI/Zk0ThM//m73/nHSG/I+FM=
+Modified: 638912037977619647
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Header\Header\__Standard Values.yml
+ID: "84d097fe-6696-4736-97f8-f08c80a9ce06"
+Parent: "329ebe29-f9ff-453a-ad8f-24b667ab00f5"
+Template: "329ebe29-f9ff-453a-ad8f-24b667ab00f5"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Header/Header/__Standard Values
+Signature: w0wAifUYnPPwzg1zgydQRPMTOfnkIXrU/7Ui8vrnwLA=
+Modified: 638912037980567539
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Slick Carousel\Carousel Folder.yml
+ID: "95b1bf0b-e3eb-4b81-b41f-be305fa7a72c"
+Parent: "a4c1d100-f958-4512-87f9-ba098250d58d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Slick Carousel/Carousel Folder
+Signature: 5z/nTfQbflQnN9PE8T7Mbvq73a6EUgFyb/azaQicOnM=
+Modified: 638912037978010724
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Header\Header Folder\__Standard Values.yml
+ID: "8b8574c4-e529-499f-978a-37535792ae69"
+Parent: "b1e302ad-21d7-4f59-83b0-ec60d4c13387"
+Template: "b1e302ad-21d7-4f59-83b0-ec60d4c13387"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Header/Header Folder/__Standard Values
+Signature: NGONy6t77z6nQ3/m5LaLmfWAHc23J1qMsCCt0L69yEY=
+Modified: 638912037980617539
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Logos Folder.yml
+ID: "5c0b4670-365f-40d3-8725-4e28f40f53af"
+Parent: "7d65620b-cfaa-44e5-ba09-8ac25d316254"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Logos Folder
+Signature: mE4n6IiGiUsE9UM9msYI4ge3TVA3pFqVj6Zb5Zjlmxo=
+Modified: 638912037976920235
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Slick Carousel\Carousel Slide.yml
+ID: "53319fa0-dfc5-45d4-98ec-c68f9abb660a"
+Parent: "a4c1d100-f958-4512-87f9-ba098250d58d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Slick Carousel/Carousel Slide
+Signature: SoWpK2nNzxN9li7GL2/8mmNUdu67Aj7EMrTJSAMOnEU=
+Modified: 638912037978249944
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Logo\Details\logo.yml
+ID: "0d01bcbf-184a-4368-835e-a6c72f9e0f50"
+Parent: "52785757-effd-4462-bf98-d617b27a09ce"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Logo/Details/logo
+Signature: Gzm/EdHEqGUfydTiSjsgVtH6e1MG4c5oQcvZD/kcSZA=
+Modified: 638912037978615235
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Option.yml
+ID: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Parent: "7d65620b-cfaa-44e5-ba09-8ac25d316254"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Option
+Signature: 3bXrPpMH+4b0HZhCgl53FqHMZZ1RdLnlW3rkNKGXRks=
+Modified: 638912037976920235
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Slick Carousel\Carousel.yml
+ID: "76ee3eb6-3655-4a75-a65c-ca2c63d4a63f"
+Parent: "a4c1d100-f958-4512-87f9-ba098250d58d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Slick Carousel/Carousel
+Signature: P5MCulRJbStKH/uo39vNDYs1n1hdtFeNglR+OjtHt0U=
+Modified: 638912037978010724
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Option\Details\name.yml
+ID: "358ac0fb-2abe-4aba-a3c8-36bff7b17cc4"
+Parent: "680c2948-e48f-4b9d-83a2-e5b59a516585"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Option/Details/name
+Signature: /4giYuEwuJ8J1V6uINMmBolutVxtKBrmUHRUAHsgkYQ=
+Modified: 638912037978635338
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Options Folder.yml
+ID: "e886bb34-2334-47d7-b3df-cddfcbb32655"
+Parent: "7d65620b-cfaa-44e5-ba09-8ac25d316254"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Options Folder
+Signature: wT4bXCT6/ota2v/a6LTPPt6Ak+aU5xYZfGL4l6pco5M=
+Modified: 638912037977195831
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Stats Section\Stats Card.yml
+ID: "08c67ac3-d476-474a-a479-4c376627de6d"
+Parent: "534eb271-440c-4429-9d68-00c650f6fbb6"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Stats Section/Stats Card
+Signature: uYIkig+YeMcV3vIQiOV6DQSjfCQ+TW/gtxElwuEOxxs=
+Modified: 638912037978270043
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Rendering Parameters\Base Container\Styling.yml
+ID: "84376bd5-561d-465c-a7a4-d5fef845499e"
+Parent: "a157b98a-b3c5-4369-bc74-19cdee2465a2"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Rendering Parameters/Base Container/Styling
+Signature: nhLWawIrqPQMKH8nImRzjvKnB6WrXcVWxyaCIf2s0ig=
+Modified: 638912037978695659
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Rendering Parameters.yml
+ID: "b1e0b115-dc9f-4b3e-a013-89580eedbb39"
+Parent: "7d65620b-cfaa-44e5-ba09-8ac25d316254"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Rendering Parameters
+Signature: 7gC33RqtldGZNWF8QBO5d68dliP3De4rMMBO5GVXxqk=
+Modified: 638912037977195831
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Rendering Parameters\CalloutBanner\__Standard Values.yml
+ID: "c4312951-dcc6-4f39-aab7-ff80a6b24636"
+Parent: "d4288343-d4cd-4951-a552-133519ea17b7"
+Template: "d4288343-d4cd-4951-a552-133519ea17b7"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Rendering Parameters/CalloutBanner/__Standard Values
+Signature: kdSB0HetJ3nICfVKRwAhKGq13ivmNZT5pzYqVZrWNzA=
+Modified: 638912037981160097
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Rendering Parameters\Base Container\__Standard Values.yml
+ID: "0587a516-b4f1-4bf8-bea4-3530f0ffe7ad"
+Parent: "a157b98a-b3c5-4369-bc74-19cdee2465a2"
+Template: "a157b98a-b3c5-4369-bc74-19cdee2465a2"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Rendering Parameters/Base Container/__Standard Values
+Signature: X1yuIWPBkoH2yKahVPWyGthz17pgUGamOJKxhS/Uh6Q=
+Modified: 638912037980627531
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Callout Banner.yml
+ID: "2e5704aa-fba6-4b96-9b5c-4cf9f857ed28"
+Parent: "edbe7155-b077-4d53-81a5-18e9dc742d3a"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Callout Banner
+Signature: nOvth0JVQYFmWLqevaPja6Y5bnC/Sam3hFMsjyBOHr4=
+Modified: 638912037977252385
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Rendering Parameters\Carousel\__Standard Values.yml
+ID: "c3089245-da7d-42e8-aea2-b49e6c3bed7b"
+Parent: "999da143-f850-47b5-9403-8e73fa862894"
+Template: "999da143-f850-47b5-9403-8e73fa862894"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Rendering Parameters/Carousel/__Standard Values
+Signature: Hqq6o5KauAEc3W4fctFBSyuege3Eht/48rDBX32iBTc=
+Modified: 638912037981180226
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Rendering Parameters\Footer\__Standard Values.yml
+ID: "d14f3146-39b5-4fbd-97f4-a87b4e4de8ad"
+Parent: "72b8c21f-fa5c-4c55-8a4e-f460ea20fe64"
+Template: "72b8c21f-fa5c-4c55-8a4e-f460ea20fe64"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Rendering Parameters/Footer/__Standard Values
+Signature: YUx56Lay1Ju0vUcO02MhL3y4RN5rhceR4SDYZ7Jwl7w=
+Modified: 638912037980647534
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Feature Section.yml
+ID: "376cfe11-92c8-4570-a252-106ea309a044"
+Parent: "edbe7155-b077-4d53-81a5-18e9dc742d3a"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Feature Section
+Signature: 9sDBBMz1+Tu7G3UBkuY7J21sUyhqi+21h2Vahy5sHsY=
+Modified: 638912037977310196
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Callout Banner\CalloutBanner\CTA Links\firstCtaStyle.yml
+ID: "0092cbd8-d3e2-44b7-9237-6a3fc4d8d4b0"
+Parent: "78ee60a2-37f6-48b0-95a3-59e861705e9c"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Callout Banner/CalloutBanner/CTA Links/firstCtaStyle
+Signature: rh4cTH5owYgdozKB7tfPZnbDtf5QWToCOGxnrnF/VCA=
+Modified: 638912037979389697
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Rendering Parameters\Header\__Standard Values.yml
+ID: "5f12b5d8-21bf-4395-8592-a87d386df4c2"
+Parent: "69555c5a-72f1-4ebe-a82c-b4833b91f642"
+Template: "69555c5a-72f1-4ebe-a82c-b4833b91f642"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Rendering Parameters/Header/__Standard Values
+Signature: YfHbhGlwoFQCUdKjh6sZAeQC99gj6v3EObDbgtdvBXA=
+Modified: 638912037980657499
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Rendering Parameters.yml
+ID: "448d3a3c-2ab5-4e7c-b79f-8ed671b3cb4f"
+Parent: "edbe7155-b077-4d53-81a5-18e9dc742d3a"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Rendering Parameters
+Signature: h50llD4ivAiTurj0KGvsDd9kK8YrsFOiiDZNXPB+6Gc=
+Modified: 638912037977410551
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Callout Banner\CalloutBanner\CTA Links\secondCta.yml
+ID: "4109468d-1216-481a-9df2-017ecd8d0fc1"
+Parent: "78ee60a2-37f6-48b0-95a3-59e861705e9c"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Callout Banner/CalloutBanner/CTA Links/secondCta
+Signature: drAoOkIGtgPjMCP1EaUm9qVhMS9h/ITrZuZheZufV0A=
+Modified: 638914677752380787
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Callout Banner\CalloutBanner\Callout Banner.yml
+ID: "a840284b-5e45-46d5-825a-56142cde23ab"
+Parent: "0ea559cc-ef81-453c-bf36-48c472039793"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Callout Banner/CalloutBanner/Callout Banner
+Signature: a+s9BnRLRjGCz4HX9UfCEkg8ispIGEAAXYcHuatIPQw=
+Modified: 638912037978725863
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Slick Carousel.yml
+ID: "a4c1d100-f958-4512-87f9-ba098250d58d"
+Parent: "edbe7155-b077-4d53-81a5-18e9dc742d3a"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Slick Carousel
+Signature: j+/qKMm+DXwNEEVQcHgVLWItUnZBI9cw8Y9h0vmzQeU=
+Modified: 638912037977375540
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Feature Section\Feature\Feature Details\icon.yml
+ID: "b02bf0e2-b97a-47c0-b02a-a43ac0371cc9"
+Parent: "93b8fbb2-8c22-4ae2-bbaf-82cd45f644b9"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Feature Section/Feature/Feature Details/icon
+Signature: 6OF9dGrPZ+tY7rzSIO6n2kgwcHcx3uWv5stbZmnL+3A=
+Modified: 638912037979510361
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Callout Banner\CalloutBanner\CTA Links.yml
+ID: "78ee60a2-37f6-48b0-95a3-59e861705e9c"
+Parent: "0ea559cc-ef81-453c-bf36-48c472039793"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Callout Banner/CalloutBanner/CTA Links
+Signature: uYlEZDNrH8F40Xb8mH/j8an5LlvHwkzBTO5lsP/QDZw=
+Modified: 638912037978725863
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Stats Section.yml
+ID: "534eb271-440c-4429-9d68-00c650f6fbb6"
+Parent: "edbe7155-b077-4d53-81a5-18e9dc742d3a"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Stats Section
+Signature: U9wVQSvLcKLNzdz6OUXw8AMsbMG6k8PVnQSPqJNzk/c=
+Modified: 638912037977395638
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Feature Section\Feature\Feature Details\link.yml
+ID: "c1804b44-ef1c-4d83-880a-7dbde013e7b9"
+Parent: "93b8fbb2-8c22-4ae2-bbaf-82cd45f644b9"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Feature Section/Feature/Feature Details/link
+Signature: OpJmNVszF5gmJSML5r1Dmz46qXgcUCmCripg0Ktxano=
+Modified: 638912037979527859
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Callout Banner\CalloutBanner\Partner Details.yml
+ID: "0d391fcc-5672-4902-8675-7af57ed288ef"
+Parent: "0ea559cc-ef81-453c-bf36-48c472039793"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Callout Banner/CalloutBanner/Partner Details
+Signature: nOqtIAPMQPdw8iOP0l2UW/xkmhOfyNDRYWZUmNVqKig=
+Modified: 638912037978784503
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Footer\Footer Folder.yml
+ID: "5261c1d8-3d72-4069-8b19-0930a770b5af"
+Parent: "af0da90e-7489-46ba-8fbd-f607d4d3d0c6"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Footer/Footer Folder
+Signature: UvwOyilGyXvuzENPNIGGEN1NvoMLqC4WuiCi73cVjDw=
+Modified: 638912037977430730
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Feature Section\FeatureSection\Features\features.yml
+ID: "76d2394a-1014-49e5-b0c0-794732711ba8"
+Parent: "074ba2ee-0139-4f9a-bd6d-e8c922f4a83c"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Feature Section/FeatureSection/Features/features
+Signature: PDXFGEAYkEpgTMtgDZ0gGoNb1PqbIxal6vHhsmlz6jw=
+Modified: 638912099330881877
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Callout Banner\CalloutBanner\__Standard Values.yml
+ID: "298e3e64-1c59-42d1-b9f2-398732f3b18c"
+Parent: "0ea559cc-ef81-453c-bf36-48c472039793"
+Template: "0ea559cc-ef81-453c-bf36-48c472039793"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Callout Banner/CalloutBanner/__Standard Values
+Signature: FAWhwTn7Ngn2qV3I1fep7ha3DqUubFoL37jeZgwRrzQ=
+Modified: 638912037980667537
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Header\Header Folder.yml
+ID: "b1e302ad-21d7-4f59-83b0-ec60d4c13387"
+Parent: "bc94d33a-5b07-4073-ab81-27ae68faf0a4"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Header/Header Folder
+Signature: 8oChKNZPelGYE8GjaZraQfjLZQCkaQX1O53Or9VdXyI=
+Modified: 638912037977468378
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Slick Carousel\Carousel\Carousel\slides.yml
+ID: "40deabf1-baa7-4b17-8453-7fa26eb9375e"
+Parent: "1f019ef6-4b12-4321-bda2-31fd44a235da"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Slick Carousel/Carousel/Carousel/slides
+Signature: RnHaetxxuXvIS3a40pvE15hOB5/jzEWqatNHOccRjLY=
+Modified: 638912037979628387
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Callout Banner\CalloutBanner Folder\__Standard Values.yml
+ID: "bf452bb9-2c39-4368-a6be-0346f12369f3"
+Parent: "ccf20d8e-e796-45ca-8bf6-77a7d9ca3e96"
+Template: "ccf20d8e-e796-45ca-8bf6-77a7d9ca3e96"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Callout Banner/CalloutBanner Folder/__Standard Values
+Signature: C6IYJuTbmqdKZW/YKF9I3dfcAhEHbWL7l+HL6xB86P0=
+Modified: 638912037980727586
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Header\Header.yml
+ID: "329ebe29-f9ff-453a-ad8f-24b667ab00f5"
+Parent: "bc94d33a-5b07-4073-ab81-27ae68faf0a4"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Header/Header
+Signature: lBe3siB67dQ4fmYlRRBNZGPv6oVgceh7q0/gFCH1nvk=
+Modified: 638912037977448285
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Feature Section\Feature\Feature Details.yml
+ID: "93b8fbb2-8c22-4ae2-bbaf-82cd45f644b9"
+Parent: "09221d67-8977-4664-9388-1b62827ef5e0"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Feature Section/Feature/Feature Details
+Signature: V8r9f7SxR4OfM/Bhe+aAQu0e+APnfCGaXkLXekiTUuQ=
+Modified: 638912037978804496
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Logo\Details.yml
+ID: "52785757-effd-4462-bf98-d617b27a09ce"
+Parent: "96185e83-b909-4f9b-9768-6c2bcf0c5dbd"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Logo/Details
+Signature: 3LcomWzC6nxGc8cxwuEOnIu/9ECtpxcVje4AMZFNVno=
+Modified: 638912037977488482
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Feature Section\Feature\__Standard Values.yml
+ID: "fc2ab417-32e3-4eeb-91f1-4815d363bf9b"
+Parent: "09221d67-8977-4664-9388-1b62827ef5e0"
+Template: "09221d67-8977-4664-9388-1b62827ef5e0"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Feature Section/Feature/__Standard Values
+Signature: ngspOysMxfVRoP/2U5PqYhQM+LKrL+QX6UoGb3pceDU=
+Modified: 638914677752217457
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Logos Folder\__Standard Values.yml
+ID: "d07df07a-657b-404d-96fb-7b09b08fbf36"
+Parent: "5c0b4670-365f-40d3-8725-4e28f40f53af"
+Template: "5c0b4670-365f-40d3-8725-4e28f40f53af"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Logos Folder/__Standard Values
+Signature: y8+lktHsoTJqRoBb9qXRVKgWS50d7vL5XkbHxutTSUc=
+Modified: 638912037980192296
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Feature Section\FeatureSection\Features.yml
+ID: "074ba2ee-0139-4f9a-bd6d-e8c922f4a83c"
+Parent: "eb59fce7-45aa-4645-8148-1eccaae39aae"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Feature Section/FeatureSection/Features
+Signature: ABiN1SuoWAesYm+T1kvhrw2kajQ1a4pBzfy7FxqDiRY=
+Modified: 638912099330866769
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Option\Details.yml
+ID: "680c2948-e48f-4b9d-83a2-e5b59a516585"
+Parent: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Option/Details
+Signature: xYXQQh5DfSsl1mT9T/f5WkRUDwLubkO4nu4pQSy2azA=
+Modified: 638912037977579471
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Feature Section\FeatureSection\__Standard Values.yml
+ID: "96f7a769-58af-4f1b-90d8-0cd11c90756d"
+Parent: "eb59fce7-45aa-4645-8148-1eccaae39aae"
+Template: "eb59fce7-45aa-4645-8148-1eccaae39aae"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Feature Section/FeatureSection/__Standard Values
+Signature: Q3dtHxOi7nYjalsajiK9nueUVkvgHn3j4kg69NqhrRQ=
+Modified: 638912099330896871
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Option\__Standard Values.yml
+ID: "42ed6c1a-fb8a-45c7-8d8d-37727cc1a8e4"
+Parent: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Template: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Option/__Standard Values
+Signature: eWZFA6o3fs7MIWzbQ5TCGE8E1TMH8PGcdmkHf4iuiJw=
+Modified: 638912037980212332
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Feature Section\FeatureSection Folder\__Standard Values.yml
+ID: "f9d372d6-689e-4033-9e1b-0c14ad7254e5"
+Parent: "6c3bd0b6-bcb9-4d8f-b1e7-bba30ad12516"
+Template: "6c3bd0b6-bcb9-4d8f-b1e7-bba30ad12516"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Feature Section/FeatureSection Folder/__Standard Values
+Signature: 4pADNLe5q9sTLNe51XqClfB8B93TOUf/xDp6NS1QjAw=
+Modified: 638912037980866236
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Rendering Parameters\Header.yml
+ID: "69555c5a-72f1-4ebe-a82c-b4833b91f642"
+Parent: "b1e0b115-dc9f-4b3e-a013-89580eedbb39"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Rendering Parameters/Header
+Signature: h9IiuRXuomzxMcHspaNzqHlgLyTkRFeiLVPB79l3Wgc=
+Modified: 638912037977639783
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Slick Carousel\Carousel Folder\__Standard Values.yml
+ID: "a9304b73-6e8a-47d4-aba6-6d3e0b36797b"
+Parent: "95b1bf0b-e3eb-4b81-b41f-be305fa7a72c"
+Template: "95b1bf0b-e3eb-4b81-b41f-be305fa7a72c"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Slick Carousel/Carousel Folder/__Standard Values
+Signature: ds9w7BlcPrahcex45eACUfFbl5n+Q3y1RDhdhngKpHM=
+Modified: 638912037980911355
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Callout Banner\CalloutBanner Folder.yml
+ID: "ccf20d8e-e796-45ca-8bf6-77a7d9ca3e96"
+Parent: "2e5704aa-fba6-4b96-9b5c-4cf9f857ed28"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Callout Banner/CalloutBanner Folder
+Signature: JgmRp2FdK40kCm4coTalW4pr0EIdfIZduvaYC/kUmGk=
+Modified: 638912037977859802
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Slick Carousel\Carousel Slide\Slide Details.yml
+ID: "0ac40a7b-37ab-4a34-a967-b314be85c3d5"
+Parent: "53319fa0-dfc5-45d4-98ec-c68f9abb660a"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Slick Carousel/Carousel Slide/Slide Details
+Signature: E9bBWCU3V/XX4hewkHcptx2X5UNlW7uvcbVVwWxAskU=
+Modified: 638912037978854519
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Feature Section\Feature.yml
+ID: "09221d67-8977-4664-9388-1b62827ef5e0"
+Parent: "376cfe11-92c8-4570-a252-106ea309a044"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Feature Section/Feature
+Signature: 8ZaK8hLWPmMHLs0BFX3ztra075HbvYfdACvMzLg2I7g=
+Modified: 638912037977879904
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Stats Section\Stats Card\Stats Card Details.yml
+ID: "419d040b-18c6-4e41-9849-b60ed3c48ee4"
+Parent: "08c67ac3-d476-474a-a479-4c376627de6d"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Stats Section/Stats Card/Stats Card Details
+Signature: eKKwLb0sQml2GqsXe8JIFPBRiTtpWxtGICTBAIy0+7M=
+Modified: 638912037978864507
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Feature Section\FeatureSection Folder.yml
+ID: "6c3bd0b6-bcb9-4d8f-b1e7-bba30ad12516"
+Parent: "376cfe11-92c8-4570-a252-106ea309a044"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Feature Section/FeatureSection Folder
+Signature: /1yzRUIz1eBtmf4rQcI21nCAhZr8ckW5UkdRNQcvVrw=
+Modified: 638912037977990618
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Stats Section\Stats Card\__Standard Values.yml
+ID: "b02e9625-bbb2-452f-96da-a2eb7d7b3442"
+Parent: "08c67ac3-d476-474a-a479-4c376627de6d"
+Template: "08c67ac3-d476-474a-a479-4c376627de6d"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Stats Section/Stats Card/__Standard Values
+Signature: z7UBd/dO4PD0sWdkg9FUj+4nIK91XDRbltF8fDYcYec=
+Modified: 638912037981079760
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Feature Section\FeatureSection.yml
+ID: "eb59fce7-45aa-4645-8148-1eccaae39aae"
+Parent: "376cfe11-92c8-4570-a252-106ea309a044"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Feature Section/FeatureSection
+Signature: yWrzLGgW6XqtfnGvrKiK9HVVI5bySBc01/IAfgq+EZA=
+Modified: 638912099330846756
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Stats Section\StatsSection\Stats.yml
+ID: "8c0f27a4-df87-4878-ab25-61afe367287e"
+Parent: "3b5bb909-86df-4ee8-a4d6-9b2f9ae8762f"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Stats Section/StatsSection/Stats
+Signature: yLcHsRgrmn36MrGLO1/ugwI4axSIfF6RFkd0LPcH5Mw=
+Modified: 638912037978913553
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Rendering Parameters\CalloutBanner.yml
+ID: "d4288343-d4cd-4951-a552-133519ea17b7"
+Parent: "448d3a3c-2ab5-4e7c-b79f-8ed671b3cb4f"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Rendering Parameters/CalloutBanner
+Signature: 0vOlutmnYmyW3izJttp1VspyaLUmBRib4+BK15uqbjE=
+Modified: 638912037978310248
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Stats Section\StatsSection\__Standard Values.yml
+ID: "3a4bd1a5-e1d2-4b6a-9b84-8adc22ecb22b"
+Parent: "3b5bb909-86df-4ee8-a4d6-9b2f9ae8762f"
+Template: "3b5bb909-86df-4ee8-a4d6-9b2f9ae8762f"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Stats Section/StatsSection/__Standard Values
+Signature: VAYgBaCVFxK4qWQOF43eU0tllYTByiBOAEiaXklG2CI=
+Modified: 638912037981119916
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Stats Section\StatsSection Folder.yml
+ID: "44abe286-2391-41ee-99a6-cc67d107bdb0"
+Parent: "534eb271-440c-4429-9d68-00c650f6fbb6"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Stats Section/StatsSection Folder
+Signature: st5XE6ewz2IHpor4H7qEUJ+Bmb7uFGYKCvMJGOsc0Dk=
+Modified: 638912037978310248
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Stats Section\StatsSection Folder\__Standard Values.yml
+ID: "5edd152e-1bbb-4724-86e3-7ee2a5806ba5"
+Parent: "44abe286-2391-41ee-99a6-cc67d107bdb0"
+Template: "44abe286-2391-41ee-99a6-cc67d107bdb0"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Stats Section/StatsSection Folder/__Standard Values
+Signature: UQkolwvBGosVsqZ31xk1gjbhdeTG/OjbkRXykcQU+8s=
+Modified: 638912037981140001
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Stats Section\StatsSection.yml
+ID: "3b5bb909-86df-4ee8-a4d6-9b2f9ae8762f"
+Parent: "534eb271-440c-4429-9d68-00c650f6fbb6"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Stats Section/StatsSection
+Signature: 3N8I5YaETpqh54RHQFUlpXHHwbPd3lly+jWOCqsN0H0=
+Modified: 638912037978290155
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Footer\Footer\Footer\brandLogo.yml
+ID: "a0cd1595-19f0-452c-bfbb-bcb935dc7b2a"
+Parent: "d9c728ad-0cd4-4d6a-9980-6c97259a7425"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Footer/Footer/Footer/brandLogo
+Signature: QLWF3XxtMzho+L7DUZQnAKJrp/jUkHfqv3BAKSib7TQ=
+Modified: 638912037978913553
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Rendering Parameters\FeatureSection\__Standard Values.yml
+ID: "c66974a2-a36d-4a0c-8e98-114eeafbc760"
+Parent: "60ced685-864f-4c53-9986-7a6f20d2cebb"
+Template: "60ced685-864f-4c53-9986-7a6f20d2cebb"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Rendering Parameters/FeatureSection/__Standard Values
+Signature: Id2+4NzUZhHywzSUQa8WpBZNwZcZ8xoFYeOXUE5BkP0=
+Modified: 638912037981190332
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Callout Banner\CalloutBanner\CTA Links\secondCtaIcon.yml
+ID: "6e5c0c34-162f-4ffd-8481-4055e9bc2db6"
+Parent: "78ee60a2-37f6-48b0-95a3-59e861705e9c"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Callout Banner/CalloutBanner/CTA Links/secondCtaIcon
+Signature: JkeNwTFbgrVAhovDvfNEEqi/zRPdvZlZjSFZfPJ/JB4=
+Modified: 638912037979429952
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Rendering Parameters\Stats Section\__Standard Values.yml
+ID: "6d14bb10-67bc-4ee5-8e09-96dd74ac650d"
+Parent: "8c635a43-d4b3-4f35-9096-309f21b0daf6"
+Template: "8c635a43-d4b3-4f35-9096-309f21b0daf6"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Rendering Parameters/Stats Section/__Standard Values
+Signature: uOaEEOhDQk71Oj97z3q7ELwTuDLxzS+XFN8ahKXM/E8=
+Modified: 638912037981230519
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Callout Banner\CalloutBanner\CTA Links\secondCtaStyle.yml
+ID: "023daae8-c809-4658-864a-40bbb2aa223d"
+Parent: "78ee60a2-37f6-48b0-95a3-59e861705e9c"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Callout Banner/CalloutBanner/CTA Links/secondCtaStyle
+Signature: BpO9a2L9c8Hf0PMWWgf3nUnRZApkU8LJItDr7YgJY2I=
+Modified: 638912037979429952
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Slick Carousel\Carousel\Carousel.yml
+ID: "1f019ef6-4b12-4321-bda2-31fd44a235da"
+Parent: "76ee3eb6-3655-4a75-a65c-ca2c63d4a63f"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Slick Carousel/Carousel/Carousel
+Signature: FP+h9DlC/oM9tkZPE702PzQ4JXYwVRUSiaf6rrTqg8k=
+Modified: 638912037978834482
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Callout Banner\CalloutBanner\Partner Details\partnerLogos.yml
+ID: "cb9da773-8315-4cd6-b4a9-ee198b86e3ca"
+Parent: "0d391fcc-5672-4902-8675-7af57ed288ef"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Callout Banner/CalloutBanner/Partner Details/partnerLogos
+Signature: bZ34I7c5gTud7r8apD/z3IHK7nrrjOFK1E+gRZ0xWqc=
+Modified: 638914677752400900
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Slick Carousel\Carousel\__Standard Values.yml
+ID: "c71c0ffb-ed09-4111-8d16-eed8989eea8d"
+Parent: "76ee3eb6-3655-4a75-a65c-ca2c63d4a63f"
+Template: "76ee3eb6-3655-4a75-a65c-ca2c63d4a63f"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Slick Carousel/Carousel/__Standard Values
+Signature: GmdkpCvpcfz9rEbh1r6CueQLqe4DwKAOtMvB1+PVQv4=
+Modified: 638912037980876244
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Callout Banner\CalloutBanner\Partner Details\partnerTitle.yml
+ID: "04927903-b64a-41d1-b8a3-ab126736d89d"
+Parent: "0d391fcc-5672-4902-8675-7af57ed288ef"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Callout Banner/CalloutBanner/Partner Details/partnerTitle
+Signature: czYzNqZ/Uwofi+iLOkWuNYO/LuinX2gGBD5FGb1+iyc=
+Modified: 638914677752390889
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Footer\Footer\Footer\copyrightText.yml
+ID: "c6c9118a-8041-4740-b5c1-846d206507de"
+Parent: "d9c728ad-0cd4-4d6a-9980-6c97259a7425"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Footer/Footer/Footer/copyrightText
+Signature: FXHSeSFP5fweHN6Vnl89U7AJ6zFAeoQAjloiE08wNAk=
+Modified: 638912037978933658
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Slick Carousel\Carousel Slide\Slide Details\image.yml
+ID: "381d7203-99f8-4240-9f4c-45153fcbcb85"
+Parent: "0ac40a7b-37ab-4a34-a967-b314be85c3d5"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Slick Carousel/Carousel Slide/Slide Details/image
+Signature: 2on80N29uhzxovm8YB/uLJ70i1H83UgaeDNxZtzdhdk=
+Modified: 638912037979936257
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Footer\Footer\Social Links\facebook.yml
+ID: "596923a9-4123-4a8d-ba6a-1842ee960aef"
+Parent: "266aa2f7-0ee3-4826-a2a3-9afb78e2de0a"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Footer/Footer/Social Links/facebook
+Signature: wYOkVPfyLh6UftvIIzmm+eKPoS2Bm6Fwpv0+vco7k64=
+Modified: 638912037979071863
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Stats Section\Stats Card\Stats Card Details\backgroundType.yml
+ID: "47edd7d8-bfce-4730-9021-9db1b0cdf5a9"
+Parent: "419d040b-18c6-4e41-9849-b60ed3c48ee4"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Stats Section/Stats Card/Stats Card Details/backgroundType
+Signature: GsBWDulc9YxsuBi+LqYcOKbxg72HvR/bISB5qBQNfaI=
+Modified: 638912037980052317
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Footer\Footer\Social Links\linkedin.yml
+ID: "3fafc509-64f5-44a4-bb44-c7cf0db1e490"
+Parent: "266aa2f7-0ee3-4826-a2a3-9afb78e2de0a"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Footer/Footer/Social Links/linkedin
+Signature: orMEGI0tEJ302oHHPylVVs3S26sZ4A3kMrPXxEI3oIg=
+Modified: 638912037979091980
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Stats Section\Stats Card\Stats Card Details\subTitle.yml
+ID: "3c9ecda9-9a02-4e6b-8a27-9f07ca684d5a"
+Parent: "419d040b-18c6-4e41-9849-b60ed3c48ee4"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Stats Section/Stats Card/Stats Card Details/subTitle
+Signature: fNr22yowo52nlJkUi3e0sHGTaSBZLkC75GzFGNn+tdo=
+Modified: 638912037979956375
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Footer\Footer\Social Links\twitter.yml
+ID: "34fc8b07-476e-417d-a54c-6d6f9b360441"
+Parent: "266aa2f7-0ee3-4826-a2a3-9afb78e2de0a"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Footer/Footer/Social Links/twitter
+Signature: 7ZyaTSUoTfu5qta6lX1hF10+VEV30zB5EoHv6HI3L2o=
+Modified: 638912037979071863
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Stats Section\Stats Card\Stats Card Details\title.yml
+ID: "a6ecd186-f732-48ea-aaea-21c31fa95fbb"
+Parent: "419d040b-18c6-4e41-9849-b60ed3c48ee4"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Stats Section/Stats Card/Stats Card Details/title
+Signature: E4+Zg95ccHS5MnZd8Sl1Rg6f6jABC6vn6RbhS1NrpLA=
+Modified: 638912037979936257
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Header\Header\Header Details\brandLogo.yml
+ID: "c27fb789-6409-4a23-a14c-623d802ad72b"
+Parent: "4c9fc077-c00c-4b73-9460-651b63fd90bc"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Header/Header/Header Details/brandLogo
+Signature: OeE4xDSe6Gk7oLKnLRCynxXqwGcXlgnEgMpMQAdtIss=
+Modified: 638912037979238685
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Stats Section\StatsSection\Stats\statsCards.yml
+ID: "42c91d09-9359-42cb-b468-a758e66295c9"
+Parent: "8c0f27a4-df87-4878-ab25-61afe367287e"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Stats Section/StatsSection/Stats/statsCards
+Signature: zkEhfyfRRtREcMzN9+HsVfkT+lnTFOfZCJm3ALeim94=
+Modified: 638912037980072305
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Header\Header\Header Details\menuItems.yml
+ID: "7d1cbb9a-67f2-4ef3-9bf9-53633cc24fc0"
+Parent: "4c9fc077-c00c-4b73-9460-651b63fd90bc"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Header/Header/Header Details/menuItems
+Signature: RrrQKmTNm0H2fW/wb5pCF+ccVEKXkUFmDvFIlV8h6pw=
+Modified: 638912037979238685
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Header\Header\Header Details\personalizedMessage.yml
+ID: "772f1a2e-b68e-4b43-b4e8-01dd37a10403"
+Parent: "4c9fc077-c00c-4b73-9460-651b63fd90bc"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Header/Header/Header Details/personalizedMessage
+Signature: 8azg/qWsEn89nwsRsmUfzAztacR9JBEfoMdLGWkMcoM=
+Modified: 638912037979319169
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\Common\Rendering Parameters\Base Container\Styling\isFullWidth.yml
+ID: "a203dc94-ca8d-4265-a495-afcbc40ea495"
+Parent: "84376bd5-561d-465c-a7a4-d5fef845499e"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Rendering Parameters/Base Container/Styling/isFullWidth
+Signature: ZyZFPquorq3Pw2VREjQtnLL2jEGntsb8gtqzccG0Aag=
+Modified: 638912037979339264
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Callout Banner\CalloutBanner\Callout Banner\description.yml
+ID: "1527b838-484a-4205-a747-69e48d9c99ba"
+Parent: "a840284b-5e45-46d5-825a-56142cde23ab"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Callout Banner/CalloutBanner/Callout Banner/description
+Signature: oT7NGchqa6TSQbSFHGqPkbN8OSm4i5rARXscKyq0kD0=
+Modified: 638914677752322665
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Callout Banner\CalloutBanner\Callout Banner\title.yml
+ID: "55f55566-ea72-4249-88b9-65a6484c10dd"
+Parent: "a840284b-5e45-46d5-825a-56142cde23ab"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Callout Banner/CalloutBanner/Callout Banner/title
+Signature: 7jydXy+3Q7pX94REId8BXNNqDOdFVVKpoFKLRWraFgY=
+Modified: 638914677752292694
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Callout Banner\CalloutBanner\CTA Links\firstCta.yml
+ID: "2ababf94-4d33-4827-9b8b-f83a01230351"
+Parent: "78ee60a2-37f6-48b0-95a3-59e861705e9c"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Callout Banner/CalloutBanner/CTA Links/firstCta
+Signature: clZ1ZuATX8D+DMz1SRWUmK3BzPqm7EnroDQxPkAUD98=
+Modified: 638914677752332662
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Feature\templates\Marketing Sites\SiteA\Callout Banner\CalloutBanner\CTA Links\firstCtaIcon.yml
+ID: "651abeef-370a-481e-8f47-d707189b8d7a"
+Parent: "78ee60a2-37f6-48b0-95a3-59e861705e9c"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Callout Banner/CalloutBanner/CTA Links/firstCtaIcon
+Signature: HKoVUFNAmeKic/VARWdNqXr2XZ4gTcw9BFy5LuaBDks=
+Modified: 638912037979409850

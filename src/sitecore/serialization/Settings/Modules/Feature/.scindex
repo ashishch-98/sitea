@@ -1,0 +1,136 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Settings\Modules\Feature\Feature\Marketing Sites\SiteA\SiteA Site Setup\Rendering Variants\Stats Section.yml
+ID: "aae90040-6a8f-404b-b74e-685faf57b2e1"
+Parent: "3c054919-105d-4548-b65f-bea815afc8a9"
+Template: "ea8a3f26-9ccd-443a-95f5-71b868a94bd0"
+Path: /sitecore/system/Settings/Feature/Marketing Sites/SiteA/SiteA Site Setup/Rendering Variants/Stats Section
+Signature: JDyoTJqOnvr2P+ug16dAsTw+09O0I5tQGiynaoH8cBI=
+Modified: 638912037976151644
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Settings\Modules\Feature\Feature\Marketing Sites\SiteA.yml
+ID: "3b1a7731-c7d0-4495-a0bb-e279158c397c"
+Parent: "c17729a8-964d-46dc-bf91-ea0938788ac2"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/system/Settings/Feature/Marketing Sites/SiteA
+Signature: bFN1ehxZu/VgQEo3Fx3+97DWCVRFUn4qUyEgvFuNItU=
+Modified: 638912037975679677
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Settings\Modules\Feature\Feature\Marketing Sites.yml
+ID: "c17729a8-964d-46dc-bf91-ea0938788ac2"
+Parent: "256655ec-8f3a-45b5-ad90-b63bc25b8067"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/system/Settings/Feature/Marketing Sites
+Signature: K64it9coC6+6MWBmRyPWq8kkRt1bDW4Jn2lSx1oiZgw=
+Modified: 638912037975668702
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Settings\Modules\Feature\Feature\Marketing Sites\SiteA\SiteA Site Setup\Add Carousels Data Item.yml
+ID: "66388fd4-a076-44fe-8c2e-274e31c32e77"
+Parent: "2718cf04-99bc-41cd-b0d2-92c83c4e1865"
+Template: "ea8a3f26-9ccd-443a-95f5-71b868a94bd0"
+Path: /sitecore/system/Settings/Feature/Marketing Sites/SiteA/SiteA Site Setup/Add Carousels Data Item
+Signature: s6ZWEYTj3JJjyrXHuYGvcGIIhByFHsdakSlN01kWSVQ=
+Modified: 638912037975875458
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Settings\Modules\Feature\Feature\Marketing Sites\SiteA\SiteA Site Setup\Add FeatureSections Data Item.yml
+ID: "46395194-ee2d-425b-a4db-d0772064a808"
+Parent: "2718cf04-99bc-41cd-b0d2-92c83c4e1865"
+Template: "ea8a3f26-9ccd-443a-95f5-71b868a94bd0"
+Path: /sitecore/system/Settings/Feature/Marketing Sites/SiteA/SiteA Site Setup/Add FeatureSections Data Item
+Signature: 1ZxLEGzaqpfT7Bg0sdjmzyKVZoCHKgdeUYQ/GccabgM=
+Modified: 638912037975895457
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Settings\Modules\Feature\Feature\Marketing Sites\SiteA\SiteA Site Setup.yml
+ID: "2718cf04-99bc-41cd-b0d2-92c83c4e1865"
+Parent: "3b1a7731-c7d0-4495-a0bb-e279158c397c"
+Template: "292ccfcd-7790-4692-856b-76014b8038e7"
+Path: /sitecore/system/Settings/Feature/Marketing Sites/SiteA/SiteA Site Setup
+Signature: wL3w1WTtu1OnBvWS5JHABXJ3rz/52Y1lbDs6NErIqGA=
+Modified: 638912037975784901
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Settings\Modules\Feature\Feature\Marketing Sites\SiteA\SiteA Site Setup\Add Footers Data Item.yml
+ID: "df3be149-faad-40f0-94e1-3f62841098ce"
+Parent: "2718cf04-99bc-41cd-b0d2-92c83c4e1865"
+Template: "ea8a3f26-9ccd-443a-95f5-71b868a94bd0"
+Path: /sitecore/system/Settings/Feature/Marketing Sites/SiteA/SiteA Site Setup/Add Footers Data Item
+Signature: Rji5sKsBMv8EJ9zUfp5Rk60q6z8qNemhwsutKaXjWxA=
+Modified: 638912037975921091
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Settings\Modules\Feature\Feature.yml
+ID: "256655ec-8f3a-45b5-ad90-b63bc25b8067"
+Parent: "087e1ea5-6280-4575-9e70-85b588db91b2"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/system/Settings/Feature
+Signature: Mcz305/7NiCnU8zeVAM4StqHv54WTCGaKg43d4J0lTU=
+Modified: 638912037975646648
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Settings\Modules\Feature\Feature\Marketing Sites\SiteA\SiteA Site Setup\Rendering Variants.yml
+ID: "3c054919-105d-4548-b65f-bea815afc8a9"
+Parent: "2718cf04-99bc-41cd-b0d2-92c83c4e1865"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/system/Settings/Feature/Marketing Sites/SiteA/SiteA Site Setup/Rendering Variants
+Signature: 9aGXPvaGnFQStubCizENX+Z+HOD899fx0s+4cdGIIs8=
+Modified: 638912037975951234
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Settings\Modules\Feature\Feature\Marketing Sites\SiteA\SiteA Tenant Setup.yml
+ID: "6589a635-8298-40c5-9e01-2379e2f438f9"
+Parent: "3b1a7731-c7d0-4495-a0bb-e279158c397c"
+Template: "141df88e-7156-4d2e-a004-c8c1a7c51e9d"
+Path: /sitecore/system/Settings/Feature/Marketing Sites/SiteA/SiteA Tenant Setup
+Signature: OnU9WDiHqLcPnj+2TAWTx8vXOeEHD1U4XcjxKXfklEE=
+Modified: 638912037975795118
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Settings\Modules\Feature\Feature\Marketing Sites\SiteA\SiteA Site Setup\Rendering Variants\Footer.yml
+ID: "b339c00c-8a10-4eaf-b32c-387425d3a746"
+Parent: "3c054919-105d-4548-b65f-bea815afc8a9"
+Template: "ea8a3f26-9ccd-443a-95f5-71b868a94bd0"
+Path: /sitecore/system/Settings/Feature/Marketing Sites/SiteA/SiteA Site Setup/Rendering Variants/Footer
+Signature: SUaUcVcMwurwzyAPsFJ1Th42k6iyxJCtK5htzIO4qTM=
+Modified: 638912037975991231
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Settings\Modules\Feature\Feature\Marketing Sites\SiteA\SiteA Site Setup\Add Headers Data Item.yml
+ID: "f83f0aff-5386-4b0d-bb67-6edf60039135"
+Parent: "2718cf04-99bc-41cd-b0d2-92c83c4e1865"
+Template: "ea8a3f26-9ccd-443a-95f5-71b868a94bd0"
+Path: /sitecore/system/Settings/Feature/Marketing Sites/SiteA/SiteA Site Setup/Add Headers Data Item
+Signature: ufl6SuFu+5jbqJhXNqzaaCvb6ZdOIwJ4i6F8GKym9b4=
+Modified: 638912037975931220
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Settings\Modules\Feature\Feature\Marketing Sites\SiteA\SiteA Site Setup\Rendering Variants\Header.yml
+ID: "10b38635-c3e3-4236-8f99-dd4368d84d0c"
+Parent: "3c054919-105d-4548-b65f-bea815afc8a9"
+Template: "ea8a3f26-9ccd-443a-95f5-71b868a94bd0"
+Path: /sitecore/system/Settings/Feature/Marketing Sites/SiteA/SiteA Site Setup/Rendering Variants/Header
+Signature: ro6MVnj/B68KlcHQRHsvK4TOG5GSYvpzqFuXN7GPqsI=
+Modified: 638912037976016435
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Settings\Modules\Feature\Feature\Marketing Sites\SiteA\SiteA Site Setup\Add Stats Sections Data Item.yml
+ID: "f8a6bed0-0f1e-4d95-89fb-8d4ce87e770f"
+Parent: "2718cf04-99bc-41cd-b0d2-92c83c4e1865"
+Template: "ea8a3f26-9ccd-443a-95f5-71b868a94bd0"
+Path: /sitecore/system/Settings/Feature/Marketing Sites/SiteA/SiteA Site Setup/Add Stats Sections Data Item
+Signature: 4KfhnUkoJPrUuMxAa5bMWNj0m1WsSQ+q1bqgl39TFkQ=
+Modified: 638912037975941216
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Settings\Modules\Feature\Feature\Marketing Sites\SiteA\SiteA Site Setup\Rendering Variants\Carousel.yml
+ID: "2add6379-3644-4c2b-8859-3e609c6a202c"
+Parent: "3c054919-105d-4548-b65f-bea815afc8a9"
+Template: "ea8a3f26-9ccd-443a-95f5-71b868a94bd0"
+Path: /sitecore/system/Settings/Feature/Marketing Sites/SiteA/SiteA Site Setup/Rendering Variants/Carousel
+Signature: J1VoMpHXlTg+RcV5mSnX/FWoi1rA/X4jTbKRYfhf8No=
+Modified: 638912037975971239

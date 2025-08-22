@@ -1,0 +1,54 @@
+﻿---
+ID: "5b0834d4-1238-4123-92fa-b0abc8ce1671"
+Parent: "76bfd7ff-d858-481d-8e01-b04f6a388009"
+Template: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options/Icons/Square Space
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T072013Z
+    - ID: "358ac0fb-2abe-4aba-a3c8-36bff7b17cc4"
+      Hint: name
+      Value: squareSpace
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "db7451cf-6a0b-457b-b976-b7c7fac6eedc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T072018Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T072013Z
+    - ID: "358ac0fb-2abe-4aba-a3c8-36bff7b17cc4"
+      Hint: name
+      Value: squareSpace
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "845a277e-cebd-4363-87c5-e2ca883bd661"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T123724Z

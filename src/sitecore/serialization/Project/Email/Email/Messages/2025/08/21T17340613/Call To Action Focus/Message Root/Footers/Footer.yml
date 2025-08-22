@@ -1,0 +1,39 @@
+﻿---
+ID: "13f55145-fe95-4484-9234-47d35bae1c9e"
+Parent: "392bd885-c568-4225-b491-1d0fcd7140c9"
+Template: "45fa579c-efe8-4a02-b3f0-9da81e6f7aa0"
+Path: /sitecore/content/Email/Messages/2025/08/21T17340613/Call To Action Focus/Message Root/Footers/Footer
+BranchID: "89f09f47-6aca-41a9-acc6-2e33a0334c0c"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{FBF300CC-139A-44A9-9154-865573A11859}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250821T173406Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f4ebc7b1-1aea-4ab5-9258-6765e2c76b02"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250821T173406Z

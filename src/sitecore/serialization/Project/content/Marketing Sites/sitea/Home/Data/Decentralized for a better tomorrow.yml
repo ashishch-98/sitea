@@ -1,0 +1,90 @@
+﻿---
+ID: "b5ec0276-5547-4118-a34a-43f25ee09b04"
+Parent: "4d8e5bbe-41ac-4a2c-a083-6f42df84fbae"
+Template: "3b5bb909-86df-4ee8-a4d6-9b2f9ae8762f"
+Path: /sitecore/content/Marketing Sites/sitea/Home/Data/Decentralized for a better tomorrow
+BranchID: "63bf881e-1ae3-4e7d-85f2-59859c3ba952"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{53DDAB7F-9E16-4B00-A5A8-183336DDA9AB}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T073818Z
+    - ID: "42c91d09-9359-42cb-b468-a758e66295c9"
+      Hint: statsCards
+      Value: |
+        {9D8B1111-BDEE-4C43-AA70-2A57E10FA2C8}
+        {7183351E-D92D-4FC8-9B6E-ED2EBC6BFE4A}
+        {F99C38C8-AA92-40D0-952B-B2024341F16C}
+        {EE8B5A2A-EA18-4EDC-85CB-E5715A4EE3B0}
+        {9641805D-5C60-4FA6-9657-5A731665E4BC}
+    - ID: "663d271d-b909-4737-b3c1-86b5157d7fb9"
+      Hint: titleTag
+      Value: "{D99E12FD-FD6E-4548-BF9F-35BFB7B4AAC5}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "70674421-fc27-4adc-8ad3-ef526ff28cf1"
+    - ID: "a61cee6d-3278-4399-987a-c8d545e6366e"
+      Hint: title
+      Value: Decentralized for a better tomorrow
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c087d406-b14d-4fa7-9c66-e0a7fc1da90f"
+      Hint: description
+      Value: Buy, trade, and hold 600+ cryptocurrencies on Flowbite
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T074202Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T073818Z
+    - ID: "42c91d09-9359-42cb-b468-a758e66295c9"
+      Hint: statsCards
+      Value: |
+        {9D8B1111-BDEE-4C43-AA70-2A57E10FA2C8}
+        {7183351E-D92D-4FC8-9B6E-ED2EBC6BFE4A}
+        {F99C38C8-AA92-40D0-952B-B2024341F16C}
+        {EE8B5A2A-EA18-4EDC-85CB-E5715A4EE3B0}
+        {9641805D-5C60-4FA6-9657-5A731665E4BC}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "663d271d-b909-4737-b3c1-86b5157d7fb9"
+      Hint: titleTag
+      Value: "{D99E12FD-FD6E-4548-BF9F-35BFB7B4AAC5}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b53863cb-2d09-4b01-9cde-4701f03d91be"
+    - ID: "a61cee6d-3278-4399-987a-c8d545e6366e"
+      Hint: title
+      Value: Decentralized for a better tomorrow
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c087d406-b14d-4fa7-9c66-e0a7fc1da90f"
+      Hint: description
+      Value: Buy, trade, and hold 600+ cryptocurrencies on Flowbite
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T123717Z

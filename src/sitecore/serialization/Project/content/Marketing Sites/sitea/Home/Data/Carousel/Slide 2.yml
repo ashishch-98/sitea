@@ -1,0 +1,64 @@
+﻿---
+ID: "f34deb19-7f3e-4e4e-8c47-8fd923a59a42"
+Parent: "3003a24c-2910-4f95-83a6-5cb5fd46d3fe"
+Template: "53319fa0-dfc5-45d4-98ec-c68f9abb660a"
+Path: /sitecore/content/Marketing Sites/sitea/Home/Data/Carousel/Slide 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T071125Z
+    - ID: "381d7203-99f8-4240-9f4c-45153fcbcb85"
+      Hint: image
+      Value: |
+        <image mediaid="{B225EE62-AA48-4EA4-8D83-54F5A76FC769}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5e81db39-d446-46ba-be28-6f2cdd9aa920"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T071134Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T071125Z
+    - ID: "381d7203-99f8-4240-9f4c-45153fcbcb85"
+      Hint: image
+      Value: |
+        <image mediaid="{B225EE62-AA48-4EA4-8D83-54F5A76FC769}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b5904566-9e09-4deb-a0d9-fff0365d04e4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T123717Z

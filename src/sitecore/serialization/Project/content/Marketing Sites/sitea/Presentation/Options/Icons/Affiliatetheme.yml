@@ -1,0 +1,54 @@
+﻿---
+ID: "1ec94105-2371-4749-b882-5b76904be2ef"
+Parent: "76bfd7ff-d858-481d-8e01-b04f6a388009"
+Template: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options/Icons/Affiliatetheme
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T072221Z
+    - ID: "358ac0fb-2abe-4aba-a3c8-36bff7b17cc4"
+      Hint: name
+      Value: affiliateTheme
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "625ff928-f6d6-4729-9ce7-783b9a331bbd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T072358Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T072221Z
+    - ID: "358ac0fb-2abe-4aba-a3c8-36bff7b17cc4"
+      Hint: name
+      Value: affiliateTheme
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "91cead02-2e27-46de-aa8f-b7ad5de9a470"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T123724Z

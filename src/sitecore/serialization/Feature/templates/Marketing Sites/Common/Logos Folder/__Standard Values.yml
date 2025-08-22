@@ -1,0 +1,37 @@
+﻿---
+ID: "d07df07a-657b-404d-96fb-7b09b08fbf36"
+Parent: "5c0b4670-365f-40d3-8725-4e28f40f53af"
+Template: "5c0b4670-365f-40d3-8725-4e28f40f53af"
+Path: /sitecore/templates/Feature/Marketing Sites/Common/Logos Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {96185E83-B909-4F9B-9768-6C2BCF0C5DBD}
+    {5C0B4670-365F-40D3-8725-4E28F40F53AF}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250817T152301Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0bf3fed0-d27a-4f03-9178-90f4497a8781"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250817T153649Z

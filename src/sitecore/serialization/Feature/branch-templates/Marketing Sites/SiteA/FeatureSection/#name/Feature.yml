@@ -1,0 +1,23 @@
+﻿---
+ID: "76613892-d9ef-4357-b99d-8b0513b01c82"
+Parent: "17f51ef8-9b34-49c0-ac63-04d5e19302ba"
+Template: "09221d67-8977-4664-9388-1b62827ef5e0"
+Path: /sitecore/templates/Branches/Feature/Marketing Sites/SiteA/FeatureSection/$name/Feature
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250819T141919Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e10990ff-ec19-4dab-bf67-7980933a30dc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250819T141919Z

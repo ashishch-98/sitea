@@ -1,0 +1,23 @@
+﻿---
+ID: "53ddab7f-9e16-4b00-a5a8-183336dda9ab"
+Parent: "63bf881e-1ae3-4e7d-85f2-59859c3ba952"
+Template: "3b5bb909-86df-4ee8-a4d6-9b2f9ae8762f"
+Path: /sitecore/templates/Branches/Feature/Marketing Sites/SiteA/StatsSection/$name
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250819T141214Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "578d525e-0439-466c-ae3b-6270b5248261"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250819T141214Z

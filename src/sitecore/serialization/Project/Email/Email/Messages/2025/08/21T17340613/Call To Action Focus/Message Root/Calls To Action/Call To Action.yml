@@ -1,0 +1,36 @@
+﻿---
+ID: "777dcc96-8d1d-4cc5-9bc9-0b4655993dcc"
+Parent: "25f6db36-ecea-4200-b27e-0da523e73aab"
+Template: "ff7f82ea-a147-4bc3-90d1-318c92aa8740"
+Path: /sitecore/content/Email/Messages/2025/08/21T17340613/Call To Action Focus/Message Root/Calls To Action/Call To Action
+BranchID: "89f09f47-6aca-41a9-acc6-2e33a0334c0c"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{AF49CB22-72A2-4964-B7F7-ABBFA5FFF02C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250821T173406Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0fb76bb9-7512-4927-bb99-d40717fce236"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250821T173406Z

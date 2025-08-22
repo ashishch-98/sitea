@@ -1,0 +1,54 @@
+﻿---
+ID: "10ca6ffb-c44d-4b71-a228-2aa9b064212c"
+Parent: "282e4764-3036-4833-8c35-a07b81a99c9c"
+Template: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options/Styles/Teal
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T075925Z
+    - ID: "358ac0fb-2abe-4aba-a3c8-36bff7b17cc4"
+      Hint: name
+      Value: teal
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f82d7bc5-328a-47e2-a64b-c94a177d1611"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T075937Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T075925Z
+    - ID: "358ac0fb-2abe-4aba-a3c8-36bff7b17cc4"
+      Hint: name
+      Value: teal
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8dc4734f-91c9-4340-906f-23d325653184"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T123724Z

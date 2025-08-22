@@ -1,0 +1,23 @@
+﻿---
+ID: "3715e350-f699-4bed-ad81-6c7fb1f798c0"
+Parent: "a327af7f-c09a-4d45-8848-20f63fbf74c4"
+Template: "329ebe29-f9ff-453a-ad8f-24b667ab00f5"
+Path: /sitecore/templates/Branches/Feature/Marketing Sites/SiteA/Header/$name
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250819T140817Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ed7cbe5-408e-490d-86c8-d17c84e708a3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250819T140817Z

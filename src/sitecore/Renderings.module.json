@@ -1,0 +1,40 @@
+{
+  "namespace": "SiteA.Renderings",
+  "items": {
+    "includes": [
+      {
+        "name": "Feature/placeholdersettings",
+        "path": "/sitecore/layout/Placeholder Settings/Project/Marketing Sites",
+        "rules": [
+          {
+            "path": "*",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          }
+        ]
+      },
+      {
+        "name": "Foundation/renderings",
+        "path": "/sitecore/layout/Renderings/Foundation/Marketing Sites",
+        "rules": [
+          {
+            "path": "*",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          }
+        ]
+      },
+      {
+        "name": "Feature/renderings",
+        "path": "/sitecore/layout/Renderings/Feature/Marketing Sites",
+        "rules": [
+          {
+            "path": "*",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          }
+        ]
+      }
+    ]
+  }
+}

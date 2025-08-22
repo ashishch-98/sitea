@@ -1,0 +1,28 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\System\Languages\Languages.yml
+ID: "64c4f646-a3fa-4205-b98e-4de2c609b60f"
+Parent: "13d6d6c6-c50b-4bbd-b331-2b04f1a58f21"
+Template: "239f9cf4-e5a0-44e0-b342-0f32cd4c6d8b"
+Path: /sitecore/system/Languages
+Signature: zILdQ2LKsMnLBag1NQxFwiNvoQPW/KxU312ViHwbypU=
+Modified: 638914677752167450
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\System\Languages\Languages\en.yml
+ID: "af584191-45c9-4201-8740-5409f4cf8bdd"
+Parent: "64c4f646-a3fa-4205-b98e-4de2c609b60f"
+Template: "f68f13a6-3395-426a-b9a1-fa2dc60d94eb"
+Path: /sitecore/system/Languages/en
+Signature: dLj58as4tjzxxJ/sXNKsWbbliflnSHnEzTL5r/ywmA8=
+Modified: 638914677752177481
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\System\Languages\Languages\es-MX.yml
+ID: "2a66284c-287c-4154-8f56-3ce12ece515c"
+Parent: "64c4f646-a3fa-4205-b98e-4de2c609b60f"
+Template: "f68f13a6-3395-426a-b9a1-fa2dc60d94eb"
+Path: "/sitecore/system/Languages/es-MX"
+Signature: QAwFO/AXauT0q7YB/hxtB7Qr270e1FHRnu5mKVqNMps=
+Modified: 638914677752187460

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration xmlns:patch="http://www.sitecore.net/xmlconfig/">
+    <sitecore>
+        <exm>
+            <eds>
+                <smtpSettings
+                    patch:instead="*[@type='Sitecore.EDS.Core.Net.Smtp.SmtpSettings, Sitecore.EDS.Core']"
+                    type="Sitecore.EDS.Core.Net.Smtp.SmtpSettings, Sitecore.EDS.Core"
+                    singleInstance="true">
+                    <server></server>
+                    <port></port>
+                    <userName></userName>
+                    <password></password>
+                    <authenticationMethod></authenticationMethod>
+                    <startTls></startTls>
+                    <proxySettings ref="exm/eds/proxySettings" />
+                </smtpSettings>
+            </eds>
+        </exm>
+    </sitecore>
+</configuration>

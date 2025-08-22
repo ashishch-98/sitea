@@ -1,0 +1,65 @@
+﻿---
+ID: "5d034df8-f84f-4c6b-b646-f8b94822d1c7"
+Parent: "40f1480f-193b-4019-9414-84378bbb81cb"
+Template: "09221d67-8977-4664-9388-1b62827ef5e0"
+Path: "/sitecore/content/Marketing Sites/sitea/Home/Data/We didnt reinvent the wheel - Feature/Themesberg"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T073538Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0613f906-0720-4434-a5fc-bef831991c7e"
+    - ID: "b02bf0e2-b97a-47c0-b02a-a43ac0371cc9"
+      Hint: icon
+      Value: "{1EC94105-2371-4749-B882-5B76904BE2EF}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c1804b44-ef1c-4d83-880a-7dbde013e7b9"
+      Hint: link
+      Value: |
+        <link text="Learn how to market your business on Themesberg." anchor="" linktype="internal" class="" title="" target="" querystring="" id="{56B7350D-C8FD-40E2-AE99-7D67018A35F7}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T073551Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T073538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "19347eb9-fbb5-429c-9bac-e75598a9fea6"
+    - ID: "b02bf0e2-b97a-47c0-b02a-a43ac0371cc9"
+      Hint: icon
+      Value: "{1EC94105-2371-4749-B882-5B76904BE2EF}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c1804b44-ef1c-4d83-880a-7dbde013e7b9"
+      Hint: link
+      Value: |
+        <link linktype="internal" text=" Aprenda a comercializar su negocio en Themesberg." querystring="" target="" id="{56B7350D-C8FD-40E2-AE99-7D67018A35F7}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T133547Z

@@ -1,0 +1,64 @@
+﻿---
+ID: "a8c1489a-af16-498b-9028-6e7a0a1275ec"
+Parent: "7e6087b3-ed43-4fb9-b697-5eabc23bdd54"
+Template: "96185e83-b909-4f9b-9768-6c2bcf0c5dbd"
+Path: /sitecore/content/Marketing Sites/sitea/Data/Logos/Partner Logos/Oxfam
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d01bcbf-184a-4368-835e-a6c72f9e0f50"
+      Hint: logo
+      Value: |
+        <image mediaid="{3B1D91FB-BE73-428A-A72B-84F1A0A025FB}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250817T163422Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec602179-94c4-4db2-a53e-06f632ed464b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250817T163446Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d01bcbf-184a-4368-835e-a6c72f9e0f50"
+      Hint: logo
+      Value: |
+        <image mediaid="{3B1D91FB-BE73-428A-A72B-84F1A0A025FB}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250817T163422Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b2e565ee-0a96-43ec-a0ea-05d61e3067e8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T123719Z

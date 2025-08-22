@@ -1,0 +1,64 @@
+﻿---
+ID: "3d4d7f99-4625-4b27-90fe-c00f07180ad7"
+Parent: "7e6087b3-ed43-4fb9-b697-5eabc23bdd54"
+Template: "96185e83-b909-4f9b-9768-6c2bcf0c5dbd"
+Path: /sitecore/content/Marketing Sites/sitea/Data/Logos/Partner Logos/Greenpeace
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d01bcbf-184a-4368-835e-a6c72f9e0f50"
+      Hint: logo
+      Value: |
+        <image mediaid="{039E6749-8776-4BCF-8371-17FB8E68B61F}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250817T162842Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b4e1a756-037b-47ae-b796-1a95a089934f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250817T163042Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d01bcbf-184a-4368-835e-a6c72f9e0f50"
+      Hint: logo
+      Value: |
+        <image mediaid="{039E6749-8776-4BCF-8371-17FB8E68B61F}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250817T162842Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "863e0b66-f2e5-468e-a1a5-a4457a2d7df5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T123719Z

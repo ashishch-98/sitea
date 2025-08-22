@@ -1,0 +1,58 @@
+﻿---
+ID: "bf786928-7b3e-44d8-a53f-4863ef5d6443"
+Parent: "282e4764-3036-4833-8c35-a07b81a99c9c"
+Template: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options/Styles/Green
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T080023Z
+    - ID: "358ac0fb-2abe-4aba-a3c8-36bff7b17cc4"
+      Hint: name
+      Value: green
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c7e411aa-174f-4e2a-a8e0-a9ebf9d259a2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T080029Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T080023Z
+    - ID: "358ac0fb-2abe-4aba-a3c8-36bff7b17cc4"
+      Hint: name
+      Value: green
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "12b776ae-e2f7-4566-a6bb-c971ddbfca7f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T123724Z

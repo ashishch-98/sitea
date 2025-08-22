@@ -1,0 +1,65 @@
+﻿---
+ID: "9eacdee6-78c6-47d0-b003-49a810580aad"
+Parent: "40f1480f-193b-4019-9414-84378bbb81cb"
+Template: "09221d67-8977-4664-9388-1b62827ef5e0"
+Path: "/sitecore/content/Marketing Sites/sitea/Home/Data/We didnt reinvent the wheel - Feature/Tailwind"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T073602Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d156c078-5368-4f64-aa2a-a2508a882cc1"
+    - ID: "b02bf0e2-b97a-47c0-b02a-a43ac0371cc9"
+      Hint: icon
+      Value: "{5461D0C3-7B36-4687-8EF4-453A3C4252F1}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c1804b44-ef1c-4d83-880a-7dbde013e7b9"
+      Hint: link
+      Value: |
+        <link text="Start coding with the most popular utility-first framework" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{56B7350D-C8FD-40E2-AE99-7D67018A35F7}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T142708Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T073602Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8da0adb0-e384-476a-9856-0504d12e626b"
+    - ID: "b02bf0e2-b97a-47c0-b02a-a43ac0371cc9"
+      Hint: icon
+      Value: "{5461D0C3-7B36-4687-8EF4-453A3C4252F1}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c1804b44-ef1c-4d83-880a-7dbde013e7b9"
+      Hint: link
+      Value: |
+        <link linktype="internal" text="Comience a codificar con el marco de trabajo de utilidad más popular" querystring="" target="" id="{40F1480F-193B-4019-9414-84378BBB81CB}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T133547Z

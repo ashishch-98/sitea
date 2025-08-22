@@ -1,0 +1,19 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Foundation\renderings\Marketing Sites\SiteA.yml
+ID: "b2a2be80-5ea6-461c-ad7b-1cc603c42930"
+Parent: "f163cfca-8881-4e9a-a539-3f677cf76aca"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Foundation/Marketing Sites/SiteA
+Signature: toj4kMf7IuesD4OaoTHJWO1kxNhYlPKeW1X8x/ITbnk=
+Modified: 638912037975281828
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Foundation\renderings\Marketing Sites.yml
+ID: "f163cfca-8881-4e9a-a539-3f677cf76aca"
+Parent: "180d4942-2b10-4375-bc06-e0d94220a68f"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Foundation/Marketing Sites
+Signature: toj4kMf7IuesD4OaoTHJWO1kxNhYlPKeW1X8x/ITbnk=
+Modified: 638912037975116102

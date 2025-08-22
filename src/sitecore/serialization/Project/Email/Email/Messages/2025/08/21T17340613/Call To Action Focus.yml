@@ -1,0 +1,129 @@
+﻿---
+ID: "9b6f579d-e53f-4d12-9d52-fe460939d3ee"
+Parent: "ff5a2347-dab9-4616-b540-06b4d5a04500"
+Template: "078d8a76-f971-4891-b422-76c0bcf9fa03"
+Path: /sitecore/content/Email/Messages/2025/08/21T17340613/Call To Action Focus
+BranchID: "89f09f47-6aca-41a9-acc6-2e33a0334c0c"
+SharedFields:
+- ID: "0934bec4-325a-427b-95bb-46f78cea9591"
+  Hint: Message Type
+  Value: "{B2F77E26-C5AC-4A6B-BBB3-F290100EB3D8}"
+- ID: "09ad7c00-a8de-46f7-bc54-e7572e38c136"
+  Hint: Body
+  Value: "{99C6020A-95EC-4377-97CE-7827FB851D0A}"
+- ID: "21f2a1e0-ac16-443b-b7a9-83504159f2bb"
+  Hint: Device
+  Value: "{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+- ID: "2bbf5276-ed11-4cd0-946f-66678b524457"
+  Hint: Campaign Position
+  Value: "{C1B8669B-C41A-4ED3-BF0D-E859CF880D42}"
+- ID: "6ec7a9e6-9fd5-4892-bbf6-11e76e0e5db8"
+  Hint: Start Time
+  Value: 20250821T173510Z
+- ID: "78f0b1f8-fdf4-4c1c-bec6-1ac68a210a52"
+  Hint: Campaign
+  Value: "{73632A5F-4F61-4403-84C1-BF327B7139B6}"
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Value: 1
+- ID: "af0fe26a-a78b-491d-885c-03d95bc17342"
+  Hint: State
+  Value: Active
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{7AE92CCA-8C93-491E-92A0-F25222C9746B}">
+        <r
+          cac="1"
+          ds=""
+          id="{69EB7A6D-ACEF-4D06-A923-804918AA245E}"
+          par=""
+          ph="head-area"
+          uid="{526AFB07-CE11-43CC-A8A1-4B906BC54FE6}"
+          vbd="1"
+          vbp="1"
+          vbqs="1" />
+        <r
+          cac="1"
+          ds="{267D5FD5-8171-424E-B672-0F5852691580}"
+          id="{B86B69EC-4AF3-4F92-94F8-8DC2F06CB5FB}"
+          par="Background Color=%23fff&amp;Content Font Color=%23232323&amp;Link Color=%23232323&amp;Align=center&amp;Padding=30px%2020px%2030px"
+          ph="preview-area"
+          uid="{0826E737-C08D-431B-8FD0-448B88F3C30B}"
+          vbd="1"
+          vbp="1"
+          vbqs="1" />
+        <r
+          cac="1"
+          ds="{7F814985-6C37-4C43-8D7B-23D88F119BAD}"
+          id="{027661AA-FEE2-4401-9D9A-207A3FCED8E8}"
+          par="Background Color=%23fff&amp;Content Font Color=%23232323&amp;Align=center&amp;Padding"
+          ph="header-area"
+          uid="{ED0FA669-5E70-4E62-8B74-A022C8FDF308}"
+          vbd="1"
+          vbp="1"
+          vbqs="1" />
+        <r
+          cac="1"
+          ds="{777DCC96-8D1D-4CC5-9BC9-0B4655993DCC}"
+          id="{2A517EBD-B1B9-4887-9FE5-5D0773F7B2C7}"
+          par="Background Color=%23fff&amp;Content Font Color=%23232323&amp;Link Color=%23999&amp;Button Color=%23232323&amp;Align=center&amp;Padding=30px%2020px%2030px"
+          ph="body-area"
+          uid="{98BD93BE-2CAA-40E4-BB26-8EE7548CFCB2}"
+          vbd="1"
+          vbp="1"
+          vbqs="1" />
+        <r
+          cac="1"
+          ds="{13F55145-FE95-4484-9234-47D35BAE1C9E}"
+          id="{38788088-93B0-4FB6-A80A-F47BD8D37694}"
+          par="Background Color=%23232323&amp;Content Font Color=%23999&amp;Link Color=%23999&amp;Align=center&amp;Padding"
+          ph="footer-area"
+          uid="{6E37E9F6-D8DD-4564-8BA7-CCE9B04081FA}"
+          vbd="1"
+          vbp="1"
+          vbqs="1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{1866755F-E69A-4A3E-9D00-1A36120A822D}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Call To Action Focus
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d844c9c-bd6c-49b8-9475-947da791f268"
+      Hint: From Address
+      Value: noreply@test.com
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250821T173406Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8436a90c-85c0-4f16-8373-393c4c0a82c6"
+      Hint: From Name
+      Value: No Replt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "83adfeeb-e05e-4009-a0b5-02910bd6fc5e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250821T173510Z

@@ -1,0 +1,73 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Foundation\templates\Marketing Sites\SiteA\Base\_Text Block\Text Block Details\titleTag.yml
+ID: "663d271d-b909-4737-b3c1-86b5157d7fb9"
+Parent: "b24057dd-3026-49bf-863d-107fec35fce7"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Foundation/Marketing Sites/SiteA/Base/_Text Block/Text Block Details/titleTag
+Signature: /96PBt/Ata7kZZ6gXJV8zJRBQ4lLgdciAwRzE3PY/bM=
+Modified: 638912037976697992
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Foundation\templates\Marketing Sites\SiteA.yml
+ID: "1cb3c3a1-b6a3-43ac-aaca-3690548dd16b"
+Parent: "1801834e-90a8-4413-951f-cc6a6c63e312"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Foundation/Marketing Sites/SiteA
+Signature: vhbrbR4pJwkCNYJSaHn60dxL1DtayXuKxwmMu06sW48=
+Modified: 638912037976307311
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Foundation\templates\Marketing Sites.yml
+ID: "1801834e-90a8-4413-951f-cc6a6c63e312"
+Parent: "b26bd035-8d0a-4df3-8f67-2de3c7fdd74a"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Foundation/Marketing Sites
+Signature: vhbrbR4pJwkCNYJSaHn60dxL1DtayXuKxwmMu06sW48=
+Modified: 638912037976282135
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Foundation\templates\Marketing Sites\SiteA\Base.yml
+ID: "e44ac9b8-f9c9-42fa-a9a9-76fc54a4dee7"
+Parent: "1cb3c3a1-b6a3-43ac-aaca-3690548dd16b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Foundation/Marketing Sites/SiteA/Base
+Signature: q0CfXVYiTDKCtIAXkLq/8EA+p6hzl+kI+vGL01nT9VQ=
+Modified: 638912037976589837
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Foundation\templates\Marketing Sites\SiteA\Base\_Text Block\Text Block Details.yml
+ID: "b24057dd-3026-49bf-863d-107fec35fce7"
+Parent: "b393d035-4673-4c8c-81e4-04ab4418aae1"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Marketing Sites/SiteA/Base/_Text Block/Text Block Details
+Signature: nh9VV+ufAu9DjvpGLAWO0E3fZaofa7O3BYpiVRtH390=
+Modified: 638912037976667901
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Foundation\templates\Marketing Sites\SiteA\Base\_Text Block.yml
+ID: "b393d035-4673-4c8c-81e4-04ab4418aae1"
+Parent: "e44ac9b8-f9c9-42fa-a9a9-76fc54a4dee7"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Foundation/Marketing Sites/SiteA/Base/_Text Block
+Signature: 0r3mDzP5KB++KyfqE7Zf2rtF3cpFNAG5d5sN6jcIUF0=
+Modified: 638912037976606702
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Foundation\templates\Marketing Sites\SiteA\Base\_Text Block\Text Block Details\description.yml
+ID: "c087d406-b14d-4fa7-9c66-e0a7fc1da90f"
+Parent: "b24057dd-3026-49bf-863d-107fec35fce7"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Foundation/Marketing Sites/SiteA/Base/_Text Block/Text Block Details/description
+Signature: 8x1TogIMOgfcdNkYI72J/y3lHTalyuTWvdSyv3Pw6Uc=
+Modified: 638912037976707989
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Foundation\templates\Marketing Sites\SiteA\Base\_Text Block\Text Block Details\title.yml
+ID: "a61cee6d-3278-4399-987a-c8d545e6366e"
+Parent: "b24057dd-3026-49bf-863d-107fec35fce7"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Foundation/Marketing Sites/SiteA/Base/_Text Block/Text Block Details/title
+Signature: M2kpwGEo8wyBVe4BXvg51IqNmIf7lip9h3CUpx0abqs=
+Modified: 638912037976677982

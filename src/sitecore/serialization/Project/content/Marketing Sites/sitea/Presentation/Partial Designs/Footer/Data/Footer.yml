@@ -1,0 +1,89 @@
+﻿---
+ID: "7d99d894-e450-4b58-b0d6-e46dfa502bdb"
+Parent: "5164b5bc-c4e7-4bd1-a983-f7c09f26f35d"
+Template: "5a22b4fb-b33d-4fc8-84e5-1467e3447d35"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Partial Designs/Footer/Data/Footer
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250818T150837Z
+    - ID: "34fc8b07-476e-417d-a54c-6d6f9b360441"
+      Hint: twitter
+      Value: |
+        <link text="Twitter" linktype="external" url="https://www.google.com/" anchor="" target="_blank" />
+    - ID: "3fafc509-64f5-44a4-bb44-c7cf0db1e490"
+      Hint: linkedin
+      Value: |
+        <link text="LinkedIn" linktype="external" url="https://www.google.com/" anchor="" target="_blank" />
+    - ID: "596923a9-4123-4a8d-ba6a-1842ee960aef"
+      Hint: facebook
+      Value: |
+        <link text="Facebook" linktype="external" url="https://www.google.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f82e3f16-45b7-4cc8-86e7-a3c1e55a2063"
+    - ID: "a0cd1595-19f0-452c-bfbb-bcb935dc7b2a"
+      Hint: brandLogo
+      Value: |
+        <image mediaid="{CD3C2896-AA6C-4A3B-8753-63464AE05A4C}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c6c9118a-8041-4740-b5c1-846d206507de"
+      Hint: copyrightText
+      Value: SiteA. All rights reserved.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T064203Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250818T150837Z
+    - ID: "34fc8b07-476e-417d-a54c-6d6f9b360441"
+      Hint: twitter
+      Value: |
+        <link text="Twitter" linktype="external" url="https://www.google.com/" anchor="" target="_blank" />
+    - ID: "3fafc509-64f5-44a4-bb44-c7cf0db1e490"
+      Hint: linkedin
+      Value: |
+        <link text="LinkedIn" linktype="external" url="https://www.google.com/" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "596923a9-4123-4a8d-ba6a-1842ee960aef"
+      Hint: facebook
+      Value: |
+        <link text="Facebook" linktype="external" url="https://www.google.com/" anchor="" target="_blank" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c40ad4dc-d30c-4643-bb69-db2f4b5304a7"
+    - ID: "a0cd1595-19f0-452c-bfbb-bcb935dc7b2a"
+      Hint: brandLogo
+      Value: |
+        <image mediaid="{CD3C2896-AA6C-4A3B-8753-63464AE05A4C}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c6c9118a-8041-4740-b5c1-846d206507de"
+      Hint: copyrightText
+      Value: SiteA. All rights reserved.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T123720Z

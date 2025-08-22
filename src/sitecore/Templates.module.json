@@ -1,0 +1,51 @@
+{
+  "namespace": "SiteA.Templates",
+  "items": {
+    "includes": [
+      {
+        "name": "Foundation/templates",
+        "path": "/sitecore/templates/Foundation/Marketing Sites",
+        "rules": [
+          {
+            "path": "*",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          }
+        ]
+      },
+      {
+        "name": "Feature/templates",
+        "path": "/sitecore/templates/Feature/Marketing Sites",
+        "rules": [
+          {
+            "path": "*",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          }
+        ]
+      },
+      {
+        "name": "Project/templates/Marketing Sites",
+        "path": "/sitecore/templates/Project/Marketing Sites",
+        "rules": [
+          {
+            "path": "*",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          }
+        ]
+      },
+      {
+        "name": "Feature/branch-templates",
+        "path": "/sitecore/templates/Branches/Feature/Marketing Sites",
+        "rules": [
+          {
+            "path": "*",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createOnly"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+﻿---
+ID: "a3b02552-ef66-4f64-a6a1-c06ea69816d8"
+Parent: "76bfd7ff-d858-481d-8e01-b04f6a388009"
+Template: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options/Icons/Video
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T070744Z
+    - ID: "358ac0fb-2abe-4aba-a3c8-36bff7b17cc4"
+      Hint: name
+      Value: video
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0372096d-6954-4bc3-b245-8147dbf05a9a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T070748Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T070744Z
+    - ID: "358ac0fb-2abe-4aba-a3c8-36bff7b17cc4"
+      Hint: name
+      Value: video
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a02a0ff-7aa4-4cef-a14d-df9bf5b78c19"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T123724Z

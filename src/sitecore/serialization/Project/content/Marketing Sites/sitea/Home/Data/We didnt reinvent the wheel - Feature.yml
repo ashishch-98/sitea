@@ -1,0 +1,88 @@
+﻿---
+ID: "40f1480f-193b-4019-9414-84378bbb81cb"
+Parent: "4d8e5bbe-41ac-4a2c-a083-6f42df84fbae"
+Template: "eb59fce7-45aa-4645-8148-1eccaae39aae"
+Path: "/sitecore/content/Marketing Sites/sitea/Home/Data/We didnt reinvent the wheel - Feature"
+BranchID: "5b6a6e22-0f54-4695-9657-a8f7e1f9d542"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{17F51EF8-9B34-49C0-AC63-04D5E19302BA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T071715Z
+    - ID: "76d2394a-1014-49e5-b0c0-794732711ba8"
+      Hint: features
+      Value: |
+        {71AC83C2-F73F-48E4-A78C-32F73D77EE42}
+        {1E01F83D-8604-4881-B19C-FE6F454AD78F}
+        {5D034DF8-F84F-4C6B-B646-F8B94822D1C7}
+        {9EACDEE6-78C6-47D0-B003-49A810580AAD}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "34a7e732-958c-48ad-8999-4393b8e3db36"
+    - ID: "a61cee6d-3278-4399-987a-c8d545e6366e"
+      Hint: title
+      Value: We didn't reinvent the wheel
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c087d406-b14d-4fa7-9c66-e0a7fc1da90f"
+      Hint: description
+      Value: |
+        Track work across the enterprise through an open, collaborative platform. Link issues across Jira and ingest data from other software development tools, so your IT support and operations teams have richer contextual information to rapidly respond to requests, incidents, and changes.
+        
+        Deliver great service experiences fast - without the complexity of traditional ITSM solutions.Accelerate critical development work, eliminate toil, and deploy changes with ease.&nbsp;&nbsp;
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T073636Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T071715Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "76d2394a-1014-49e5-b0c0-794732711ba8"
+      Hint: features
+      Value: |
+        {71AC83C2-F73F-48E4-A78C-32F73D77EE42}
+        {1E01F83D-8604-4881-B19C-FE6F454AD78F}
+        {5D034DF8-F84F-4C6B-B646-F8B94822D1C7}
+        {9EACDEE6-78C6-47D0-B003-49A810580AAD}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ecb86f83-439f-4660-810a-96fc74ab7deb"
+    - ID: "a61cee6d-3278-4399-987a-c8d545e6366e"
+      Hint: title
+      Value: Nosotras no reinventamos la rueda
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c087d406-b14d-4fa7-9c66-e0a7fc1da90f"
+      Hint: description
+      Value: Realice un seguimiento del trabajo en toda la empresa mediante una plataforma abierta y colaborativa. Vincule incidencias en Jira e incorpore datos de otras herramientas de desarrollo de software para que sus equipos de soporte y operaciones de TI cuenten con informaci&oacute;n contextual m&aacute;s completa para responder r&aacute;pidamente a solicitudes, incidentes y cambios. Ofrezca excelentes experiencias de servicio r&aacute;pidamente, sin la complejidad de las soluciones tradicionales de ITSM. Acelere el trabajo de desarrollo cr&iacute;tico, elimine el trabajo pesado e implemente cambios con facilidad.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T133547Z

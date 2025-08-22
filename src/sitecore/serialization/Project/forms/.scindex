@@ -1,0 +1,100 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\forms\Forms\Contact Us Form\Page\Submit Contact Us\SubmitActions.yml
+ID: "3328e3be-19dd-4294-b817-b65a8dd5a8f5"
+Parent: "e9bdb8ad-a76d-4642-b2f4-b9016add391b"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/Forms/Contact Us Form/Page/Submit Contact Us/SubmitActions
+Signature: 6ZNjUENPhzUYnB6jDgVN8FFIADGMIRqaHINar+zB8GA=
+Modified: 638912107326894468
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\forms\Forms.yml
+ID: "b701850a-cb8a-4943-b2bc-dddb1238c103"
+Parent: "11111111-1111-1111-1111-111111111111"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/Forms
+Signature: jMcp58UaxpL/r2PERjem1GxTylZlxG8L35Dhqym+DNM=
+Modified: 638912107326777587
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\forms\Forms\Contact Us Form\Page\Submit Contact Us\SubmitActions\Send Email Campaign Message.yml
+ID: "8e235502-752e-4253-b4c5-c36fc4fdbe0f"
+Parent: "3328e3be-19dd-4294-b817-b65a8dd5a8f5"
+Template: "05fe45d4-b9c7-40de-b767-7c5abe7119f9"
+Path: /sitecore/Forms/Contact Us Form/Page/Submit Contact Us/SubmitActions/Send Email Campaign Message
+Signature: BONG0fYCGWN8xnimovty8Nsj43Pxl7hb3npJZPfgwlw=
+Modified: 638914677752117461
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\forms\Forms\Contact Us Form.yml
+ID: "a79b674a-cf82-488c-aa63-ff8aabb193e8"
+Parent: "b701850a-cb8a-4943-b2bc-dddb1238c103"
+Template: "6abee1f2-4ab4-47f0-ad8b-bdb36f37f64c"
+Path: /sitecore/Forms/Contact Us Form
+Signature: mKHV2DVLZtSeRjhSrkRIlalQF6d1GM+m3Y7xFtcqFek=
+Modified: 638912107326777587
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\forms\Forms\Contact Us Form\Page.yml
+ID: "5bc02fa9-a68f-4309-b686-1e3738a8ec1d"
+Parent: "a79b674a-cf82-488c-aa63-ff8aabb193e8"
+Template: "cfee7b51-8505-45ce-b843-9358f827df87"
+Path: /sitecore/Forms/Contact Us Form/Page
+Signature: r0wth/y4V8WXgDLzELZNPnL70xSHJbsNmaamTCMLo/U=
+Modified: 638912107326777587
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\forms\Forms\Contact Us Form\Page\Email.yml
+ID: "3670aaca-4b9d-4cf9-82e2-6957c312ada2"
+Parent: "5bc02fa9-a68f-4309-b686-1e3738a8ec1d"
+Template: "886adec1-abf8-40e1-9926-d9189c4e8e1b"
+Path: /sitecore/Forms/Contact Us Form/Page/Email
+Signature: 8EWl/CMFrafTU/y1Rz7EpGNDstUiTjCBsXqf5FyRrQw=
+Modified: 638914677752137480
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\forms\Forms\Contact Us Form\Page\Message.yml
+ID: "c9a4ecde-ac43-4fcc-831b-c5c90c99296a"
+Parent: "5bc02fa9-a68f-4309-b686-1e3738a8ec1d"
+Template: "d8386d04-c1e3-4cd3-9227-9e9f86ef3c88"
+Path: /sitecore/Forms/Contact Us Form/Page/Message
+Signature: LU6MalKIFlevmmtfyn+zKfBIh+mNnCkMqkzHA1HWtWk=
+Modified: 638914677752157468
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\forms\Forms\Contact Us Form\Page\Subject.yml
+ID: "3a4b6377-c4f9-455d-bc9d-220bb0fb754b"
+Parent: "5bc02fa9-a68f-4309-b686-1e3738a8ec1d"
+Template: "0908030b-4564-42ea-a6fa-c7a5a2d921a8"
+Path: /sitecore/Forms/Contact Us Form/Page/Subject
+Signature: fGAG0s8MP6dYoM+L+3rUdWtJYr0CVf+olf85l7P+72c=
+Modified: 638914677752147447
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\forms\Forms\Contact Us Form\Page\Submit Contact Us.yml
+ID: "e9bdb8ad-a76d-4642-b2f4-b9016add391b"
+Parent: "5bc02fa9-a68f-4309-b686-1e3738a8ec1d"
+Template: "94a46d66-b1b8-405d-aae4-7b5a9cd61c5e"
+Path: /sitecore/Forms/Contact Us Form/Page/Submit Contact Us
+Signature: WfmIbi5Svu/68pnQRawXRELYVdcAunevHmvEtDc+hyk=
+Modified: 638912107326874361
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\forms\Forms\Contact Us Form\Page\Submit Contact Us\SubmitActions\Redirect to Page.yml
+ID: "45e0781f-5082-4bab-bcd7-84e7dbaf723b"
+Parent: "3328e3be-19dd-4294-b817-b65a8dd5a8f5"
+Template: "05fe45d4-b9c7-40de-b767-7c5abe7119f9"
+Path: /sitecore/Forms/Contact Us Form/Page/Submit Contact Us/SubmitActions/Redirect to Page
+Signature: moBy9y44lw0vWI9eU4Bd4ceUQYaj7C4HnLeLkQFI1GU=
+Modified: 638914677752127445
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\forms\Forms\Contact Us Form\Page\Submit Contact Us\SubmitActions\Save Data.yml
+ID: "8199d179-a205-4f16-9fe8-d6c8d051524c"
+Parent: "3328e3be-19dd-4294-b817-b65a8dd5a8f5"
+Template: "05fe45d4-b9c7-40de-b767-7c5abe7119f9"
+Path: /sitecore/Forms/Contact Us Form/Page/Submit Contact Us/SubmitActions/Save Data
+Signature: AO9DuViSFs9M8Y/ZWpFjHxMCuAs1ndOuP7S542Hgt24=
+Modified: 638912107326914589

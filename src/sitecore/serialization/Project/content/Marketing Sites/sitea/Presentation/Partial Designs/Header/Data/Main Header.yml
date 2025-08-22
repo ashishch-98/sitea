@@ -1,0 +1,79 @@
+﻿---
+ID: "acf0c0df-f1b8-417d-8e6d-353df929cdf2"
+Parent: "24206825-7016-4a51-bf1c-deab1409fe98"
+Template: "329ebe29-f9ff-453a-ad8f-24b667ab00f5"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Partial Designs/Header/Data/Main Header
+BranchID: "059ddfcb-cac1-444b-a9a1-42c360414b88"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4F556927-EB10-4918-8623-A32544346CEF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250818T142451Z
+    - ID: "772f1a2e-b68e-4b43-b4e8-01dd37a10403"
+      Hint: personalizedMessage
+      Value: 
+    - ID: "7d1cbb9a-67f2-4ef3-9bf9-53633cc24fc0"
+      Hint: menuItems
+      Value: |
+        {55B21099-2F90-4038-97A9-29EDFCC73CE6}
+        {76506131-D257-49A7-9C80-C31D310B0BD8}
+        {366F98BD-F054-4FF8-8431-61F989DDDE24}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0e2dff43-f334-439a-afc1-4a707a60b202"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c27fb789-6409-4a23-a14c-623d802ad72b"
+      Hint: brandLogo
+      Value: |
+        <image mediaid="{094AED03-02E7-4868-80CB-19926661FB77}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250818T152524Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250818T142451Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7d1cbb9a-67f2-4ef3-9bf9-53633cc24fc0"
+      Hint: menuItems
+      Value: |
+        {55B21099-2F90-4038-97A9-29EDFCC73CE6}
+        {76506131-D257-49A7-9C80-C31D310B0BD8}
+        {366F98BD-F054-4FF8-8431-61F989DDDE24}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9c1f320a-d0b2-4b90-bc6c-b66175271ec9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c27fb789-6409-4a23-a14c-623d802ad72b"
+      Hint: brandLogo
+      Value: |
+        <image mediaid="{094AED03-02E7-4868-80CB-19926661FB77}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T123721Z

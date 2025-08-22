@@ -1,0 +1,19 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Settings\ApiKeys\API Keys\Headless API Key.yml
+ID: "a0149e30-e550-4831-93c6-9d590b16cdfa"
+Parent: "59b41b5f-e22e-460b-941e-fb64fe8da8fc"
+Template: "a6868d65-d612-401f-a40a-cd5ba0857b81"
+Path: /sitecore/system/Settings/Services/API Keys/Headless API Key
+Signature: 9YpeSvm+uzPAhYa4dmxaKCIDbXocVU+FBDHVOrh8dnI=
+Modified: 638912037975577953
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Settings\ApiKeys\API Keys.yml
+ID: "59b41b5f-e22e-460b-941e-fb64fe8da8fc"
+Parent: "336ea77a-3587-499f-8238-61bde34601fc"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/system/Settings/Services/API Keys
+Signature: gVB7cxP4cLJgiYnPlvGxpc0D7tHn7qAbCiJUvvhoHow=
+Modified: 638912037975567954

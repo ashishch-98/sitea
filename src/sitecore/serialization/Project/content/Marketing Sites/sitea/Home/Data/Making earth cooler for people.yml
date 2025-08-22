@@ -1,0 +1,87 @@
+﻿---
+ID: "2499eeab-20a5-4fe6-8ff6-2a3e8c94b7e0"
+Parent: "4d8e5bbe-41ac-4a2c-a083-6f42df84fbae"
+Template: "0ea559cc-ef81-453c-bf36-48c472039793"
+Path: /sitecore/content/Marketing Sites/sitea/Home/Data/Making earth cooler for people
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0092cbd8-d3e2-44b7-9237-6a3fc4d8d4b0"
+      Hint: firstCtaStyle
+      Value: "{00B150BC-C273-4833-825E-06E164B6ACB2}"
+    - ID: "023daae8-c809-4658-864a-40bbb2aa223d"
+      Hint: secondCtaStyle
+      Value: "{96D71D63-CC1F-485D-BE55-D0A28C3E8218}"
+    - ID: "04927903-b64a-41d1-b8a3-ab126736d89d"
+      Hint: partnerTitle
+      Value: "Partners and backers:"
+    - ID: "1527b838-484a-4205-a747-69e48d9c99ba"
+      Hint: description
+      Value: Protecting the planet and its natural resources for future generations by reducing pollution, promoting sustainability, and conserving energy and resources.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T064356Z
+    - ID: "2ababf94-4d33-4827-9b8b-f83a01230351"
+      Hint: firstCta
+      Value: |
+        <link linktype="internal" text="Donate Now" querystring="" target="" id="{56B7350D-C8FD-40E2-AE99-7D67018A35F7}" />
+    - ID: "4109468d-1216-481a-9df2-017ecd8d0fc1"
+      Hint: secondCta
+      Value: |
+        <link linktype="internal" text="Learn More" querystring="" target="" id="{4D8E5BBE-41AC-4A2C-A083-6F42DF84FBAE}" />
+    - ID: "55f55566-ea72-4249-88b9-65a6484c10dd"
+      Hint: title
+      Value: Making earth cooler for people, nature, climate
+    - ID: "6e5c0c34-162f-4ffd-8481-4055e9bc2db6"
+      Hint: secondCtaIcon
+      Value: "{A3B02552-EF66-4F64-A6A1-C06EA69816D8}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5fc4db59-036a-462b-9cdf-d3e31fa4dde3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "cb9da773-8315-4cd6-b4a9-ee198b86e3ca"
+      Hint: partnerLogos
+      Value: |
+        {3D4D7F99-4625-4B27-90FE-C00F07180AD7}
+        {BBAFC0F0-B2B0-4043-B3A1-2DF2BBFB1C77}
+        {E26573A7-0D1F-4E90-9839-04B6E4B457CB}
+        {A8C1489A-AF16-498B-9028-6E7A0A1275EC}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T070804Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T123936Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "55f55566-ea72-4249-88b9-65a6484c10dd"
+      Hint: title
+      Value:  Hacer que la Tierra sea más fresca para las personas, la naturaleza y el clima
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e23eeceb-531c-48f4-a631-dfe9fe61ef4b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T123958Z

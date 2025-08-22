@@ -1,0 +1,51 @@
+{
+  "namespace": "SiteA.Content",
+  "items": {
+    "includes": [
+      {
+        "name": "Project/media",
+        "path": "/sitecore/media library/Project/Marketing Sites",
+        "rules": [
+          {
+            "path": "*",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          }
+        ]
+      },
+      {
+        "name": "Project/content",
+        "path": "/sitecore/content/Marketing Sites",
+        "rules": [
+          {
+            "path": "*",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          }
+        ]
+      },
+      {
+        "name": "Project/Email",
+        "path": "/sitecore/content/Email",
+        "rules": [
+          {
+            "path": "*",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          }
+        ]
+      },
+      {
+        "name": "Project/forms",
+        "path": "/sitecore/Forms",
+        "rules": [
+          {
+            "path": "*",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          }
+        ]
+      }
+    ]
+  }
+}

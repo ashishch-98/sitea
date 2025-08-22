@@ -1,0 +1,33 @@
+﻿---
+ID: "a9304b73-6e8a-47d4-aba6-6d3e0b36797b"
+Parent: "95b1bf0b-e3eb-4b81-b41f-be305fa7a72c"
+Template: "95b1bf0b-e3eb-4b81-b41f-be305fa7a72c"
+Path: /sitecore/templates/Feature/Marketing Sites/SiteA/Slick Carousel/Carousel Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {76EE3EB6-3655-4A75-A65C-CA2C63D4A63F}
+    {95B1BF0B-E3EB-4B81-B41F-BE305FA7A72C}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1ceebc85-4131-4ea8-9dc4-7d0d0d144a2f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250818T104356Z

@@ -1,0 +1,1585 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites.yml
+ID: "9cb52caa-4b8f-4418-9402-4a70c30148ff"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "49018b45-37a7-48e9-a661-7b1401cf00ef"
+Path: /sitecore/content/Marketing Sites
+Signature: ABtYzHRV2BQuEaLo6uXsF4eS75h8gV0SgnahMRk21X4=
+Modified: 638912037969363588
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea.yml
+ID: "dbf840dd-9c62-4371-a57e-fb2c253dd176"
+Parent: "9cb52caa-4b8f-4418-9402-4a70c30148ff"
+Template: "43e3e908-3e5b-4341-8644-ede0215f597c"
+Path: /sitecore/content/Marketing Sites/sitea
+Signature: vbeo5yfbiCBrQuvDuOTurbjhLhWUPMJNYiW8GZ/TAfc=
+Modified: 638914677739841355
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Data.yml
+ID: "5180e486-a70c-4c2b-9fe5-b64531af62b0"
+Parent: "dbf840dd-9c62-4371-a57e-fb2c253dd176"
+Template: "a29d272e-9d48-453c-9e9d-b47585fa7f20"
+Path: /sitecore/content/Marketing Sites/sitea/Data
+Signature: +8a88+yMYkpGTrVHcoxjr/FuRF0A4Lge2bEZqem7kpg=
+Modified: 638914677739861483
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Dictionary.yml
+ID: "7462b91f-d200-478c-9aa1-3c49e4771ce5"
+Parent: "dbf840dd-9c62-4371-a57e-fb2c253dd176"
+Template: "0a2847e6-9885-450b-b61e-f9e6528480ef"
+Path: /sitecore/content/Marketing Sites/sitea/Dictionary
+Signature: qyUTSR8IbhECwOhuDfPLG3nEHYFveWBF9w+CxbC87jo=
+Modified: 638914677739881629
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home.yml
+ID: "56b7350d-c8fd-40e2-ae99-7d67018a35f7"
+Parent: "dbf840dd-9c62-4371-a57e-fb2c253dd176"
+Template: "8d056f4b-2314-4d39-803a-5489b9f70c35"
+Path: /sitecore/content/Marketing Sites/sitea/Home
+Signature: D4WXotP7tohILO/IqKphjQATEykoWEP70bFFQs3+mRI=
+Modified: 638914677739841355
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Media.yml
+ID: "785392eb-4327-4abc-8496-c7884ecb0508"
+Parent: "dbf840dd-9c62-4371-a57e-fb2c253dd176"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: /sitecore/content/Marketing Sites/sitea/Media
+Signature: KGYR0mqy/UG+wmz/Un2Y0DP8AYb+dhsyrU0CNmm0e0E=
+Modified: 638914677739861483
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation.yml
+ID: "a04c5d18-5885-41c1-b837-ceb987a2cfd4"
+Parent: "dbf840dd-9c62-4371-a57e-fb2c253dd176"
+Template: "0a70fa73-8923-4a6e-abf3-4134f25f3221"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation
+Signature: OB38+Vy37OhR/hrIIyns/6CPhofETiKdtlPK56Homd4=
+Modified: 638914677739896941
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Settings.yml
+ID: "5e96b0e2-7c4f-4ce5-acff-8983449ad5ce"
+Parent: "dbf840dd-9c62-4371-a57e-fb2c253dd176"
+Template: "f73e34c9-1961-4afe-b045-4adc98363c82"
+Path: /sitecore/content/Marketing Sites/sitea/Settings
+Signature: eCiGMjy8sMK484uKYMlSdiCABoyp9PhZrXUyjMbva9A=
+Modified: 638914677739902082
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Data\Callout Banner.yml
+ID: "aa58b7dd-9a3c-40de-bdef-5907c9e15dfa"
+Parent: "5180e486-a70c-4c2b-9fe5-b64531af62b0"
+Template: "ccf20d8e-e796-45ca-8bf6-77a7d9ca3e96"
+Path: /sitecore/content/Marketing Sites/sitea/Data/Callout Banner
+Signature: xMq9Zu7dauU6PqqqE8HmqBbu/CAb68lQiEBgwYejjmE=
+Modified: 638914677739902082
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Data\Feature Section.yml
+ID: "df7b7989-c7cd-4bba-95ba-51a3eed1445c"
+Parent: "5180e486-a70c-4c2b-9fe5-b64531af62b0"
+Template: "6c3bd0b6-bcb9-4d8f-b1e7-bba30ad12516"
+Path: /sitecore/content/Marketing Sites/sitea/Data/Feature Section
+Signature: HVQb6Nji+T6721RZSt4k6F48iPWJ/wy/NmSCkClxOJQ=
+Modified: 638914677739922173
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Data\Footer.yml
+ID: "7a68c0df-431c-48c4-a1d9-6c75e95258be"
+Parent: "5180e486-a70c-4c2b-9fe5-b64531af62b0"
+Template: "5261c1d8-3d72-4069-8b19-0930a770b5af"
+Path: /sitecore/content/Marketing Sites/sitea/Data/Footer
+Signature: Zbahp7Ln9iua9oTfldpqI8th6/q+EMNnQioR7pwrCNY=
+Modified: 638914677739932682
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Data\Header.yml
+ID: "23af3ef3-31ce-4926-9d09-6d316a1cfa44"
+Parent: "5180e486-a70c-4c2b-9fe5-b64531af62b0"
+Template: "b1e302ad-21d7-4f59-83b0-ec60d4c13387"
+Path: /sitecore/content/Marketing Sites/sitea/Data/Header
+Signature: ezliQtaispgaiuK9o1d9ELeXGiz7yJKEDVjaPerqbgU=
+Modified: 638914677739943285
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Data\Images.yml
+ID: "e7e1ae48-66ec-44e1-80b4-badf38ce0623"
+Parent: "5180e486-a70c-4c2b-9fe5-b64531af62b0"
+Template: "f7a45276-87f1-4ea5-bf25-e3c7cb7aa993"
+Path: /sitecore/content/Marketing Sites/sitea/Data/Images
+Signature: an3toXQvAIOf3rL4KDMtzKvZIwv9P/dLwcU9X3aj0zE=
+Modified: 638914677739963364
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Data\Link Lists.yml
+ID: "3eecce68-4b7d-42f7-b1bc-aa09dfe64622"
+Parent: "5180e486-a70c-4c2b-9fe5-b64531af62b0"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: /sitecore/content/Marketing Sites/sitea/Data/Link Lists
+Signature: EXeEtWWi+GH4CfqhE4974v6nFvwDxb4NZ/rbWcnvgsc=
+Modified: 638914677739983318
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Data\Logos.yml
+ID: "8ba0eb11-18ca-4005-83b0-5e7cf9f1a270"
+Parent: "5180e486-a70c-4c2b-9fe5-b64531af62b0"
+Template: "5c0b4670-365f-40d3-8725-4e28f40f53af"
+Path: /sitecore/content/Marketing Sites/sitea/Data/Logos
+Signature: DjpgwSc4KJyk5+FhjYT94BCXTpkDnl0x3vitvjbKbL8=
+Modified: 638914677739993271
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Data\Navigation Filters.yml
+ID: "0ddedad4-95e0-4c5d-8652-b1463f6a4e28"
+Parent: "5180e486-a70c-4c2b-9fe5-b64531af62b0"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: /sitecore/content/Marketing Sites/sitea/Data/Navigation Filters
+Signature: Iakqa95X9WYlFL6CB+/MXbPSJyhP0zbpMtOFPngL2Uo=
+Modified: 638914677740003284
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Data\Promos.yml
+ID: "20241530-8c59-4349-b6fe-c0b9d8fad3cc"
+Parent: "5180e486-a70c-4c2b-9fe5-b64531af62b0"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/Marketing Sites/sitea/Data/Promos
+Signature: HVMyePCdzU7H7vdQ/6RG0eflux3+95+jRo7fNOKkgew=
+Modified: 638914677740013284
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Data\Stats Section.yml
+ID: "608a9e61-d863-406b-98a6-703d0af69a16"
+Parent: "5180e486-a70c-4c2b-9fe5-b64531af62b0"
+Template: "44abe286-2391-41ee-99a6-cc67d107bdb0"
+Path: /sitecore/content/Marketing Sites/sitea/Data/Stats Section
+Signature: TcV5fDHKCmVlkgGIMtR5PqmprGqC4fqD6iH6k3B/lkk=
+Modified: 638914677740023303
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Data\Texts.yml
+ID: "24e8374d-a038-472a-9845-6cecc02ea7e7"
+Parent: "5180e486-a70c-4c2b-9fe5-b64531af62b0"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: /sitecore/content/Marketing Sites/sitea/Data/Texts
+Signature: xgYwEGb1juFVgh37r4r6gYq6RtRjK5BZxCEXvoKTgtc=
+Modified: 638914677740033283
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\About Us.yml
+ID: "a0e67963-5230-4ddb-b228-c13e0847198e"
+Parent: "56b7350d-c8fd-40e2-ae99-7d67018a35f7"
+Template: "8d056f4b-2314-4d39-803a-5489b9f70c35"
+Path: /sitecore/content/Marketing Sites/sitea/Home/About Us
+Signature: CYlXQ+iiSqBMnkMp1LN7gLJ7SLQbSZBr6L9RTGq4Oak=
+Modified: 638914677738468675
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\Contact Us.yml
+ID: "775f95d2-8467-4693-8436-29f3d0238e21"
+Parent: "56b7350d-c8fd-40e2-ae99-7d67018a35f7"
+Template: "8d056f4b-2314-4d39-803a-5489b9f70c35"
+Path: /sitecore/content/Marketing Sites/sitea/Home/Contact Us
+Signature: q0S2UsSznyBojcJvxSgTVOU0HoYzY02IL5EJjaoW4Ak=
+Modified: 638914677738496538
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\Data.yml
+ID: "4d8e5bbe-41ac-4a2c-a083-6f42df84fbae"
+Parent: "56b7350d-c8fd-40e2-ae99-7d67018a35f7"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Marketing Sites/sitea/Home/Data
+Signature: uOHkb6r2tjTmA9L7n0Ae4B8N04v1wc1xQbLHmERTJdo=
+Modified: 638914677738512342
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Available Renderings.yml
+ID: "157d33da-eefb-4426-93fc-630141d94189"
+Parent: "a04c5d18-5885-41c1-b837-ceb987a2cfd4"
+Template: "26ec1d18-11b2-4dd9-8326-f6115f4fd7eb"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Available Renderings
+Signature: 1d2bAZigfry33o3lRuEbQi5EkWQCHi6KRpH2MSdte5k=
+Modified: 638914677740043313
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants.yml
+ID: "19a933d6-0b7d-4314-bf89-6caaf1772e4b"
+Parent: "a04c5d18-5885-41c1-b837-ceb987a2cfd4"
+Template: "da26c636-96e1-45e4-88d6-3fcec70d5699"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants
+Signature: dYIkSCL7pq0bSqHNeif1JfmTHEkrjlCrpg8vtKbxUVA=
+Modified: 638914677740053295
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Options.yml
+ID: "697d8d7f-1b5e-44e9-9f7c-ba9e9fd88955"
+Parent: "a04c5d18-5885-41c1-b837-ceb987a2cfd4"
+Template: "e886bb34-2334-47d7-b3df-cddfcbb32655"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options
+Signature: ok93ep1vEYu06L6UEEMms/BYVs3SBWFjGEQ+OVpbYiA=
+Modified: 638914677740109918
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Page Branches.yml
+ID: "158c670d-5dcc-4495-a91f-80f22cbf8ec3"
+Parent: "a04c5d18-5885-41c1-b837-ceb987a2cfd4"
+Template: "fbc802e5-4b9e-480f-93da-3f2a80cae5cb"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Page Branches
+Signature: 7FHLRMskQ22IBO+1NU/POqrY6FqGNGxcerCICsMaj9c=
+Modified: 638914677740063292
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Page Designs.yml
+ID: "180388b6-a150-4b80-ad7b-7ba637919b13"
+Parent: "a04c5d18-5885-41c1-b837-ceb987a2cfd4"
+Template: "90d66369-690a-44fe-a769-bb24d27573ce"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Page Designs
+Signature: vJGnmdeOsbbFRPljDFy//I9hjEJmKW/zS1oYUpm+5CE=
+Modified: 638914677740073291
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Partial Designs.yml
+ID: "b583839e-983f-4346-bd41-01cd97e54831"
+Parent: "a04c5d18-5885-41c1-b837-ceb987a2cfd4"
+Template: "99a4f4c3-b75e-4c4f-8345-10a3bcfc6f21"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Partial Designs
+Signature: Ftml3YTkubXOPNRkaqaU3k2EvXmpCyz5Kbj5/jpLERM=
+Modified: 638914677740083286
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Placeholder Settings.yml
+ID: "05d4f507-1e87-476d-8330-6b3237a716f9"
+Parent: "a04c5d18-5885-41c1-b837-ceb987a2cfd4"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Placeholder Settings
+Signature: YNcYWiglY8x5OxPuRHVjoBxOFVLHmfB16jAyzP9Y8xw=
+Modified: 638914677740089779
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles.yml
+ID: "79241c08-e68c-4cdd-9fa5-8ff952e8bcba"
+Parent: "a04c5d18-5885-41c1-b837-ceb987a2cfd4"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles
+Signature: mn+1cFS0mAbiMBlg0EF02MOojxjH66erzgRQu56dPP0=
+Modified: 638914677740099401
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Settings\Redirects.yml
+ID: "dc9b60f1-6497-46d1-a3b3-9b8a7cadd612"
+Parent: "5e96b0e2-7c4f-4ce5-acff-8983449ad5ce"
+Template: "c2dc4690-af44-48c7-bb21-90d1ad246732"
+Path: /sitecore/content/Marketing Sites/sitea/Settings/Redirects
+Signature: /cqTrenGRR8gjFM3pCNa6bujMHJUSTrBedgx+FjdKGs=
+Modified: 638914677740119934
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Settings\Shared Sites Settings.yml
+ID: "c47e3546-073a-403d-90de-ba675e14673b"
+Parent: "5e96b0e2-7c4f-4ce5-acff-8983449ad5ce"
+Template: "c14bf746-030f-4e59-8594-395f6d299e61"
+Path: /sitecore/content/Marketing Sites/sitea/Settings/Shared Sites Settings
+Signature: bKxIE9TlGp45cYdrhulKSFpqfYoyp7aK8CImzFdpud4=
+Modified: 638914677740129919
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Settings\Site Grouping.yml
+ID: "5cfca57b-57e7-4ddc-ba78-0eba8c61dc40"
+Parent: "5e96b0e2-7c4f-4ce5-acff-8983449ad5ce"
+Template: "8357f958-9aaa-46db-8898-36448a96356f"
+Path: /sitecore/content/Marketing Sites/sitea/Settings/Site Grouping
+Signature: lH2shGiyw0NTUAqEiAjywshTnd08W713OrAP9Tu8dJQ=
+Modified: 638914677740139928
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Settings\Sitemap.yml
+ID: "7000f016-ed28-4d1d-b2ce-dc70da644ac2"
+Parent: "5e96b0e2-7c4f-4ce5-acff-8983449ad5ce"
+Template: "c71d8566-35c8-49b7-a84d-9d176e9cbd05"
+Path: /sitecore/content/Marketing Sites/sitea/Settings/Sitemap
+Signature: DaEEXsg7qiuz7j7rZJHhRKzU4/Ev11QgQ1CHRzFQ7wo=
+Modified: 638914677740149932
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Data\Logos\Partner Logos.yml
+ID: "7e6087b3-ed43-4fb9-b697-5eabc23bdd54"
+Parent: "8ba0eb11-18ca-4005-83b0-5e7cf9f1a270"
+Template: "5c0b4670-365f-40d3-8725-4e28f40f53af"
+Path: /sitecore/content/Marketing Sites/sitea/Data/Logos/Partner Logos
+Signature: ofEOnKLqDpaSDfcdrjmpugM+Wb1jJkelNzGUwLkq/8M=
+Modified: 638914677740159936
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\About Us\Data.yml
+ID: "39e1ba0a-14d4-47f4-986b-96d1dddcbc5b"
+Parent: "a0e67963-5230-4ddb-b228-c13e0847198e"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Marketing Sites/sitea/Home/About Us/Data
+Signature: d59nrw7hu0kiqGGRXggF+vylXRoJKDHK1rViLux/SmY=
+Modified: 638914677738528355
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\Contact Us\Data.yml
+ID: "2028b92c-e4e8-407e-85b5-839658c529d2"
+Parent: "775f95d2-8467-4693-8436-29f3d0238e21"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Marketing Sites/sitea/Home/Contact Us/Data
+Signature: asM40nqmV2x3nr2/TWHPwBUWwHF9x04eGPMMAuLmxIg=
+Modified: 638914677738549336
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\Data\Carousel.yml
+ID: "3003a24c-2910-4f95-83a6-5cb5fd46d3fe"
+Parent: "4d8e5bbe-41ac-4a2c-a083-6f42df84fbae"
+Template: "76ee3eb6-3655-4a75-a65c-ca2c63d4a63f"
+Path: /sitecore/content/Marketing Sites/sitea/Home/Data/Carousel
+Signature: DlpmPlulbJkf2kuQWShSnmZZTEGhYPtUR9Zt6EKnLrU=
+Modified: 638914677738559434
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\Data\Decentralized for a better tomorrow.yml
+ID: "b5ec0276-5547-4118-a34a-43f25ee09b04"
+Parent: "4d8e5bbe-41ac-4a2c-a083-6f42df84fbae"
+Template: "3b5bb909-86df-4ee8-a4d6-9b2f9ae8762f"
+Path: /sitecore/content/Marketing Sites/sitea/Home/Data/Decentralized for a better tomorrow
+Signature: fjxsRvVjTCzPDeNvdxDIli3UG+7VAkYncorxQP0JNhU=
+Modified: 638914677738576825
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\Data\Making earth cooler for people.yml
+ID: "2499eeab-20a5-4fe6-8ff6-2a3e8c94b7e0"
+Parent: "4d8e5bbe-41ac-4a2c-a083-6f42df84fbae"
+Template: "0ea559cc-ef81-453c-bf36-48c472039793"
+Path: /sitecore/content/Marketing Sites/sitea/Home/Data/Making earth cooler for people
+Signature: kPwJXAfS+8bj30CGmgK4KDYneN+o9eYgud5x+hc5ElI=
+Modified: 638914677738586928
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\Data\We didnt reinvent the wheel - Feature.yml
+ID: "40f1480f-193b-4019-9414-84378bbb81cb"
+Parent: "4d8e5bbe-41ac-4a2c-a083-6f42df84fbae"
+Template: "eb59fce7-45aa-4645-8148-1eccaae39aae"
+Path: "/sitecore/content/Marketing Sites/sitea/Home/Data/We didnt reinvent the wheel - Feature"
+Signature: sbUZ+3vOy7V0W1aILyC4sOI/t06MPyVwiOFchXQ6A3Y=
+Modified: 638914677738601525
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Available Renderings\Media.yml
+ID: "26034f9a-4022-4032-b540-cc724018afd5"
+Parent: "157d33da-eefb-4426-93fc-630141d94189"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Available Renderings/Media
+Signature: tUqEPfIwF59KWTBw5mZseo0IqtKHEGtHLP2RJtAn0kM=
+Modified: 638914677740169932
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Available Renderings\Navigation.yml
+ID: "bacfff6b-c666-4429-8565-19902d94b30d"
+Parent: "157d33da-eefb-4426-93fc-630141d94189"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Available Renderings/Navigation
+Signature: Rucbj08qJ/OyZja5oyDYP1paqa9R9ZsWYLpLRp8D5B4=
+Modified: 638914677740179931
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Available Renderings\Page Content.yml
+ID: "0bb6c73d-e5ed-458c-a2ec-ba3a0607c2da"
+Parent: "157d33da-eefb-4426-93fc-630141d94189"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Available Renderings/Page Content
+Signature: Y6Hla2EpyQj628z6eP/ScXbYovoRp7CPJXFg+RwWoXA=
+Modified: 638914677740195013
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Available Renderings\Page Structure.yml
+ID: "4fb510ed-0c60-4c25-9171-dce0eb2ac425"
+Parent: "157d33da-eefb-4426-93fc-630141d94189"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Available Renderings/Page Structure
+Signature: RNgLrbNN2GJUEcQnLNx7kTyE0n+MFNspOxcQgnZh6ZY=
+Modified: 638914677740202703
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\CalloutBanner.yml
+ID: "896cbcc5-d0eb-445e-9893-0637dc4948af"
+Parent: "19a933d6-0b7d-4314-bf89-6caaf1772e4b"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/CalloutBanner
+Signature: bUchmKqQ49GkQomBocUY4Gi1jTyfZU/kS2f3kXUAqbk=
+Modified: 638914677740212817
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\Carousel.yml
+ID: "69169dec-9b06-4f32-a206-8deccb2c7f78"
+Parent: "19a933d6-0b7d-4314-bf89-6caaf1772e4b"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/Carousel
+Signature: lyu2j+CsP3DGzhNVKuNuwvvKhXREY3HsjgHhO8o8VBc=
+Modified: 638914677740212817
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\FeatureSection.yml
+ID: "6102979e-8e04-446d-8fe5-9e48451c7198"
+Parent: "19a933d6-0b7d-4314-bf89-6caaf1772e4b"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/FeatureSection
+Signature: EOzBZLhQUPLSsjyexEKc91UKTJn/zDV7JZexDOTYxrM=
+Modified: 638914677740222807
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\Footer.yml
+ID: "55142165-eb49-4cc6-9e16-5f27ca68dd38"
+Parent: "19a933d6-0b7d-4314-bf89-6caaf1772e4b"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/Footer
+Signature: FsS3HoraAJ9HtUUSquEsJUHh+eTuF2kIVMIvuqfQt2U=
+Modified: 638914677740232808
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\Header.yml
+ID: "200512e7-35ae-441c-b04a-376614a1bf86"
+Parent: "19a933d6-0b7d-4314-bf89-6caaf1772e4b"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/Header
+Signature: WSCPzAQC07xy7FN5C2bTiy1qv3EZKLv+PZBhtEPOxf0=
+Modified: 638914677740242816
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\HeroSection.yml
+ID: "397842b8-0369-488d-b1d8-c6d957b7cf95"
+Parent: "19a933d6-0b7d-4314-bf89-6caaf1772e4b"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/HeroSection
+Signature: jTSSMPEhm2wa9RFW1pR1BZUD5SBH4EpFT3jySDEgLbk=
+Modified: 638914677740252822
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\Image.yml
+ID: "baa64b05-24ca-4c9b-acb2-f886dec7e58a"
+Parent: "19a933d6-0b7d-4314-bf89-6caaf1772e4b"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/Image
+Signature: 1xnU3fNpaG+DDmqSluFVeynqYSAyc3Gq/M/dnoLBJ/o=
+Modified: 638914677740301275
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\LinkList.yml
+ID: "8dc1138a-14ae-455e-b94a-42b72f21f536"
+Parent: "19a933d6-0b7d-4314-bf89-6caaf1772e4b"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/LinkList
+Signature: ZWTevlshtjerqsLRHUNVefgTjMCDOws/TLyhYwyeTrs=
+Modified: 638914677740314171
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\Navigation.yml
+ID: "337ee4e5-594a-4a90-b0db-0dc4ee0fdc48"
+Parent: "19a933d6-0b7d-4314-bf89-6caaf1772e4b"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/Navigation
+Signature: NYIN16eRrE+lUDBYK8+L4I4nEaq0NrcCJXW7fR+w4uk=
+Modified: 638914677740314171
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\PageContent.yml
+ID: "7976b028-2953-402a-83a2-179a01993dd3"
+Parent: "19a933d6-0b7d-4314-bf89-6caaf1772e4b"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/PageContent
+Signature: Dp4Og/Kb471BVvicWrqmZHqR5eO8qAQsDb1dodbOQhM=
+Modified: 638914677740334277
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\Promo.yml
+ID: "2194a876-ccab-418a-bfcc-f9949fdff641"
+Parent: "19a933d6-0b7d-4314-bf89-6caaf1772e4b"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/Promo
+Signature: 3CRnD2WvuY1Nd5/Rh5nAoyuvzi+YkLytVpTiZdFloFs=
+Modified: 638914677740334277
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\RichText.yml
+ID: "f5ddbc9a-816f-41f2-b984-9c52f084f52b"
+Parent: "19a933d6-0b7d-4314-bf89-6caaf1772e4b"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/RichText
+Signature: MRIyD2avC1BjBVC+d70eY1JCjBh0stC6TKv2OhngYUA=
+Modified: 638914677740354410
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\StatsSection.yml
+ID: "0bbaa73c-db58-4066-826f-3240b5796681"
+Parent: "19a933d6-0b7d-4314-bf89-6caaf1772e4b"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/StatsSection
+Signature: FaxIDNovtreix+NE73J3QyZoy7CodsijIxvDMQARFHc=
+Modified: 638914677740354410
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\Title.yml
+ID: "2f9e25d7-6c76-4111-9bb8-2897f238e4fc"
+Parent: "19a933d6-0b7d-4314-bf89-6caaf1772e4b"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/Title
+Signature: Bo8DDuF9EpL9tbwynlRKChGgPCWyBYRJkn8WLys7NPM=
+Modified: 638914677740354410
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Options\Headings.yml
+ID: "4b81d7ab-eb84-4281-af87-c917974c9892"
+Parent: "697d8d7f-1b5e-44e9-9f7c-ba9e9fd88955"
+Template: "e886bb34-2334-47d7-b3df-cddfcbb32655"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options/Headings
+Signature: thrH1Nrs/yfaOVTytJahjxd0HwNe94S2k6nk+U3Sd7k=
+Modified: 638914677740563854
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Options\Icons.yml
+ID: "76bfd7ff-d858-481d-8e01-b04f6a388009"
+Parent: "697d8d7f-1b5e-44e9-9f7c-ba9e9fd88955"
+Template: "e886bb34-2334-47d7-b3df-cddfcbb32655"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options/Icons
+Signature: Ae417WVWNMOjWr5xbhkSuVQ+ibGmWh4tKb3urAIa1NM=
+Modified: 638914677740573843
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Options\Styles.yml
+ID: "282e4764-3036-4833-8c35-a07b81a99c9c"
+Parent: "697d8d7f-1b5e-44e9-9f7c-ba9e9fd88955"
+Template: "e886bb34-2334-47d7-b3df-cddfcbb32655"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options/Styles
+Signature: YamEaxxxzYjX4BednINSHpPWV5xFqf1CrLj+WJhysF0=
+Modified: 638914677740583837
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Page Designs\Main Page Design.yml
+ID: "3ea2e5b1-1030-4653-b731-976ea97e550d"
+Parent: "180388b6-a150-4b80-ad7b-7ba637919b13"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Page Designs/Main Page Design
+Signature: SUNfR50NGAnUI732fMKFfN6+r50XVTa0/TZW9ztrGnU=
+Modified: 638914677738622285
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Background layout.yml
+ID: "8b58dbf4-d226-4fdc-99e6-94e374787f54"
+Parent: "79241c08-e68c-4cdd-9fa5-8ff952e8bcba"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Background layout
+Signature: DVQ3X0vr9Dk4dkuxtHy/F+U5nn4T9OjJ+HS9EIITuDM=
+Modified: 638914677740483654
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Partial Designs\Header.yml
+ID: "04c1a073-d896-4f4c-a161-aac9d3f1fe62"
+Parent: "b583839e-983f-4346-bd41-01cd97e54831"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Partial Designs/Header
+Signature: BtBu5TaksrBEEpfiQozi2+rt9i6X4VRVuUD1nDp5FoU=
+Modified: 638914677740394708
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Partial Designs\Footer.yml
+ID: "87ec8e33-3b79-4d98-a1e5-ef94348a5e16"
+Parent: "b583839e-983f-4346-bd41-01cd97e54831"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Partial Designs/Footer
+Signature: eqqhK1oZstQdodIQapoxjvvaUZbGpc0YeTjCBC7clnA=
+Modified: 638914677740394708
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Common.yml
+ID: "b238e17e-e6aa-4560-8364-58085f29ea39"
+Parent: "79241c08-e68c-4cdd-9fa5-8ff952e8bcba"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Common
+Signature: zarEavjZ3kkoDeRRI73ffR06oVKj7IzuBm6Qd6Li7IY=
+Modified: 638914677740533747
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Add highlight.yml
+ID: "4b22db4c-5385-41da-99d4-a75e31cb7e38"
+Parent: "79241c08-e68c-4cdd-9fa5-8ff952e8bcba"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Add highlight
+Signature: NyHR+zShACdvL0c/lAT+P1X8XjTNEgvE1LXZR+8L3wo=
+Modified: 638914677740452906
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Placeholder Settings\Partial Design.yml
+ID: "b3f02361-4e95-4957-8d63-89f815a3adc9"
+Parent: "05d4f507-1e87-476d-8330-6b3237a716f9"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Placeholder Settings/Partial Design
+Signature: YNcYWiglY8x5OxPuRHVjoBxOFVLHmfB16jAyzP9Y8xw=
+Modified: 638914677740432040
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Container.yml
+ID: "9fdfcafb-6c05-435e-9572-614c873072fd"
+Parent: "79241c08-e68c-4cdd-9fa5-8ff952e8bcba"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Container
+Signature: 7CdBCN4hMrV3/cGCMZUpS+LnOdN5NTaxe9F5PoaseUg=
+Modified: 638914677740543761
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Rich text.yml
+ID: "572ea618-9623-496f-af9b-9a351b40bc8f"
+Parent: "79241c08-e68c-4cdd-9fa5-8ff952e8bcba"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Rich text
+Signature: so8mz0eTh1k2ElqPjREkgwbJRwG621yXDFn5bbw7jHQ=
+Modified: 638914677740503748
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Background color.yml
+ID: "fb2ba85d-3f37-442c-9b23-f85fa1468cd0"
+Parent: "79241c08-e68c-4cdd-9fa5-8ff952e8bcba"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Background color
+Signature: UJRlkoWyUgq/5zW6hlbLO7QSRrr7b82vggkNs3+m6QM=
+Modified: 638914677740472906
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Content alignment.yml
+ID: "54f51b94-1d01-4be7-b301-fc51b58e516a"
+Parent: "79241c08-e68c-4cdd-9fa5-8ff952e8bcba"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Content alignment
+Signature: +KxxSWRRligfr7R/cw7n/ZBncbfJfqdZbpkgrrwjWKQ=
+Modified: 638914677740462908
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Settings\Site Grouping\sitea.yml
+ID: "09bbde15-ee95-4fa9-91d5-544480c386e4"
+Parent: "5cfca57b-57e7-4ddc-ba78-0eba8c61dc40"
+Template: "e46f3af2-39fa-4866-a157-7017c4b2a40c"
+Path: /sitecore/content/Marketing Sites/sitea/Settings/Site Grouping/sitea
+Signature: FUx5KD5iAC+CNA33JXUijeec2K7Y+QzKAUCy/5k5BCw=
+Modified: 638914677740593857
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Spacing.yml
+ID: "86a4f24f-3bbf-4b84-b7d5-11ff32812516"
+Parent: "79241c08-e68c-4cdd-9fa5-8ff952e8bcba"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Spacing
+Signature: EtOLte5CTPe3Mjoeu4QsuuC/oQ0H1dejPTk9oT5mXVo=
+Modified: 638914677740442927
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Image.yml
+ID: "65c324c6-5c8d-4975-87e5-96bb34f0257a"
+Parent: "79241c08-e68c-4cdd-9fa5-8ff952e8bcba"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Image
+Signature: WUlsoN2y+QyKb99Zen7M8qnmKXKAXNgyQXHJlx7kboA=
+Modified: 638914677740523754
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Data\Logos\Partner Logos\Oxfam.yml
+ID: "a8c1489a-af16-498b-9028-6e7a0a1275ec"
+Parent: "7e6087b3-ed43-4fb9-b697-5eabc23bdd54"
+Template: "96185e83-b909-4f9b-9768-6c2bcf0c5dbd"
+Path: /sitecore/content/Marketing Sites/sitea/Data/Logos/Partner Logos/Oxfam
+Signature: wRobDWUAblNPvB3rbhrjUWwK2BV+DO7SjyUi2hJbo+4=
+Modified: 638914677740603839
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Data\Logos\Partner Logos\Greenpeace.yml
+ID: "3d4d7f99-4625-4b27-90fe-c00f07180ad7"
+Parent: "7e6087b3-ed43-4fb9-b697-5eabc23bdd54"
+Template: "96185e83-b909-4f9b-9768-6c2bcf0c5dbd"
+Path: /sitecore/content/Marketing Sites/sitea/Data/Logos/Partner Logos/Greenpeace
+Signature: ngm/PfbAWG3CPwTuJMMz5oObQ/7lcW+sH2ljrecsP2g=
+Modified: 638914677740593857
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Link list.yml
+ID: "37774e13-7764-4c59-a049-f6ae4731a783"
+Parent: "79241c08-e68c-4cdd-9fa5-8ff952e8bcba"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Link list
+Signature: 5gjEJNkESqrRZUxf2Slc20zTBKeDkVwVaw1vbffMq2Q=
+Modified: 638914677740493761
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Data\Logos\Partner Logos\WWF.yml
+ID: "e26573a7-0d1f-4e90-9839-04b6e4b457cb"
+Parent: "7e6087b3-ed43-4fb9-b697-5eabc23bdd54"
+Template: "96185e83-b909-4f9b-9768-6c2bcf0c5dbd"
+Path: /sitecore/content/Marketing Sites/sitea/Data/Logos/Partner Logos/WWF
+Signature: RJYub8XwWnyMsDfFW1YyCvhhaGlHf/Vxdyp10N/bGWQ=
+Modified: 638914677740603839
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Data\Logos\Partner Logos\United Nations.yml
+ID: "bbafc0f0-b2b0-4043-b3a1-2df2bbfb1c77"
+Parent: "7e6087b3-ed43-4fb9-b697-5eabc23bdd54"
+Template: "96185e83-b909-4f9b-9768-6c2bcf0c5dbd"
+Path: /sitecore/content/Marketing Sites/sitea/Data/Logos/Partner Logos/United Nations
+Signature: TLBUbHPAFRwKdgQzjOLn1Sw3lTa5WDgnZ92RRo1EWe4=
+Modified: 638914677740603839
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Navigation.yml
+ID: "fd4feadd-99c4-4281-bd84-7ed19ec64884"
+Parent: "79241c08-e68c-4cdd-9fa5-8ff952e8bcba"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Navigation
+Signature: Fj1peLbE90qlz2g7OCyJ0a5rY8o1aIA65PXYyvNe3o4=
+Modified: 638914677740493761
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\About Us\Data\Text 1.yml
+ID: "349023d1-50e8-4e91-97d0-195250a75b97"
+Parent: "39e1ba0a-14d4-47f4-986b-96d1dddcbc5b"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/Marketing Sites/sitea/Home/About Us/Data/Text 1
+Signature: rlAC7yp9Y2gf9/wC2lomwcd278qzl8JY3jbn9J5+fNY=
+Modified: 638914677738674405
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\About Us\Data\About Us Page.yml
+ID: "5e2b70ab-f4a5-42d9-a774-2bd1c583e8f6"
+Parent: "39e1ba0a-14d4-47f4-986b-96d1dddcbc5b"
+Template: "0ea559cc-ef81-453c-bf36-48c472039793"
+Path: /sitecore/content/Marketing Sites/sitea/Home/About Us/Data/About Us Page
+Signature: mGk1aqVvYTTNnIKEAIg/n1zu/5q+qVh7HUfRkqZfs3s=
+Modified: 638914677738669311
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Promo.yml
+ID: "cd112c9d-adc6-44d7-b15d-b53cfe39bbfe"
+Parent: "79241c08-e68c-4cdd-9fa5-8ff952e8bcba"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Promo
+Signature: Fz/BzTd1oo9cIq2GzUCPBPe3G6ledQsy1NPdTdwiyLs=
+Modified: 638914677740513757
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\Contact Us\Data\Contact Us Page.yml
+ID: "c15e0412-22b7-4b84-a003-aa1240662194"
+Parent: "2028b92c-e4e8-407e-85b5-839658c529d2"
+Template: "0ea559cc-ef81-453c-bf36-48c472039793"
+Path: /sitecore/content/Marketing Sites/sitea/Home/Contact Us/Data/Contact Us Page
+Signature: +P76fc8RKIpn3rBLnoXWSdu3c3fGRjBKUdeeV3/r9KU=
+Modified: 638914677738694498
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\Data\Decentralized for a better tomorrow\76 billion.yml
+ID: "9d8b1111-bdee-4c43-aa70-2a57e10fa2c8"
+Parent: "b5ec0276-5547-4118-a34a-43f25ee09b04"
+Template: "08c67ac3-d476-474a-a479-4c376627de6d"
+Path: /sitecore/content/Marketing Sites/sitea/Home/Data/Decentralized for a better tomorrow/76 billion
+Signature: Yi6t+tqLY4zf4WGshjBzoXuZxfvKj/xEfmAVrnxsPvU=
+Modified: 638914677738983535
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\Data\Carousel\Slide 1.yml
+ID: "fb6ad75b-2407-4cab-af2b-cb1a9f9b4f00"
+Parent: "3003a24c-2910-4f95-83a6-5cb5fd46d3fe"
+Template: "53319fa0-dfc5-45d4-98ec-c68f9abb660a"
+Path: /sitecore/content/Marketing Sites/sitea/Home/Data/Carousel/Slide 1
+Signature: AKFtsMh0bZ8iKhnhkqKX1m5anSTHWSXXuuFm7LosWDo=
+Modified: 638914677738709656
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\Data\Decentralized for a better tomorrow\90 million.yml
+ID: "ee8b5a2a-ea18-4edc-85cb-e5715a4ee3b0"
+Parent: "b5ec0276-5547-4118-a34a-43f25ee09b04"
+Template: "08c67ac3-d476-474a-a479-4c376627de6d"
+Path: /sitecore/content/Marketing Sites/sitea/Home/Data/Decentralized for a better tomorrow/90 million
+Signature: XRtvR29eCYemrfBds5bwkH3egx2aCB5twNYN/HMA8rE=
+Modified: 638914677739003500
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\Data\We didnt reinvent the wheel - Feature\Flowbite.yml
+ID: "71ac83c2-f73f-48e4-a78c-32f73d77ee42"
+Parent: "40f1480f-193b-4019-9414-84378bbb81cb"
+Template: "09221d67-8977-4664-9388-1b62827ef5e0"
+Path: "/sitecore/content/Marketing Sites/sitea/Home/Data/We didnt reinvent the wheel - Feature/Flowbite"
+Signature: SS1lKLpnHBlezWUW/ymDo0b+sJ2s57jwrAHem7eMxrk=
+Modified: 638914677739028492
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\Data\Carousel\Slide 2.yml
+ID: "f34deb19-7f3e-4e4e-8c47-8fd923a59a42"
+Parent: "3003a24c-2910-4f95-83a6-5cb5fd46d3fe"
+Template: "53319fa0-dfc5-45d4-98ec-c68f9abb660a"
+Path: /sitecore/content/Marketing Sites/sitea/Home/Data/Carousel/Slide 2
+Signature: 8+94xqCfxTssiyXorL+FC9gD3ZEEZmx1/HmDcRfx4To=
+Modified: 638914677738719653
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\Data\We didnt reinvent the wheel - Feature\Figma.yml
+ID: "1e01f83d-8604-4881-b19c-fe6f454ad78f"
+Parent: "40f1480f-193b-4019-9414-84378bbb81cb"
+Template: "09221d67-8977-4664-9388-1b62827ef5e0"
+Path: "/sitecore/content/Marketing Sites/sitea/Home/Data/We didnt reinvent the wheel - Feature/Figma"
+Signature: BtDmmufPvFIGimpClLxQXsPgCtGaj9dA/Bfk3H5Nk6k=
+Modified: 638914677739023382
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\Data\We didnt reinvent the wheel - Feature\Tailwind.yml
+ID: "9eacdee6-78c6-47d0-b003-49a810580aad"
+Parent: "40f1480f-193b-4019-9414-84378bbb81cb"
+Template: "09221d67-8977-4664-9388-1b62827ef5e0"
+Path: "/sitecore/content/Marketing Sites/sitea/Home/Data/We didnt reinvent the wheel - Feature/Tailwind"
+Signature: mat8uPmzUmxWs+SNGf9jyRVAO4M1bKouQs714YNqtdw=
+Modified: 638914677739058608
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\Data\Carousel\Slide 3.yml
+ID: "db11d846-e853-40eb-bc33-e50d747b9e97"
+Parent: "3003a24c-2910-4f95-83a6-5cb5fd46d3fe"
+Template: "53319fa0-dfc5-45d4-98ec-c68f9abb660a"
+Path: /sitecore/content/Marketing Sites/sitea/Home/Data/Carousel/Slide 3
+Signature: VxfomVrWFGcX2ljVJuY4mLVwFw87+hmqC/luQdf58mM=
+Modified: 638914677738729654
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\Data\We didnt reinvent the wheel - Feature\Themesberg.yml
+ID: "5d034df8-f84f-4c6b-b646-f8b94822d1c7"
+Parent: "40f1480f-193b-4019-9414-84378bbb81cb"
+Template: "09221d67-8977-4664-9388-1b62827ef5e0"
+Path: "/sitecore/content/Marketing Sites/sitea/Home/Data/We didnt reinvent the wheel - Feature/Themesberg"
+Signature: OHu6rc2WHGY5SVKmep4a63YGTL3qPS2XtvBqK5RcxOM=
+Modified: 638914677739078591
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\Carousel\Default.yml
+ID: "5c85c75a-ddd6-44ef-b1d4-6727909925b3"
+Parent: "69169dec-9b06-4f32-a206-8deccb2c7f78"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/Carousel/Default
+Signature: a7ldnB5DafgXNrrez3oxtK3oc+d3nbZX/SokeC+5xrs=
+Modified: 638914677740624519
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\Data\Carousel\Slide 4.yml
+ID: "09ac3ed9-6658-43d5-9dee-b3517ab5c070"
+Parent: "3003a24c-2910-4f95-83a6-5cb5fd46d3fe"
+Template: "53319fa0-dfc5-45d4-98ec-c68f9abb660a"
+Path: /sitecore/content/Marketing Sites/sitea/Home/Data/Carousel/Slide 4
+Signature: ZiZ4mo8nIvbkXLiKMWlkhDWu/vvVtIfiYy9gebXDyIA=
+Modified: 638914677738863524
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\CalloutBanner\Default.yml
+ID: "4245cd89-266e-4b02-a0c7-8020eebe786e"
+Parent: "896cbcc5-d0eb-445e-9893-0637dc4948af"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/CalloutBanner/Default
+Signature: DQRfreJTwSGwvZovfWuxscvnbJcpAT9Wm1Pgl5GIPvc=
+Modified: 638914677740624519
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\FeatureSection\Default.yml
+ID: "f46b78b4-0158-4f0e-b6af-4c838c85062d"
+Parent: "6102979e-8e04-446d-8fe5-9e48451c7198"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/FeatureSection/Default
+Signature: fhoa1JJq5vjfLmcAkqUC/W2F9OMKoGz+N6uVFQxk24Y=
+Modified: 638914677740644596
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\Data\Carousel\Slide 5.yml
+ID: "a36f0a60-2e25-4444-9642-63135a60a46e"
+Parent: "3003a24c-2910-4f95-83a6-5cb5fd46d3fe"
+Template: "53319fa0-dfc5-45d4-98ec-c68f9abb660a"
+Path: /sitecore/content/Marketing Sites/sitea/Home/Data/Carousel/Slide 5
+Signature: t2xhdx0ZehgsKmPk8/mjMcDPXSWbVcFIidY1LMp8blI=
+Modified: 638914677738883653
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\Promo\Default.yml
+ID: "62e2a703-24bd-4877-a22c-8a5a39e31ac2"
+Parent: "2194a876-ccab-418a-bfcc-f9949fdff641"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/Promo/Default
+Signature: cwtYnM/Y4a9Vwa85DGlAsm2q1TPVXYBi3egBqocrCjE=
+Modified: 638914677740699799
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\StatsSection\Default.yml
+ID: "7616ae7c-a76f-427c-98c2-352d55da6d28"
+Parent: "0bbaa73c-db58-4066-826f-3240b5796681"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/StatsSection/Default
+Signature: WBnyOECDZRQk7sDY316YofJabMdJg6yjjqFkOLgqM9I=
+Modified: 638914677740699799
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\Data\Decentralized for a better tomorrow\010.yml
+ID: "9641805d-5c60-4fa6-9657-5a731665e4bc"
+Parent: "b5ec0276-5547-4118-a34a-43f25ee09b04"
+Template: "08c67ac3-d476-474a-a479-4c376627de6d"
+Path: /sitecore/content/Marketing Sites/sitea/Home/Data/Decentralized for a better tomorrow/010
+Signature: LoHtbT9GMxoPTSmKb1dV5UPVMkXgs3h3M6WM0tPutBc=
+Modified: 638914677738903760
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\RichText\Default.yml
+ID: "3cab9e9e-a2b1-428d-bed2-4cc353bfd909"
+Parent: "f5ddbc9a-816f-41f2-b984-9c52f084f52b"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/RichText/Default
+Signature: InibufXftsnQS7T/eMVw3HatGrTfb5pNLTGFqZZAU2g=
+Modified: 638914677740699799
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\Title\Default.yml
+ID: "b45a0fa2-01b8-46a3-bbf9-e72a2b534a02"
+Parent: "2f9e25d7-6c76-4111-9bb8-2897f238e4fc"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/Title/Default
+Signature: jGDKZZi0VIC1NK++tcRqUMjBS1eUxqR/nwgNCWF3R4E=
+Modified: 638914677740719854
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\Data\Decentralized for a better tomorrow\34 million.yml
+ID: "f99c38c8-aa92-40d0-952b-b2024341f16c"
+Parent: "b5ec0276-5547-4118-a34a-43f25ee09b04"
+Template: "08c67ac3-d476-474a-a479-4c376627de6d"
+Path: /sitecore/content/Marketing Sites/sitea/Home/Data/Decentralized for a better tomorrow/34 million
+Signature: xKcVaqIVxNpzbCYwzzE5rxttafPEW0sof8ERLxeuRw4=
+Modified: 638914677738921271
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Options\Headings\H1.yml
+ID: "d99e12fd-fd6e-4548-bf9f-35bfb7b4aac5"
+Parent: "4b81d7ab-eb84-4281-af87-c917974c9892"
+Template: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options/Headings/H1
+Signature: eM94moj4AyVv+G8LunrW6mcub4equ6GgeADPF5kGQdU=
+Modified: 638914677741377872
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Options\Headings\H3.yml
+ID: "2fbac5f8-2de8-403b-b4dc-61231027845e"
+Parent: "4b81d7ab-eb84-4281-af87-c917974c9892"
+Template: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options/Headings/H3
+Signature: jDbL1q3dNBDKAp/srAbU029wc8Z57xjcoX7T5reDlMk=
+Modified: 638914677741385602
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Home\Data\Decentralized for a better tomorrow\600.yml
+ID: "7183351e-d92d-4fc8-9b6e-ed2ebc6bfe4a"
+Parent: "b5ec0276-5547-4118-a34a-43f25ee09b04"
+Template: "08c67ac3-d476-474a-a479-4c376627de6d"
+Path: /sitecore/content/Marketing Sites/sitea/Home/Data/Decentralized for a better tomorrow/600
+Signature: uJLeyK9jx/vJuK7bQLRd/8VXDODtM8/N4X6Pz6rCroI=
+Modified: 638914677738943503
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Options\Headings\H2.yml
+ID: "3a69e11e-6ede-44cd-b91e-56795a791671"
+Parent: "4b81d7ab-eb84-4281-af87-c917974c9892"
+Template: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options/Headings/H2
+Signature: uj3VT/ZAsSCD9L+0etJAtqesAg5GQAEMyeztIIK1imU=
+Modified: 638914677741385602
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Options\Headings\H4.yml
+ID: "9529258b-1eb2-4877-acf4-b00e51909f46"
+Parent: "4b81d7ab-eb84-4281-af87-c917974c9892"
+Template: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options/Headings/H4
+Signature: OgGh7cxl9SpHGWh0uPrv+0nbSVL/qLN9HmPCJnFd6EY=
+Modified: 638914677741385602
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\Footer\Default.yml
+ID: "99fa2854-1339-4915-a662-5370f00b6548"
+Parent: "55142165-eb49-4cc6-9e16-5f27ca68dd38"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/Footer/Default
+Signature: SR3Rc7EPgAhuiNrP+747nh+FnKnMT0xIDkb0QUV38OE=
+Modified: 638914677740644596
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Options\Styles\Teal.yml
+ID: "10ca6ffb-c44d-4b71-a228-2aa9b064212c"
+Parent: "282e4764-3036-4833-8c35-a07b81a99c9c"
+Template: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options/Styles/Teal
+Signature: 7GJQ/QiVN1kIST+wAmSO49KADc6oeq5dqfLcgdPBvbE=
+Modified: 638914677739756933
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Options\Styles\Purple.yml
+ID: "ccba3415-7279-4c59-bd27-3f6d4ae088a7"
+Parent: "282e4764-3036-4833-8c35-a07b81a99c9c"
+Template: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options/Styles/Purple
+Signature: 4IJRNTq9aLsvbaFpBgY9i0TcIGEXY/eU7ryn6SHrWp0=
+Modified: 638914677739780836
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\Header\Default.yml
+ID: "d14ecf7d-d40c-45c1-83de-822f824f5dc4"
+Parent: "200512e7-35ae-441c-b04a-376614a1bf86"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/Header/Default
+Signature: 1AybX407Gq8IHg50rNkRWPLF8FmFKVLdk/LkmAbGh00=
+Modified: 638914677740644596
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Partial Designs\Footer\Data.yml
+ID: "5164b5bc-c4e7-4bd1-a983-f7c09f26f35d"
+Parent: "87ec8e33-3b79-4d98-a1e5-ef94348a5e16"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Partial Designs/Footer/Data
+Signature: 4wg3xDmY3z8XokdqaglOLHlQMUTq/MXFIt/LCjcGhlA=
+Modified: 638914677740719854
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Options\Styles\Secondary.yml
+ID: "96d71d63-cc1f-485d-be55-d0a28c3e8218"
+Parent: "282e4764-3036-4833-8c35-a07b81a99c9c"
+Template: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options/Styles/Secondary
+Signature: ohslgQ5H7xl57qe0WdAhnsLouoUTHou06XzqHn/nG2w=
+Modified: 638914677741658777
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\HeroSection\Default.yml
+ID: "1b77df24-f902-4da0-805e-9685357fce7d"
+Parent: "397842b8-0369-488d-b1d8-c6d957b7cf95"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/HeroSection/Default
+Signature: qt+htT9wtl6LNwxpNBx8GGsKnAxCo29NFYcS+8noxjg=
+Modified: 638914677740664664
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Placeholder Settings\Partial Design\Header.yml
+ID: "c1261725-bf14-4af4-aee8-858b6fadb7d4"
+Parent: "b3f02361-4e95-4957-8d63-89f815a3adc9"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Placeholder Settings/Partial Design/Header
+Signature: YPWjkzeTwuEREcDsAV0ix2z4b5f/TuiVjCXtAZFBKJY=
+Modified: 638914677741055127
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Partial Designs\Header\Data.yml
+ID: "24206825-7016-4a51-bf1c-deab1409fe98"
+Parent: "04c1a073-d896-4f4c-a161-aac9d3f1fe62"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Partial Designs/Header/Data
+Signature: 9bOJwGemJ8wVfrBNJcFArhYKMkQ5Y2ZrlD4bbrXweOI=
+Modified: 638914677740719854
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\HeroSection\SingleColumn.yml
+ID: "649d31fb-34ec-423d-bfc4-10834b9b4fb1"
+Parent: "397842b8-0369-488d-b1d8-c6d957b7cf95"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/HeroSection/SingleColumn
+Signature: ghjZJgLqn4He96rhcqGJwJleWG033c+Uygkv+XWSgJk=
+Modified: 638914677740664664
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Add highlight\Highlighted bottom.yml
+ID: "dc6413b8-8580-478c-8893-a31c3db3a2ee"
+Parent: "4b22db4c-5385-41da-99d4-a75e31cb7e38"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Add highlight/Highlighted bottom
+Signature: B7kMW8ZCoF2ahE6Lk0zHiDAjWyr3bHO2Mw4qCjR6hCc=
+Modified: 638914677741125118
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Placeholder Settings\Partial Design\Footer.yml
+ID: "f2a001ad-ead2-4af5-8bcd-d2c1e605eec8"
+Parent: "b3f02361-4e95-4957-8d63-89f815a3adc9"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Placeholder Settings/Partial Design/Footer
+Signature: ush29ID/avCs4UAYabgd/q8qc8Pj6wHjHE0voYYpqwQ=
+Modified: 638914677741045118
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\Image\Default.yml
+ID: "a0cebbac-e12c-4349-a139-d28ff3c6935d"
+Parent: "baa64b05-24ca-4c9b-acb2-f886dec7e58a"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/Image/Default
+Signature: W4xVc6v3KH7UFWRaUVobq41dC7prSMonGX/2UxE/bxE=
+Modified: 638914677740664664
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Common\Boxed.yml
+ID: "b4b5792d-a788-4669-a588-3e5a2ddfcf7e"
+Parent: "b238e17e-e6aa-4560-8364-58085f29ea39"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Common/Boxed
+Signature: hyRm0dF+5lZZ1bl6CNMLlexxZicOPYTfn98blVj4T9s=
+Modified: 638914677741347869
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Add highlight\Highlighted left.yml
+ID: "334c8b97-dd6b-46a1-bbdf-6b0c2b34445e"
+Parent: "4b22db4c-5385-41da-99d4-a75e31cb7e38"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Add highlight/Highlighted left
+Signature: vFkwsDc4Jf7LjSShFW0W7xOSHJh0ugfAUwk/FYJHveA=
+Modified: 638914677741105123
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\LinkList\Default.yml
+ID: "0bf49313-97bf-4186-ab1a-b4d1477e301c"
+Parent: "8dc1138a-14ae-455e-b94a-42b72f21f536"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/LinkList/Default
+Signature: 6a3kKtKBd4zSJWN2RHR0yyM7jxtPWY7h0G7O70Efh8Q=
+Modified: 638914677740684726
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Common\Button link style.yml
+ID: "6d41080b-e647-422f-9a6e-42251aed05a7"
+Parent: "b238e17e-e6aa-4560-8364-58085f29ea39"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Common/Button link style
+Signature: oCN6gYT8YjWxDYPViDSvdvwOyNmRq7Q8kD9Nj6iTNes=
+Modified: 638914677741357874
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Add highlight\Highlighted right.yml
+ID: "6eb0d4fb-566f-43c7-af49-3ab576e543c0"
+Parent: "4b22db4c-5385-41da-99d4-a75e31cb7e38"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Add highlight/Highlighted right
+Signature: Wk4jmJfb+ZoviSXTNQCi7l5WuY7+mEwlciDfVH6mlbs=
+Modified: 638914677741115123
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\Navigation\Default.yml
+ID: "7a044ba0-3b39-4bd3-9938-229ead50baa4"
+Parent: "337ee4e5-594a-4a90-b0db-0dc4ee0fdc48"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/Navigation/Default
+Signature: 6a3kKtKBd4zSJWN2RHR0yyM7jxtPWY7h0G7O70Efh8Q=
+Modified: 638914677740684726
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Content alignment\Align content center.yml
+ID: "ca9a50d6-a22e-4c66-9778-45451a06e96b"
+Parent: "54f51b94-1d01-4be7-b301-fc51b58e516a"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Content alignment/Align content center
+Signature: mRt/UF0E0avr7YGS1H37GyGrzrUJjv9zitgNsnPpqdU=
+Modified: 638914677741145119
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Common\No borders.yml
+ID: "bf3f2eca-2511-4bf8-bb6a-62c93d8f543d"
+Parent: "b238e17e-e6aa-4560-8364-58085f29ea39"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Common/No borders
+Signature: QC/v7/zavyACxmX0hDGmdh0VLGNuTcliVj7Wlrmd0yU=
+Modified: 638914677741337867
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Headless Variants\PageContent\Default.yml
+ID: "99e6e700-88db-402f-9b1e-957e665bf524"
+Parent: "7976b028-2953-402a-83a2-179a01993dd3"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Headless Variants/PageContent/Default
+Signature: TzhZg3rgbI+8SWwRCI/WUOL/VUkF3hdmRC0cTNrcUts=
+Modified: 638914677740699799
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Content alignment\Align content left.yml
+ID: "1aa6e87c-eece-4dea-ae15-28b39b009b8e"
+Parent: "54f51b94-1d01-4be7-b301-fc51b58e516a"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Content alignment/Align content left
+Signature: RVVz0Ib5eCSUqbiyJyCoWJ8ikKXzWGTgm1Wmz2uHA3w=
+Modified: 638914677741135127
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Container\Bordered.yml
+ID: "e6a825a8-9f3e-4f41-8aa7-4d17125068ba"
+Parent: "9fdfcafb-6c05-435e-9572-614c873072fd"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Container/Bordered
+Signature: zX5a8e07x+UULDnNmRL/qLFHHE8pLbvXzMzyZApasXg=
+Modified: 638914677741367867
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Options\Icons\Affiliatetheme.yml
+ID: "1ec94105-2371-4749-b882-5b76904be2ef"
+Parent: "76bfd7ff-d858-481d-8e01-b04f6a388009"
+Template: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options/Icons/Affiliatetheme
+Signature: v8YpGq1GKH+hcWEVUrXSwfH/+rciF7TjGBSEOik9SaI=
+Modified: 638914677739088602
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Navigation\navigation-main-horizontal.yml
+ID: "385a4b5f-c4ec-4f88-860d-9187e8bd56ac"
+Parent: "fd4feadd-99c4-4281-bd84-7ed19ec64884"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/Marketing Sites/sitea/Presentation/Styles/Navigation/navigation-main-horizontal"
+Signature: g/g+sYtSwnTNQCgwKAaU08VODpN5GoYk4c9Z8Kudums=
+Modified: 638914677741222717
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Content alignment\Align content right.yml
+ID: "c3c9ceaa-11f5-4090-a398-0ef233c474c7"
+Parent: "54f51b94-1d01-4be7-b301-fc51b58e516a"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Content alignment/Align content right
+Signature: ztERNWuoNi3T4RzBwbVs2V4/cDgmKZEC+xVlcIrp+I8=
+Modified: 638914677741145119
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Options\Icons\Figma.yml
+ID: "810143e0-be75-4414-87ff-00a6edd29f7e"
+Parent: "76bfd7ff-d858-481d-8e01-b04f6a388009"
+Template: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options/Icons/Figma
+Signature: bB5ve2hZnn/HXV6zEvjNhms3BfI9IVUB4cE7opPf5o4=
+Modified: 638914677739151373
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Navigation\navigation-main.yml
+ID: "86fb2d86-9e75-4928-92b3-fe2a83a86d4f"
+Parent: "fd4feadd-99c4-4281-bd84-7ed19ec64884"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/Marketing Sites/sitea/Presentation/Styles/Navigation/navigation-main"
+Signature: pPveQ/yI9+6q8pFYD/m7M3mTN9q2BQIuDKG4osFiytQ=
+Modified: 638914677741222717
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Image\Image default size.yml
+ID: "02f218c3-fd81-4537-a5f8-25163382a5e9"
+Parent: "65c324c6-5c8d-4975-87e5-96bb34f0257a"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Image/Image default size
+Signature: jf4ZJgfIAdFgE9iVJpOCbZYxiku4Z8ySqxH6CG03IPE=
+Modified: 638914677741337867
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Options\Icons\Grip Fire.yml
+ID: "5461d0c3-7b36-4687-8ef4-453a3c4252f1"
+Parent: "76bfd7ff-d858-481d-8e01-b04f6a388009"
+Template: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options/Icons/Grip Fire
+Signature: TTygcx22GRNDWqIzrI+RsPbaQoZNeasL0bV2i6r7vxU=
+Modified: 638914677739726952
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Navigation\navigation-mobile.yml
+ID: "4f0964b5-ce55-4553-8270-affc02f15316"
+Parent: "fd4feadd-99c4-4281-bd84-7ed19ec64884"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/Marketing Sites/sitea/Presentation/Styles/Navigation/navigation-mobile"
+Signature: F7DKnS/fZhYRGKyhzZlMzMZEQi0ahTwXhlz/8WwajjU=
+Modified: 638914677741232710
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Link list\List vertical.yml
+ID: "3f676cab-997f-49c1-933f-39682fb1e373"
+Parent: "37774e13-7764-4c59-a049-f6ae4731a783"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Link list/List vertical
+Signature: pjTXkMS94g1kpAD46by5jGJFUTZn8MtJkd6QX7JY7EY=
+Modified: 638914677741297794
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Options\Icons\Square Space.yml
+ID: "5b0834d4-1238-4123-92fa-b0abc8ce1671"
+Parent: "76bfd7ff-d858-481d-8e01-b04f6a388009"
+Template: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options/Icons/Square Space
+Signature: xJws96bRD4s8LoFWEkkd1SGDYrKezAa0NFjV61TBmnI=
+Modified: 638914677739736957
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Navigation\navigation-sidebar.yml
+ID: "4736a6c7-f4eb-4a40-b25e-c96a420cb5a1"
+Parent: "fd4feadd-99c4-4281-bd84-7ed19ec64884"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/Marketing Sites/sitea/Presentation/Styles/Navigation/navigation-sidebar"
+Signature: vkCDPW8s2CrJRa0WSgEajzjrJyLR0SLA/5LR3xt4WFo=
+Modified: 638914677741242708
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Navigation\navigation-fat.yml
+ID: "526d5d4b-2236-4be9-a6a1-a087ba56b559"
+Parent: "fd4feadd-99c4-4281-bd84-7ed19ec64884"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/Marketing Sites/sitea/Presentation/Styles/Navigation/navigation-fat"
+Signature: 5fnih80kdSqu+3PdpQNYNcHcWzRpHF4BVdtt3pHs0QI=
+Modified: 638914677741272708
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Options\Icons\Video.yml
+ID: "a3b02552-ef66-4f64-a6a1-c06ea69816d8"
+Parent: "76bfd7ff-d858-481d-8e01-b04f6a388009"
+Template: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options/Icons/Video
+Signature: n4bSGfYY44UgZmogE0fM9cPXiISGMQeCbJYXTGMRlcA=
+Modified: 638914677739746927
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Partial Designs\Footer\Data\Footer.yml
+ID: "7d99d894-e450-4b58-b0d6-e46dfa502bdb"
+Parent: "5164b5bc-c4e7-4bd1-a983-f7c09f26f35d"
+Template: "5a22b4fb-b33d-4fc8-84e5-1467e3447d35"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Partial Designs/Footer/Data/Footer
+Signature: krFgMHHyyzNKrh3HkeyMQBy68tJIL3SMJAqAzBRnqsk=
+Modified: 638914677741658777
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Partial Designs\Header\Data\Header - Chrome\Contact Us.yml
+ID: "8ba3d664-d56a-4513-a174-5e469c97babb"
+Parent: "871229f2-78c5-4377-93df-798f4db43f74"
+Template: "6f108e3c-5d57-42f8-a910-c22920269b0a"
+Path: "/sitecore/content/Marketing Sites/sitea/Presentation/Partial Designs/Header/Data/Header - Chrome/Contact Us"
+Signature: ZLJiF8OLfn0/5UPFCk+fkfiZkC+2lRqMbCXTJKdCbv4=
+Modified: 638914677741703832
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Options\Styles\Green.yml
+ID: "bf786928-7b3e-44d8-a53f-4863ef5d6443"
+Parent: "282e4764-3036-4833-8c35-a07b81a99c9c"
+Template: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options/Styles/Green
+Signature: M3Tua1+YuMfjXcUfWKkc0GlFsUVx8lvIm4oZuenvMq8=
+Modified: 638914677739821226
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Partial Designs\Header\Data\Header - Chrome.yml
+ID: "871229f2-78c5-4377-93df-798f4db43f74"
+Parent: "24206825-7016-4a51-bf1c-deab1409fe98"
+Template: "329ebe29-f9ff-453a-ad8f-24b667ab00f5"
+Path: "/sitecore/content/Marketing Sites/sitea/Presentation/Partial Designs/Header/Data/Header - Chrome"
+Signature: mTLQgk4ruQEHuP3zuAioeNJpHunFVcjRjVatRM3Ae2E=
+Modified: 638914677741668774
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Partial Designs\Header\Data\Header - Chrome\Home.yml
+ID: "78019054-9628-4fad-bf85-ccfb38a69354"
+Parent: "871229f2-78c5-4377-93df-798f4db43f74"
+Template: "6f108e3c-5d57-42f8-a910-c22920269b0a"
+Path: "/sitecore/content/Marketing Sites/sitea/Presentation/Partial Designs/Header/Data/Header - Chrome/Home"
+Signature: VO0dJiHOEjBVy5z5X810yp+gfSreYy3NKy/Tx6UpX8s=
+Modified: 638914677741713906
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Options\Styles\Indigo.yml
+ID: "4fd9a624-d740-4b86-a06c-0bc2b7e2f2a9"
+Parent: "282e4764-3036-4833-8c35-a07b81a99c9c"
+Template: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options/Styles/Indigo
+Signature: qgO41ZfJ/2CsgL2Xj0lLbT7H4+pRXB01PXfAwVyPDMI=
+Modified: 638914677739766919
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Partial Designs\Header\Data\Main Header.yml
+ID: "acf0c0df-f1b8-417d-8e6d-353df929cdf2"
+Parent: "24206825-7016-4a51-bf1c-deab1409fe98"
+Template: "329ebe29-f9ff-453a-ad8f-24b667ab00f5"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Partial Designs/Header/Data/Main Header
+Signature: QBLbadx9BtEWFLSuyUar0P/3WUhSNkToWUefeD8QUbc=
+Modified: 638914677741678785
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Partial Designs\Header\Data\Main Header\About.yml
+ID: "76506131-d257-49a7-9c80-c31d310b0bd8"
+Parent: "acf0c0df-f1b8-417d-8e6d-353df929cdf2"
+Template: "6f108e3c-5d57-42f8-a910-c22920269b0a"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Partial Designs/Header/Data/Main Header/About
+Signature: uT6/DGFYMRtKm/qSyHNeKFe/WrBUNPaRA3WrOApje0E=
+Modified: 638914677741723909
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Options\Styles\Primary.yml
+ID: "00b150bc-c273-4833-825e-06e164b6acb2"
+Parent: "282e4764-3036-4833-8c35-a07b81a99c9c"
+Template: "36eec5f6-402a-4031-ac3b-d31977be3b16"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Options/Styles/Primary
+Signature: xFa7La3jKwuclKu/eNWp1a87bBcvvf6T47YgXkzhcLY=
+Modified: 638914677741648777
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Partial Designs\Header\Data\Header - Chrome\About.yml
+ID: "632915ed-83d2-46b6-b524-b0fdff22ed81"
+Parent: "871229f2-78c5-4377-93df-798f4db43f74"
+Template: "6f108e3c-5d57-42f8-a910-c22920269b0a"
+Path: "/sitecore/content/Marketing Sites/sitea/Presentation/Partial Designs/Header/Data/Header - Chrome/About"
+Signature: z2VfUdzGBuxymT+FnTxKD4/d0pRFcXUWTkcyl6DIMsQ=
+Modified: 638914677741698773
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Partial Designs\Header\Data\Main Header\Contact Us.yml
+ID: "366f98bd-f054-4ff8-8431-61f989ddde24"
+Parent: "acf0c0df-f1b8-417d-8e6d-353df929cdf2"
+Template: "6f108e3c-5d57-42f8-a910-c22920269b0a"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Partial Designs/Header/Data/Main Header/Contact Us
+Signature: NODn7qjVN/lzBWD5shXP3QAVbYgd88k/Z25CAFRdpks=
+Modified: 638914677741723909
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Add highlight\Highlighted top.yml
+ID: "9640fd7e-25d6-48fe-a426-c5eb08193d57"
+Parent: "4b22db4c-5385-41da-99d4-a75e31cb7e38"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Add highlight/Highlighted top
+Signature: PaS4Q/tlr0UQLPgjpY5uTQimtRnRFEB25coQjoRAXgg=
+Modified: 638914677741115123
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Background color\Clean background.yml
+ID: "69bd4893-c1f9-4ee5-b2a2-ff115c3bb62e"
+Parent: "fb2ba85d-3f37-442c-9b23-f85fa1468cd0"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Background color/Clean background
+Signature: Kw+P4nkpYrlj83Ra4bHZDQehcPZMJVkuNNW+V1Zb+ZE=
+Modified: 638914677741155122
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Background color\Color background.yml
+ID: "c6ddfe37-2a9b-4ec7-89ed-a8c1d9945f48"
+Parent: "fb2ba85d-3f37-442c-9b23-f85fa1468cd0"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Background color/Color background
+Signature: n99Pd4Dbr92G6jyor4c9y1DPes0yzbc+Fn80ZdAEBqU=
+Modified: 638914677741165128
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Background color\Dark background.yml
+ID: "1070c670-c9f9-4438-b93f-0ed39672b19b"
+Parent: "fb2ba85d-3f37-442c-9b23-f85fa1468cd0"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Background color/Dark background
+Signature: eiVppqFrx9rDzpWlMxr4R1MZpnGdyqp0VoF3hR4PB4c=
+Modified: 638914677741175125
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Background color\Gray background.yml
+ID: "1a46430d-c237-4519-9fbf-448998a44275"
+Parent: "fb2ba85d-3f37-442c-9b23-f85fa1468cd0"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Background color/Gray background
+Signature: wN/tgmF1i8493H/cbknnGHhBAFeKU5E6MiariHjxo10=
+Modified: 638914677741175125
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Background layout\cover-background.yml
+ID: "b0993d43-bcf1-4d5e-92d4-0f497a78e81f"
+Parent: "8b58dbf4-d226-4fdc-99e6-94e374787f54"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/Marketing Sites/sitea/Presentation/Styles/Background layout/cover-background"
+Signature: WbQ9APN7YUfp/HTWchUoahzQRnSJ60ivPmvaMW500jQ=
+Modified: 638914677741192633
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Background layout\fix-background.yml
+ID: "acf76f73-1ce4-483d-b77f-b32cadbfe05e"
+Parent: "8b58dbf4-d226-4fdc-99e6-94e374787f54"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/Marketing Sites/sitea/Presentation/Styles/Background layout/fix-background"
+Signature: WbaAmRR+x7LhEjAk3n0/Fo+vu5IVGc4QAUPPllB2oWU=
+Modified: 638914677741192633
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Background layout\parallax-background.yml
+ID: "45871d9f-6823-4595-bf77-eaa17e3d399e"
+Parent: "8b58dbf4-d226-4fdc-99e6-94e374787f54"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/Marketing Sites/sitea/Presentation/Styles/Background layout/parallax-background"
+Signature: P3wnF8+ggV8Hf26Xo91mKQt/Jmk0SAQy91ptYjRZmvo=
+Modified: 638914677741212721
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Navigation\Sitemap navigation.yml
+ID: "d698220d-0af3-4b60-ad4b-f0453d1b25e9"
+Parent: "fd4feadd-99c4-4281-bd84-7ed19ec64884"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Navigation/Sitemap navigation
+Signature: 7M61bKJjGhxfHWITAWk9EASeqbT9QPZ446Cviw2/OFo=
+Modified: 638914677741252714
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Promo\Promo hero.yml
+ID: "47abe3cd-3af1-4b05-b7cc-fd8764f9e4aa"
+Parent: "cd112c9d-adc6-44d7-b15d-b53cfe39bbfe"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Promo/Promo hero
+Signature: fU9Og8sOOudDRpc20Bfu2rHqtDzaD+4RmN0HHIddkhU=
+Modified: 638914677741307867
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Promo\Promo shadow.yml
+ID: "cf8aa7ec-6320-435d-8745-f42846ac1dc7"
+Parent: "cd112c9d-adc6-44d7-b15d-b53cfe39bbfe"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Promo/Promo shadow
+Signature: Gw+5dGQ+3pHwdbVo/vz05T9sPxBhHGF0KpOafzMYOyQ=
+Modified: 638914677741317874
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Promo\promo-bottom-link.yml
+ID: "da6038cc-5b25-450b-98f7-ba45ad9fd2f4"
+Parent: "cd112c9d-adc6-44d7-b15d-b53cfe39bbfe"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/Marketing Sites/sitea/Presentation/Styles/Promo/promo-bottom-link"
+Signature: zbLrn5Aisq5pxzH7A/E17ZWQVJMt+XsOo9O03N+4gWA=
+Modified: 638914677741328032
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Rich text\Custom bullet points.yml
+ID: "e80b0161-ffc8-453b-a293-b6b32745e3e8"
+Parent: "572ea618-9623-496f-af9b-9a351b40bc8f"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Rich text/Custom bullet points
+Signature: D60MTcOcw+DA77e8tQ7XSmMt8+2rCFf8q78JsN9/dqY=
+Modified: 638914677741307867
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Spacing\Indent bottom.yml
+ID: "10cb3ce0-2f65-43c2-9037-39d8514784d9"
+Parent: "86a4f24f-3bbf-4b84-b7d5-11ff32812516"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Spacing/Indent bottom
+Signature: prPtUse5CmMrKNf0NK1rgcGex7IdH6JHnS+wQfF0O+o=
+Modified: 638914677741075122
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Spacing\Indent side.yml
+ID: "5e1bb4e1-761f-482e-8edb-41425566b4b4"
+Parent: "86a4f24f-3bbf-4b84-b7d5-11ff32812516"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Spacing/Indent side
+Signature: VwYkvdPu8Bf0zqM8cnWgbEKw08nYG+fMdAUpZ5pQ/hM=
+Modified: 638914677741085127
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Styles\Spacing\Indent top.yml
+ID: "ca7074dd-c566-41a7-b036-3d391f7fc122"
+Parent: "86a4f24f-3bbf-4b84-b7d5-11ff32812516"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Styles/Spacing/Indent top
+Signature: 6UtCwGCZD5/yTMwVbaweVota8QyKzLnvMwU5oeDA5dA=
+Modified: 638914677741065120
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\content\Marketing Sites\sitea\Presentation\Partial Designs\Header\Data\Main Header\Home.yml
+ID: "55b21099-2f90-4038-97a9-29edfcc73ce6"
+Parent: "acf0c0df-f1b8-417d-8e6d-353df929cdf2"
+Template: "6f108e3c-5d57-42f8-a910-c22920269b0a"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Partial Designs/Header/Data/Main Header/Home
+Signature: ZiUyT/zYfkG3uB+fcxvwxtbVteUezKH5NSwQsnRVMuk=
+Modified: 638914677741769064

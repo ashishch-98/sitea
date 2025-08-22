@@ -1,0 +1,66 @@
+﻿---
+ID: "ee8b5a2a-ea18-4edc-85cb-e5715a4ee3b0"
+Parent: "b5ec0276-5547-4118-a34a-43f25ee09b04"
+Template: "08c67ac3-d476-474a-a479-4c376627de6d"
+Path: /sitecore/content/Marketing Sites/sitea/Home/Data/Decentralized for a better tomorrow/90 million
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T074053Z
+    - ID: "3c9ecda9-9a02-4e6b-8a27-9f07ca684d5a"
+      Hint: subTitle
+      Value: Registered users
+    - ID: "47edd7d8-bfce-4730-9021-9db1b0cdf5a9"
+      Hint: backgroundType
+      Value: "{00B150BC-C273-4833-825E-06E164B6ACB2}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "318e0d9f-fc78-4d34-80bb-4a28d792e1b3"
+    - ID: "a6ecd186-f732-48ea-aaea-21c31fa95fbb"
+      Hint: title
+      Value: 90 million
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T074101Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T074053Z
+    - ID: "3c9ecda9-9a02-4e6b-8a27-9f07ca684d5a"
+      Hint: subTitle
+      Value: Registered users
+    - ID: "47edd7d8-bfce-4730-9021-9db1b0cdf5a9"
+      Hint: backgroundType
+      Value: "{00B150BC-C273-4833-825E-06E164B6ACB2}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0bb24904-7104-4d6b-a8ab-e566defd92e6"
+    - ID: "a6ecd186-f732-48ea-aaea-21c31fa95fbb"
+      Hint: title
+      Value: 90 million
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T123718Z

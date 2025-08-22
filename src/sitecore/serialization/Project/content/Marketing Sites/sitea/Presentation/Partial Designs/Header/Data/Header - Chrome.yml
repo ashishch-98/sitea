@@ -1,0 +1,82 @@
+﻿---
+ID: "871229f2-78c5-4377-93df-798f4db43f74"
+Parent: "24206825-7016-4a51-bf1c-deab1409fe98"
+Template: "329ebe29-f9ff-453a-ad8f-24b667ab00f5"
+Path: "/sitecore/content/Marketing Sites/sitea/Presentation/Partial Designs/Header/Data/Header - Chrome"
+BranchID: "059ddfcb-cac1-444b-a9a1-42c360414b88"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4F556927-EB10-4918-8623-A32544346CEF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250818T152147Z
+    - ID: "772f1a2e-b68e-4b43-b4e8-01dd37a10403"
+      Hint: personalizedMessage
+      Value: Chrome
+    - ID: "7d1cbb9a-67f2-4ef3-9bf9-53633cc24fc0"
+      Hint: menuItems
+      Value: |
+        {78019054-9628-4FAD-BF85-CCFB38A69354}
+        {632915ED-83D2-46B6-B524-B0FDFF22ED81}
+        {8BA3D664-D56A-4513-A174-5E469C97BABB}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "78de72a7-fb8b-4cad-ae99-b69a91f542e6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c27fb789-6409-4a23-a14c-623d802ad72b"
+      Hint: brandLogo
+      Value: |
+        <image mediaid="{094AED03-02E7-4868-80CB-19926661FB77}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250818T152349Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250818T152147Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "772f1a2e-b68e-4b43-b4e8-01dd37a10403"
+      Hint: personalizedMessage
+      Value: Chrome
+    - ID: "7d1cbb9a-67f2-4ef3-9bf9-53633cc24fc0"
+      Hint: menuItems
+      Value: |
+        {78019054-9628-4FAD-BF85-CCFB38A69354}
+        {632915ED-83D2-46B6-B524-B0FDFF22ED81}
+        {8BA3D664-D56A-4513-A174-5E469C97BABB}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "01d99be0-8166-4265-a33b-24fc2f0bc20c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c27fb789-6409-4a23-a14c-623d802ad72b"
+      Hint: brandLogo
+      Value: |
+        <image mediaid="{094AED03-02E7-4868-80CB-19926661FB77}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T123721Z

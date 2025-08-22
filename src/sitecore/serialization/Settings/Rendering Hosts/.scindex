@@ -1,0 +1,28 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Settings\Rendering Hosts\Rendering Hosts\SiteA Host.yml
+ID: "b65b5317-cae8-420b-9699-94c5c9f9959d"
+Parent: "895e25c4-12b2-4b2c-8233-82f3b79eef53"
+Template: "bc71d442-3e4f-46ba-887c-746e54f9bb83"
+Path: /sitecore/system/Settings/Services/Rendering Hosts/SiteA Host
+Signature: N/aBRZ4T7EFPlD5xhKtNFP/hMc0DdJnp7We5c6bBmSQ=
+Modified: 638914677752207463
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Settings\Rendering Hosts\Rendering Hosts.yml
+ID: "895e25c4-12b2-4b2c-8233-82f3b79eef53"
+Parent: "336ea77a-3587-499f-8238-61bde34601fc"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/system/Settings/Services/Rendering Hosts
+Signature: bOV3MmdCBdEkCE2glu/OBIteWZqrwoOu7rW2ezzEr1k=
+Modified: 638912037975593047
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Settings\Rendering Hosts\Rendering Hosts\Default.yml
+ID: "dffee92b-0441-45a4-9207-67810b72bd46"
+Parent: "895e25c4-12b2-4b2c-8233-82f3b79eef53"
+Template: "bc71d442-3e4f-46ba-887c-746e54f9bb83"
+Path: /sitecore/system/Settings/Services/Rendering Hosts/Default
+Signature: Lmn1TUfQvlfH5rT/0lIb7gAkMLxtg2aQf26ntUt4iG0=
+Modified: 638914677752197459

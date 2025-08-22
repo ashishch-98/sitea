@@ -1,0 +1,70 @@
+{
+  "namespace": "SiteA.Settings",
+  "items": {
+    "includes": [
+      {
+        "name": "System/Languages",
+        "path": "/sitecore/system/Languages",
+        "rules": [
+          {
+            "path": "*",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          }
+        ]
+      },
+      {
+        "name": "Settings/ApiKeys",
+        "path": "/sitecore/system/Settings/Services/API Keys",
+        "rules": [
+          {
+            "path": "*",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          }
+        ]
+      },
+      {
+        "name": "Settings/Rendering Hosts",
+        "path": "/sitecore/system/Settings/Services/Rendering Hosts",
+        "rules": [
+          {
+            "path": "*",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          }
+        ]
+      },
+      {
+        "name": "Settings/Modules/Feature",
+        "path": "/sitecore/system/Settings/Feature",
+        "rules": [
+          {
+            "path": "/Marketing Sites",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          },
+          {
+            "path": "*",
+            "scope": "ignored"
+          }
+        ]
+      },
+      {
+        "name": "Settings/Modules/Foundation",
+        "path": "/sitecore/system/Settings/Foundation",
+        "rules": [
+          {
+            "path": "/Marketing Sites",
+            "scope": "itemAndDescendants",
+            "allowedPushOperations": "createUpdateAndDelete"
+          },
+          {
+            "path": "*",
+            "scope": "ignored"
+          }
+        ]
+      }
+    ]
+  }
+}

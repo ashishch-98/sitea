@@ -1,0 +1,100 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\media\Marketing Sites.yml
+ID: "e08cccb7-ecae-4474-8d6f-6cf6613783ff"
+Parent: "90ae357f-6171-4ea9-808c-5600b678f726"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Marketing Sites
+Signature: Irs7kRWESP5Qoo4855egMdK0/fqA1A5riOOFFRM3m+Q=
+Modified: 638912037969001707
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\media\Marketing Sites\greenpeace.yml
+ID: "039e6749-8776-4bcf-8371-17fb8e68b61f"
+Parent: "e08cccb7-ecae-4474-8d6f-6cf6613783ff"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Marketing Sites/greenpeace
+Signature: QRJ0JWYBqPUi59NkF9egvjlnntqZj4bakOAGd8GBF2w=
+Modified: 638912037969111812
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\media\Marketing Sites\image-1.yml
+ID: "f5bd0ad4-61fa-44ea-a525-6798c33a3f20"
+Parent: "e08cccb7-ecae-4474-8d6f-6cf6613783ff"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Project/Marketing Sites/image-1"
+Signature: W2DSO8t2RmOwPe7Ug4/l9ImUGq77Vth232Ftn9ccGR8=
+Modified: 638912037969147046
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\media\Marketing Sites\image-2.yml
+ID: "b225ee62-aa48-4ea4-8d83-54f5a76fc769"
+Parent: "e08cccb7-ecae-4474-8d6f-6cf6613783ff"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Project/Marketing Sites/image-2"
+Signature: 6PkAFnylDkEOBMsIZC4ToB7y57KMEKm3uhPNRcIkBnk=
+Modified: 638912037969183677
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\media\Marketing Sites\image-3.yml
+ID: "bae3e8f7-0f1d-4115-8bcc-cc4e9a1d4538"
+Parent: "e08cccb7-ecae-4474-8d6f-6cf6613783ff"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Project/Marketing Sites/image-3"
+Signature: oQVEjR5deS1QD+V4ZD9DEsl1yvw/Pr0HwwLG6mkHmso=
+Modified: 638912037969215856
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\media\Marketing Sites\image-4.yml
+ID: "b4a07ae5-39f9-4d41-97ab-10e388058ac8"
+Parent: "e08cccb7-ecae-4474-8d6f-6cf6613783ff"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Project/Marketing Sites/image-4"
+Signature: CyblILbsCdtGwdRvtkOgd5np0ZPx1tZJh6UzmBVO85Q=
+Modified: 638912037969266175
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\media\Marketing Sites\image-5.yml
+ID: "9a50ddf8-98a7-48d6-856c-770ca0934b3e"
+Parent: "e08cccb7-ecae-4474-8d6f-6cf6613783ff"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Project/Marketing Sites/image-5"
+Signature: NP0p5Scc7A3B3L0W31sSTWqkOZaWUqyPYF4cKVIx63M=
+Modified: 638912037969291503
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\media\Marketing Sites\oxfam.yml
+ID: "3b1d91fb-be73-428a-a72b-84f1a0a025fb"
+Parent: "e08cccb7-ecae-4474-8d6f-6cf6613783ff"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Marketing Sites/oxfam
+Signature: cfClKD/w5p4mhLZdV5eeSRmzGABTpl6U/RlgbAq4pNA=
+Modified: 638912037969311803
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\media\Marketing Sites\sc_logo.yml
+ID: "cd3c2896-aa6c-4a3b-8753-63464ae05a4c"
+Parent: "e08cccb7-ecae-4474-8d6f-6cf6613783ff"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Marketing Sites/sc_logo
+Signature: iBmTGAUmlkySEWBqFYPJA5L9cUDxaQq4NS2Dolqx5qY=
+Modified: 638914677738410281
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\media\Marketing Sites\united-nations.yml
+ID: "2b035ef3-88a6-4874-9c40-0d16bfee5279"
+Parent: "e08cccb7-ecae-4474-8d6f-6cf6613783ff"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/Marketing Sites/united-nations"
+Signature: cSb4KtnzI0aulcwJKIj1uTk7ftmk/7GPHl+MLTb5eyk=
+Modified: 638912037969337373
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\media\Marketing Sites\wwf.yml
+ID: "7a5ad74b-1bda-466d-8554-ab39989c93ac"
+Parent: "e08cccb7-ecae-4474-8d6f-6cf6613783ff"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Marketing Sites/wwf
+Signature: kTxgWIvkQ8RQ9JOAUix2yVBk3nWvnU5CoLDpVmBg47g=
+Modified: 638912037969353438

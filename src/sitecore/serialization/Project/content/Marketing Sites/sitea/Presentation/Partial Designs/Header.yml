@@ -1,0 +1,164 @@
+﻿---
+ID: "04c1a073-d896-4f4c-a161-aac9d3f1fe62"
+Parent: "b583839e-983f-4346-bd41-01cd97e54831"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/Marketing Sites/sitea/Presentation/Partial Designs/Header
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: header
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A68ED612-CF2B-4404-848F-76D618ED2D41}"
+              s:ds="local:/Data/Main Header"
+              s:id="{7E8ED9A7-154F-4047-B318-0241CA68EC18}"
+              s:pt="{FDF08EBC-0B28-458C-AC68-A2EB3244694E}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BD14ECF7D-D40C-45C1-83DE-822F824F5DC4%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-header">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{24D7CABA-87E6-4992-ADFD-61EE7CFBD6DA}"
+                    s:name="Browser Detection"
+                    s:test="true">
+                    <conditions>
+                      <condition
+                        uid="DCA09BBF0615447E9D11E338E5EE7916"
+                        s:id="{9A4DADE8-93F9-4973-A675-CB2B2967C4B8}"
+                        s:operatorid="{537244C2-3A3F-4B81-A6ED-02AF494C0563}"
+                        s:value="chrome" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="75EEC25348B14184B212B409F28F9AF4"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="local:/Data/Header - Chrome" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default"
+                    s:test="true">
+                    <conditions>
+                      <condition
+                        uid="E80F956D84E14FC78C93B86E999FC09B"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                    <actions />
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250818T134933Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "315dc6bf-f579-402e-ba7a-91e52b66841d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T123720Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A68ED612-CF2B-4404-848F-76D618ED2D41}"
+              s:ds="local:/Data/Main Header"
+              s:id="{7E8ED9A7-154F-4047-B318-0241CA68EC18}"
+              s:pt="{EA349046-9FD1-4A99-A070-AA3AB0DB5A1B}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BD14ECF7D-D40C-45C1-83DE-822F824F5DC4%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-header">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{24D7CABA-87E6-4992-ADFD-61EE7CFBD6DA}"
+                    s:name="Browser Detection"
+                    s:test="true">
+                    <conditions>
+                      <condition
+                        uid="DCA09BBF0615447E9D11E338E5EE7916"
+                        s:id="{9A4DADE8-93F9-4973-A675-CB2B2967C4B8}"
+                        s:operatorid="{537244C2-3A3F-4B81-A6ED-02AF494C0563}"
+                        s:value="chrome" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="75EEC25348B14184B212B409F28F9AF4"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="local:/Data/Header - Chrome" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default"
+                    s:test="true">
+                    <conditions>
+                      <condition
+                        uid="E80F956D84E14FC78C93B86E999FC09B"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                    <actions />
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250818T134933Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2bbe8857-83e6-4e81-b7ef-5adaa409e790"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T134526Z

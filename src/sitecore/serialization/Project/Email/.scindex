@@ -1,0 +1,1261 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Message Types.yml
+ID: "ef4ad68b-a3dd-4be3-bdaf-059da4a221ba"
+Parent: "5a6d13f7-49dd-408a-add3-68b5d83d92d0"
+Template: "fe8d604d-26f6-426d-a3e2-e4edff091b47"
+Path: /sitecore/content/Email/Message Types
+Signature: Cbn01XHpaxBhKS78oDWsr78vWQr3zF5pVdq09QOlCP0=
+Modified: 638914677742451785
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Message Types\Regular.yml
+ID: "3425a50c-2e3e-40e6-970a-dc1cf346d6dd"
+Parent: "ef4ad68b-a3dd-4be3-bdaf-059da4a221ba"
+Template: "fa257176-aa15-4999-91c5-c03f3bda5027"
+Path: /sitecore/content/Email/Message Types/Regular
+Signature: Nudaz20vMJdsGRNWA2yZYBZW1md/CqI+NSZxNU7Mw+w=
+Modified: 638914677742541735
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Message Types\Regular\Default.yml
+ID: "4f140854-8d43-4f1f-929a-43f66304b992"
+Parent: "3425a50c-2e3e-40e6-970a-dc1cf346d6dd"
+Template: "54e7880d-2621-49ea-a417-982fcd372903"
+Path: /sitecore/content/Email/Message Types/Regular/Default
+Signature: qLgujR2QyNe9qdazOTY6lS7gdHmtZPwHdb7IfOcKI/Q=
+Modified: 638914677742678992
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages.yml
+ID: "e8efbd0e-8a1b-4c7e-b233-c0662e383690"
+Parent: "5a6d13f7-49dd-408a-add3-68b5d83d92d0"
+Template: "d8ad4b81-9269-4868-949f-37d1c28687e5"
+Path: /sitecore/content/Email/Messages
+Signature: zmYxJcZqA+eoksatxZYIsU42HIjJtjkulvK2EgWQMnc=
+Modified: 638914677742481756
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\Service Messages\Status Messages.yml
+ID: "a71943b7-a88e-41fc-8341-eb1b3a7a8905"
+Parent: "1f0735cc-40ee-4f29-bab5-93498ca923ae"
+Template: "69474581-3668-4fed-b0f0-0b88c2532cae"
+Path: /sitecore/content/Email/Messages/Service Messages/Status Messages
+Signature: wV9akQ76Jf1G0DGbH/NhwkmVCXpnOP4Q2desl9OwBaQ=
+Modified: 638914677742760255
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Message Types\Automated.yml
+ID: "73426d65-a75b-4ce5-9adc-cc8894c6dff9"
+Parent: "ef4ad68b-a3dd-4be3-bdaf-059da4a221ba"
+Template: "9f353948-acc9-4db2-9033-ccd810ba9628"
+Path: /sitecore/content/Email/Message Types/Automated
+Signature: IFcUU+1d1EUC9PTWZK5Gg93/IPM1N0Cbrb61MNqzMZM=
+Modified: 638914677742511744
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16222635.yml
+ID: "1092ca2a-f26f-4786-a39b-1c1a6610de56"
+Parent: "5d135126-e302-41e3-ac7f-7cfb9ee7dca8"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16222635
+Signature: 8ULglPC1Dtgb/6CMK9S0lp8ylxG3AVK65aQ8jfsncb4=
+Modified: 638914677742840716
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\Service Messages.yml
+ID: "1f0735cc-40ee-4f29-bab5-93498ca923ae"
+Parent: "e8efbd0e-8a1b-4c7e-b233-c0662e383690"
+Template: "69474581-3668-4fed-b0f0-0b88c2532cae"
+Path: /sitecore/content/Email/Messages/Service Messages
+Signature: FmGHlFgp4OExpbPEiH1OAmLRjoQIIEPjNU2PuhCCc3o=
+Modified: 638914677742581828
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17340613.yml
+ID: "ff5a2347-dab9-4616-b540-06b4d5a04500"
+Parent: "5d135126-e302-41e3-ac7f-7cfb9ee7dca8"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17340613
+Signature: zVaqDlDBSjg8sfANd8VcV6BxehsOM74gFYOxD4jviAo=
+Modified: 638914677742860824
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\Service Messages\Self-Service Subscription.yml
+ID: "ad711857-8a35-4f69-b5f8-7bcd3370bc63"
+Parent: "1f0735cc-40ee-4f29-bab5-93498ca923ae"
+Template: "69474581-3668-4fed-b0f0-0b88c2532cae"
+Path: "/sitecore/content/Email/Messages/Service Messages/Self-Service Subscription"
+Signature: hlpWe102XXFAIJzxiIhiQbBmPslyqZdrkEStsdP5+QQ=
+Modified: 638914677742744176
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\Service Messages\Self-Service Subscription\Subscription Notification.yml
+ID: "f3acf7a1-2b4e-4120-81a4-004e5cce07d6"
+Parent: "ad711857-8a35-4f69-b5f8-7bcd3370bc63"
+Template: "ecf0a9c8-fe56-45d8-b750-6bde3a34a532"
+Path: "/sitecore/content/Email/Messages/Service Messages/Self-Service Subscription/Subscription Notification"
+Signature: KxR90wLcFguHHvydPuLfC4OL3jdKE37S1VHQqV+kvg8=
+Modified: 638914677742940904
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16164398.yml
+ID: "56c364bd-7e79-4101-b2b7-7c6ffca66013"
+Parent: "5d135126-e302-41e3-ac7f-7cfb9ee7dca8"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16164398
+Signature: K3Y5sEYU04tBA1N7ixq4eCeXyMlm01vuUdHiifKVlXI=
+Modified: 638914677742820595
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16164398\Announcement.yml
+ID: "5d4ea732-ed89-4282-a59e-70393fff3977"
+Parent: "56c364bd-7e79-4101-b2b7-7c6ffca66013"
+Template: "078d8a76-f971-4891-b422-76c0bcf9fa03"
+Path: /sitecore/content/Email/Messages/2025/08/21T16164398/Announcement
+Signature: t+jMBWfDRfvaVGeFREw/23AS+XqRR9oFRmDNP+WTaJY=
+Modified: 638914677743027775
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17310625.yml
+ID: "7ce8b4f0-5400-4407-a8dd-0897b1e939d2"
+Parent: "5d135126-e302-41e3-ac7f-7cfb9ee7dca8"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17310625
+Signature: u7orMRsuINt9cUGhdN/MLW1XCCFVGuP/Oc4/vLCa8Yw=
+Modified: 638914677742860824
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17443037\Contact us submit.yml
+ID: "adfc1456-6337-44e6-b63b-2a0c372d4836"
+Parent: "95cf8a51-359e-49a5-bc50-a34a8878c787"
+Template: "078d8a76-f971-4891-b422-76c0bcf9fa03"
+Path: /sitecore/content/Email/Messages/2025/08/21T17443037/Contact us submit
+Signature: sfOw1MlDLoQKh0sRo0x9tsyIGeTPSvpqNixStL5bAeo=
+Modified: 638914677749341109
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\Service Messages\Self-Service Subscription\Subscription Confirmation.yml
+ID: "f0627961-26e6-4d55-adde-f54660106707"
+Parent: "ad711857-8a35-4f69-b5f8-7bcd3370bc63"
+Template: "ecf0a9c8-fe56-45d8-b750-6bde3a34a532"
+Path: "/sitecore/content/Email/Messages/Service Messages/Self-Service Subscription/Subscription Confirmation"
+Signature: 2yj0S0uruK8nFGGdCBRWXJAOvH0Murv6yng6rDUtlRA=
+Modified: 638914677742950880
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16164398\Announcement\Message Root.yml
+ID: "bfe1436f-5129-46c5-b9d8-7f98920a5a5a"
+Parent: "5d4ea732-ed89-4282-a59e-70393fff3977"
+Template: "3f12d78c-b7b7-4157-98fc-da3322ee1a5b"
+Path: /sitecore/content/Email/Messages/2025/08/21T16164398/Announcement/Message Root
+Signature: OKr2ZizIiiaZ+NSSqVXeA1X6pycRvQLwlw9CWnPqZOI=
+Modified: 638914677749361105
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\Service Messages\Status Messages\Automated Notification.yml
+ID: "a1dad256-afc6-42c6-b89d-e99c415d63e7"
+Parent: "a71943b7-a88e-41fc-8341-eb1b3a7a8905"
+Template: "ecf0a9c8-fe56-45d8-b750-6bde3a34a532"
+Path: /sitecore/content/Email/Messages/Service Messages/Status Messages/Automated Notification
+Signature: B/hvaNrHEAABuR9xUJEvAg79a9fhKjD9Ci5IvTyG2Ps=
+Modified: 638914677742987753
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17443037\Contact us submit\Message Root.yml
+ID: "ad5b6197-8867-474d-821f-d4755fa9912e"
+Parent: "adfc1456-6337-44e6-b63b-2a0c372d4836"
+Template: "3f12d78c-b7b7-4157-98fc-da3322ee1a5b"
+Path: /sitecore/content/Email/Messages/2025/08/21T17443037/Contact us submit/Message Root
+Signature: ejvRWx6rLT5RaOFkL2y0WJZ7c82x+Zc6teHTraP8sk8=
+Modified: 638914677749441113
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16202485\Announcement.yml
+ID: "73c30277-2a8e-4ec6-9c77-ee1e30f3c7aa"
+Parent: "fcf1f614-ab65-46d0-91ba-c0b72ce2d8fc"
+Template: "078d8a76-f971-4891-b422-76c0bcf9fa03"
+Path: /sitecore/content/Email/Messages/2025/08/21T16202485/Announcement
+Signature: s7gZ7YoiUcv4DBWQkwdX4byICHNCo7zvHqT4tfj9kDs=
+Modified: 638914677743037788
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16164398\Announcement\Message Root\Body Texts.yml
+ID: "617daffb-2c80-4214-ad84-0a096267053a"
+Parent: "bfe1436f-5129-46c5-b9d8-7f98920a5a5a"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16164398/Announcement/Message Root/Body Texts
+Signature: 83wxe3CuGkRjU/bUrXh3OpoWplarNsDUa2daGCwLxUo=
+Modified: 638914677749531145
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16222635\Announcement.yml
+ID: "e7f9a661-c499-492b-b9f3-ee1412f4f852"
+Parent: "1092ca2a-f26f-4786-a39b-1c1a6610de56"
+Template: "078d8a76-f971-4891-b422-76c0bcf9fa03"
+Path: /sitecore/content/Email/Messages/2025/08/21T16222635/Announcement
+Signature: lD0CdMci2GEiMyM0FcQGtSymZZBkxWYE1vyh0GdMJXU=
+Modified: 638914677743057772
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16164398\Announcement\Message Root\Main Images.yml
+ID: "07edbd95-55d5-4e59-b238-30fc363dafe1"
+Parent: "bfe1436f-5129-46c5-b9d8-7f98920a5a5a"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16164398/Announcement/Message Root/Main Images
+Signature: BKa9JueshV8XqzLmkNuFS1bdZKnL3LmFwgGcqeHypnQ=
+Modified: 638914677749471132
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16202485\Announcement\Message Root.yml
+ID: "fc027d29-0831-46dc-8670-dcf153e673c9"
+Parent: "73c30277-2a8e-4ec6-9c77-ee1e30f3c7aa"
+Template: "3f12d78c-b7b7-4157-98fc-da3322ee1a5b"
+Path: /sitecore/content/Email/Messages/2025/08/21T16202485/Announcement/Message Root
+Signature: 98wkPqNrN6SBCcz9fTWfkWsWE8MCDk7O0zxvS3lSoFA=
+Modified: 638914677749371103
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16164398\Announcement\Message Root\Previews.yml
+ID: "30f574cb-f69a-4ad2-9ec5-238bd90736e3"
+Parent: "bfe1436f-5129-46c5-b9d8-7f98920a5a5a"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16164398/Announcement/Message Root/Previews
+Signature: X+WPeTOSLSpYAghi/cB0sJbBt+FsP8UqPCih2VBknhA=
+Modified: 638914677749461112
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16222635\Announcement\Message Root.yml
+ID: "930b57e6-36c1-4c0c-a005-d0710a5f38dd"
+Parent: "e7f9a661-c499-492b-b9f3-ee1412f4f852"
+Template: "3f12d78c-b7b7-4157-98fc-da3322ee1a5b"
+Path: /sitecore/content/Email/Messages/2025/08/21T16222635/Announcement/Message Root
+Signature: 8d9cCy6+inLUArW6cvksz3E5dU1W4ULuBtPW8F8/fo4=
+Modified: 638914677749391102
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16202485\Announcement\Message Root\Footers.yml
+ID: "57db7dfc-97e0-4ee7-8916-baa0399e1285"
+Parent: "fc027d29-0831-46dc-8670-dcf153e673c9"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16202485/Announcement/Message Root/Footers
+Signature: AViBSpmZ8bHTP8w0iQhgD26hZIpOIsN1GPlnH1SfR+I=
+Modified: 638914677749756429
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16164398\Announcement\Message Root\Calls To Action.yml
+ID: "e5c08cbf-7eb7-4564-ac8a-4e9f95d9387f"
+Parent: "bfe1436f-5129-46c5-b9d8-7f98920a5a5a"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16164398/Announcement/Message Root/Calls To Action
+Signature: 11qDJ2M54sq+2nHWgO8NJT/a+wiEFxt8Ver78OrVHEw=
+Modified: 638914677749581247
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16202485\Announcement\Message Root\Headers.yml
+ID: "de4af0a7-32bc-49a0-bc13-7801b44ea84c"
+Parent: "fc027d29-0831-46dc-8670-dcf153e673c9"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16202485/Announcement/Message Root/Headers
+Signature: ilqIzcN9ka1dNtjyUGddXpNwFWKbAB8Zz0vq0cDs0l4=
+Modified: 638914677749641207
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16164398\Announcement\Message Root\Footers.yml
+ID: "34a73628-c891-416d-8248-2c7fa86745a7"
+Parent: "bfe1436f-5129-46c5-b9d8-7f98920a5a5a"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16164398/Announcement/Message Root/Footers
+Signature: NTCYPbW8jF618Su2WIhBZqAqSCZPePu0FoMhAl1RmHg=
+Modified: 638914677749591266
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16202485\Announcement\Message Root\Two Column Body Texts.yml
+ID: "9b3cd795-2a90-4473-9968-2e7ccfa3980b"
+Parent: "fc027d29-0831-46dc-8670-dcf153e673c9"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16202485/Announcement/Message Root/Two Column Body Texts
+Signature: syuefNcJ7emMd8wwmwu0nloNwkTMZjk1tWT6GJ+SYPQ=
+Modified: 638914677749671256
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16164398\Announcement\Message Root\Template Parameters.yml
+ID: "990cd97b-e20d-44dc-92d7-2ad9ccfb7613"
+Parent: "bfe1436f-5129-46c5-b9d8-7f98920a5a5a"
+Template: "04057e52-81de-4ecc-806a-e783fd62c763"
+Path: /sitecore/content/Email/Messages/2025/08/21T16164398/Announcement/Message Root/Template Parameters
+Signature: RZ7XppTlp7NlB8Draw/WuIxdD9FX77BN5VWmqZicBow=
+Modified: 638914677749601223
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16222635\Announcement\Message Root\Body Texts.yml
+ID: "6a7338b4-36de-47f7-a4bf-c181395ab3b4"
+Parent: "930b57e6-36c1-4c0c-a005-d0710a5f38dd"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16222635/Announcement/Message Root/Body Texts
+Signature: D+mDBpEHNR9Au+Bl7u7VSPuGQSip05EdR3/a2U+5ZIw=
+Modified: 638914677749836440
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16164398\Announcement\Message Root\Two Column Body Texts.yml
+ID: "e67a31e4-5338-4385-8d74-f8cfeda07fe5"
+Parent: "bfe1436f-5129-46c5-b9d8-7f98920a5a5a"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16164398/Announcement/Message Root/Two Column Body Texts
+Signature: bjzTOrYlP4fMuRuGL9V5DaH4oS8f9ViMTk3AudfXiIw=
+Modified: 638914677749551129
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16222635\Announcement\Message Root\Headers.yml
+ID: "51554ab1-358c-43e0-8f27-5d5bd0f8705a"
+Parent: "930b57e6-36c1-4c0c-a005-d0710a5f38dd"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16222635/Announcement/Message Root/Headers
+Signature: HfuxZ5jEbHzn4LoO7XTDHGp/pByW89oSJCuKnz5D3GQ=
+Modified: 638914677749806465
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16202485\Announcement\Message Root\Previews.yml
+ID: "3cd42047-eaed-47bc-aa15-7f48e61689ab"
+Parent: "fc027d29-0831-46dc-8670-dcf153e673c9"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16202485/Announcement/Message Root/Previews
+Signature: z0N9FQmlorUwBtH52Cv22PLrJGI6/QhKUrVj4LsuWkE=
+Modified: 638914677749621220
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16222635\Announcement\Message Root\Images.yml
+ID: "99b52cec-8610-45e4-b7b1-be58dff440f5"
+Parent: "930b57e6-36c1-4c0c-a005-d0710a5f38dd"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16222635/Announcement/Message Root/Images
+Signature: T9BLQwMrywPNMBxUklg+JRdjlwA35iOxp2yI3R+RcVc=
+Modified: 638914677749856472
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16202485\Announcement\Message Root\Template Parameters.yml
+ID: "656a0ef7-7bb1-412b-a329-ac8750ef4e9e"
+Parent: "fc027d29-0831-46dc-8670-dcf153e673c9"
+Template: "04057e52-81de-4ecc-806a-e783fd62c763"
+Path: /sitecore/content/Email/Messages/2025/08/21T16202485/Announcement/Message Root/Template Parameters
+Signature: NZw2AzVDrgtjtts2vpevAMFKJBxWoTF8VicX3EJ+JeM=
+Modified: 638914677749766449
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17310625\Announcement\Message Root\Body Texts.yml
+ID: "b96e57c3-9f30-47b5-b833-777eacf7c528"
+Parent: "b4b042d6-7869-4299-8394-de11dd94eaa7"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17310625/Announcement/Message Root/Body Texts
+Signature: +ORSdNZ1VGLn0z28ThFbbrJI9nICbvzETiDx3f+iwr8=
+Modified: 638914677750091663
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16222635\Announcement\Message Root\Main Images.yml
+ID: "b5549c2d-88fc-445e-ad31-56668f97c03d"
+Parent: "930b57e6-36c1-4c0c-a005-d0710a5f38dd"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16222635/Announcement/Message Root/Main Images
+Signature: jgdT3Ea8CJiyTBiE9OYKcEAs66t6XJvOAYm3AnVD8Uo=
+Modified: 638914677749796471
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17310625\Announcement\Message Root\Calls To Action.yml
+ID: "8f1d5d79-9178-4bc0-92c5-da6919665632"
+Parent: "b4b042d6-7869-4299-8394-de11dd94eaa7"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17310625/Announcement/Message Root/Calls To Action
+Signature: weNw81zSBDtWHZV8n83cc0sKPngy/Pk00h1FuTocePY=
+Modified: 638914677750121649
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16222635\Announcement\Message Root\Previews.yml
+ID: "9ff22569-6185-4d27-93b1-2191434e70bf"
+Parent: "930b57e6-36c1-4c0c-a005-d0710a5f38dd"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16222635/Announcement/Message Root/Previews
+Signature: Y4FOx3EMYjZ88Z4PoXFEnw1fjA1bOvG8Oehq6afDzp0=
+Modified: 638914677749786454
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17310625\Announcement\Message Root\Previews.yml
+ID: "29ab5e78-33af-45a3-9b1e-4b29df891d30"
+Parent: "b4b042d6-7869-4299-8394-de11dd94eaa7"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17310625/Announcement/Message Root/Previews
+Signature: GBwnwzNFaaPhF8kCkBG4zAXqG+z/JoMF3VYpiE+Pg50=
+Modified: 638914677750046439
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17310625\Announcement\Message Root\Footers.yml
+ID: "839c3961-fa53-4905-a9ba-2a6045188e79"
+Parent: "b4b042d6-7869-4299-8394-de11dd94eaa7"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17310625/Announcement/Message Root/Footers
+Signature: cRGPodwddxa8NyPdb1iysOI+i2IF/nhmG6NwrO+gGJY=
+Modified: 638914677750131683
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17310625\Announcement\Message Root\Template Parameters.yml
+ID: "15798753-0462-47bb-a2aa-b1e45093d186"
+Parent: "b4b042d6-7869-4299-8394-de11dd94eaa7"
+Template: "04057e52-81de-4ecc-806a-e783fd62c763"
+Path: /sitecore/content/Email/Messages/2025/08/21T17310625/Announcement/Message Root/Template Parameters
+Signature: qZFO4aa9YKQ3kBpBzFV/nruPS9ba/BsOVs5C57E3H9o=
+Modified: 638914677750141668
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17310625\Announcement\Message Root\Headers.yml
+ID: "d95432d7-9432-4f33-8990-c3ac7f00a7fd"
+Parent: "b4b042d6-7869-4299-8394-de11dd94eaa7"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17310625/Announcement/Message Root/Headers
+Signature: G4dCfM9Nwc1THEZ9sIbD3PF8l9l9Ql3ZfjeNpDeW4Co=
+Modified: 638914677750071652
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17340613\Call To Action Focus\Message Root\Main Images.yml
+ID: "cbea6126-1aeb-485a-a2c6-e9119c974dd9"
+Parent: "99c6020a-95ec-4377-97ce-7827fb851d0a"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17340613/Call To Action Focus/Message Root/Main Images
+Signature: /j6FfpeXk6zws5Dtss6I0Ck3/WHwIUBMJnLUtZey9Us=
+Modified: 638914677750176878
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17310625\Announcement\Message Root\Two Column Body Texts.yml
+ID: "fcfbdcaf-ef06-4430-a175-93b09562f649"
+Parent: "b4b042d6-7869-4299-8394-de11dd94eaa7"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17310625/Announcement/Message Root/Two Column Body Texts
+Signature: ftbtTdR3PWC6gTADIVKo+u7exk2oiN70Phqx/Wr/3js=
+Modified: 638914677750101661
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17340613\Call To Action Focus\Message Root\Previews.yml
+ID: "51b3abc6-73fa-4b2d-9f45-0216ffe51689"
+Parent: "99c6020a-95ec-4377-97ce-7827fb851d0a"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17340613/Call To Action Focus/Message Root/Previews
+Signature: 7daeYCcm9Qtla7bZsrG6VwpETKVt/eL6cUtmGrTFPS0=
+Modified: 638914677750151663
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17340613\Call To Action Focus\Message Root\Body Texts.yml
+ID: "b6be2d26-ecf3-4c64-b014-83844e87a8f5"
+Parent: "99c6020a-95ec-4377-97ce-7827fb851d0a"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17340613/Call To Action Focus/Message Root/Body Texts
+Signature: tb8/LGyFh3m3BK0h8UWPCnTY3dC3wppFTflPgJ72hZ8=
+Modified: 638914677750216856
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17340613\Call To Action Focus\Message Root\Template Parameters.yml
+ID: "639e2fbd-a692-46cc-9dee-ddee8f005ce1"
+Parent: "99c6020a-95ec-4377-97ce-7827fb851d0a"
+Template: "04057e52-81de-4ecc-806a-e783fd62c763"
+Path: /sitecore/content/Email/Messages/2025/08/21T17340613/Call To Action Focus/Message Root/Template Parameters
+Signature: zx4kLm81gMLB8AtIn7ayuG7jkTQo1n8FRm87u/cFP1s=
+Modified: 638914677750276868
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17443037\Contact us submit\Message Root\Body Texts.yml
+ID: "8b67dd52-54a3-45b0-8261-4331bf590d76"
+Parent: "ad5b6197-8867-474d-821f-d4755fa9912e"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17443037/Contact us submit/Message Root/Body Texts
+Signature: aDDP0eAWokgihIEOnoUpv61LRwZgFVq9j7wFIZ3FvIQ=
+Modified: 638914677750409914
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17340613\Call To Action Focus\Message Root\Two Column Body Texts.yml
+ID: "7a9b06b0-7b27-4c7c-9cbf-3ec5f9bc4c5f"
+Parent: "99c6020a-95ec-4377-97ce-7827fb851d0a"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17340613/Call To Action Focus/Message Root/Two Column Body Texts
+Signature: C/ewRXC5Llyr+0mx8BM3to6mLU9gzbC2XeWd4ZuVYDk=
+Modified: 638914677750236871
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17443037\Contact us submit\Message Root\Calls To Action.yml
+ID: "f3f2a282-4e0e-44bb-9c7d-b295dc553bfe"
+Parent: "ad5b6197-8867-474d-821f-d4755fa9912e"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17443037/Contact us submit/Message Root/Calls To Action
+Signature: MkRwiPqee6SNfh38+vXKU12HV5E3qPvWvNECtbfPQck=
+Modified: 638914677750725295
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17443037\Contact us submit\Message Root\Two Column Body Texts.yml
+ID: "6c5dbe7d-f8f0-4421-9318-ce2d1793990b"
+Parent: "ad5b6197-8867-474d-821f-d4755fa9912e"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17443037/Contact us submit/Message Root/Two Column Body Texts
+Signature: JUoEBUYmOMlW4K9T7xHYu7cKzpNonYhumB9rQkHZLKs=
+Modified: 638914677750430016
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17443037\Contact us submit\Message Root\Footers.yml
+ID: "7cf8b265-3d75-4759-acf6-96d8446e0979"
+Parent: "ad5b6197-8867-474d-821f-d4755fa9912e"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17443037/Contact us submit/Message Root/Footers
+Signature: Um073DyxPggfcfZhgtbvJUt8l6QbT9l/hBC4yzlXgOY=
+Modified: 638914677750745333
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16164398\Announcement\Message Root\Body Texts\Body Text.yml
+ID: "7c01ab43-1c25-4f5e-9212-2f574d74a0c2"
+Parent: "617daffb-2c80-4214-ad84-0a096267053a"
+Template: "7dfbcf4b-4f57-4c02-bc5f-d87256e7c4a7"
+Path: /sitecore/content/Email/Messages/2025/08/21T16164398/Announcement/Message Root/Body Texts/Body Text
+Signature: B//7DKV4gbJtz9O8CFv7kPADVZWyIUzndcUWCxwrt2A=
+Modified: 638914677750820573
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17443037\Contact us submit\Message Root\Headers.yml
+ID: "3fdb6532-a161-49e3-8929-109aeb8a6e24"
+Parent: "ad5b6197-8867-474d-821f-d4755fa9912e"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17443037/Contact us submit/Message Root/Headers
+Signature: 4khXbNgPZhB22DsF+zBDjbbIxKUxmWZqRPvr4h0qASc=
+Modified: 638914677750314837
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16164398\Announcement\Message Root\Calls To Action\Call To Action.yml
+ID: "02aa0df3-f589-4673-a5cc-6a3fe518d0ab"
+Parent: "e5c08cbf-7eb7-4564-ac8a-4e9f95d9387f"
+Template: "ff7f82ea-a147-4bc3-90d1-318c92aa8740"
+Path: /sitecore/content/Email/Messages/2025/08/21T16164398/Announcement/Message Root/Calls To Action/Call To Action
+Signature: 2dedsWIchF3iT6/0V+aISRC/DByjUplONFH0iaH7lHk=
+Modified: 638914677750840580
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16164398\Announcement\Message Root\Headers\Header.yml
+ID: "37f6078b-4590-449d-90c4-fbdf3ee92b26"
+Parent: "36fec7b2-b256-4521-b74a-2b84d0cb8269"
+Template: "783c9239-41c4-4d84-afe5-1060f582b617"
+Path: /sitecore/content/Email/Messages/2025/08/21T16164398/Announcement/Message Root/Headers/Header
+Signature: AZk98nUJoUt3toB59ZfewJewG0VI4/AKzq5YsRzGHmk=
+Modified: 638914677750810556
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16164398\Announcement\Message Root\Footers\Footer.yml
+ID: "f9e0a1bc-054c-4293-9213-eeb595b2d3c3"
+Parent: "34a73628-c891-416d-8248-2c7fa86745a7"
+Template: "45fa579c-efe8-4a02-b3f0-9da81e6f7aa0"
+Path: /sitecore/content/Email/Messages/2025/08/21T16164398/Announcement/Message Root/Footers/Footer
+Signature: VSQhu1504CB5b1bXAmDDeuCAC3cKDVpzXdlbi1uNW0o=
+Modified: 638914677750866615
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16164398\Announcement\Message Root\Main Images\Main Image.yml
+ID: "de5e9188-af8f-4091-bcfa-c212c73f100e"
+Parent: "07edbd95-55d5-4e59-b238-30fc363dafe1"
+Template: "0f849f10-b19a-4b65-bc57-306ea6d2c9fb"
+Path: /sitecore/content/Email/Messages/2025/08/21T16164398/Announcement/Message Root/Main Images/Main Image
+Signature: XWcIalTcIx/Cb/2T0ygQiKbxtqcrCgdXv24AtcQI438=
+Modified: 638914677750790553
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16202485\Announcement\Message Root\Calls To Action\Call To Action.yml
+ID: "7e7b578a-d5de-442b-9379-d701ea1f86f3"
+Parent: "845b9b65-4a3e-4a10-89fc-54100d7e84f1"
+Template: "ff7f82ea-a147-4bc3-90d1-318c92aa8740"
+Path: /sitecore/content/Email/Messages/2025/08/21T16202485/Announcement/Message Root/Calls To Action/Call To Action
+Signature: yEb5iFMQ0HiIiF9ugycZ78h9nOSoByZh5PL5JJILlm4=
+Modified: 638914677750961794
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16164398\Announcement\Message Root\Previews\Preview.yml
+ID: "36d2f687-9cc6-4b4c-9fff-d2cc8cd8fff4"
+Parent: "30f574cb-f69a-4ad2-9ec5-238bd90736e3"
+Template: "37fdae00-3647-421e-88e2-6ca1ef2b5249"
+Path: /sitecore/content/Email/Messages/2025/08/21T16164398/Announcement/Message Root/Previews/Preview
+Signature: FrXP5DqDuvQgd0b4LjkQRqkKRBL6S5J/C5OZkF/VbIc=
+Modified: 638914677750780444
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16202485\Announcement\Message Root\Footers\Footer.yml
+ID: "40cbc0ce-3720-4865-b829-aa35de96ad4c"
+Parent: "57db7dfc-97e0-4ee7-8916-baa0399e1285"
+Template: "45fa579c-efe8-4a02-b3f0-9da81e6f7aa0"
+Path: /sitecore/content/Email/Messages/2025/08/21T16202485/Announcement/Message Root/Footers/Footer
+Signature: 1px/FgoA9jUqVlqJbWYW6oJgEDUKGtcw4bEz/mpKB1w=
+Modified: 638914677750971793
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16202485\Announcement\Message Root\Body Texts\Body Text.yml
+ID: "12590cb9-c004-49ed-bdbe-3321f79f1770"
+Parent: "7f7ef7e6-63c2-47ab-a817-6ffbb6dab38c"
+Template: "7dfbcf4b-4f57-4c02-bc5f-d87256e7c4a7"
+Path: /sitecore/content/Email/Messages/2025/08/21T16202485/Announcement/Message Root/Body Texts/Body Text
+Signature: 7Pa0ZDj7wOh4qnTyxUNRImlvB3MzQxvVHSoRV69Ba6I=
+Modified: 638914677750936613
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16202485\Announcement\Message Root\Headers\Header.yml
+ID: "8aeb2d24-1c54-4646-932f-16a2f538317b"
+Parent: "de4af0a7-32bc-49a0-bc13-7801b44ea84c"
+Template: "783c9239-41c4-4d84-afe5-1060f582b617"
+Path: /sitecore/content/Email/Messages/2025/08/21T16202485/Announcement/Message Root/Headers/Header
+Signature: o1+To9iXkOUgZXac7vBjATZ2ccn3Lz6Tl5mDRht1vjI=
+Modified: 638914677750926625
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17310625\Announcement\Message Root\Calls To Action\Call To Action.yml
+ID: "fd8d4372-7f3b-403c-844f-8e83cf4676bb"
+Parent: "8f1d5d79-9178-4bc0-92c5-da6919665632"
+Template: "ff7f82ea-a147-4bc3-90d1-318c92aa8740"
+Path: /sitecore/content/Email/Messages/2025/08/21T17310625/Announcement/Message Root/Calls To Action/Call To Action
+Signature: da4vTTXPLu4lDxCk9dDGl3eEMVo5/ybyOukIjb14g28=
+Modified: 638914677751376988
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16202485\Announcement\Message Root\Main Images\Main Image.yml
+ID: "2b692cd1-67bf-43af-a790-ab359e2fa24e"
+Parent: "dec490c7-b0e6-4282-b27d-70cbfc85323a"
+Template: "0f849f10-b19a-4b65-bc57-306ea6d2c9fb"
+Path: /sitecore/content/Email/Messages/2025/08/21T16202485/Announcement/Message Root/Main Images/Main Image
+Signature: ugMOgJntRu+hjhj1J4PXn7hxVCZHVonr2UPsG0qKyww=
+Modified: 638914677750906614
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17310625\Announcement\Message Root\Footers\Footer.yml
+ID: "dbb5a341-a5f1-443b-b53a-193846963038"
+Parent: "839c3961-fa53-4905-a9ba-2a6045188e79"
+Template: "45fa579c-efe8-4a02-b3f0-9da81e6f7aa0"
+Path: /sitecore/content/Email/Messages/2025/08/21T17310625/Announcement/Message Root/Footers/Footer
+Signature: UwvZsEEtFCvj1wgmiYOUHOLWxxHOM9jwBOYf6HLVNUY=
+Modified: 638914677751396977
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16222635\Announcement\Message Root\Headers\Header.yml
+ID: "6a997b15-cbf2-4b2a-b17e-18a57ad278f5"
+Parent: "51554ab1-358c-43e0-8f27-5d5bd0f8705a"
+Template: "783c9239-41c4-4d84-afe5-1060f582b617"
+Path: /sitecore/content/Email/Messages/2025/08/21T16222635/Announcement/Message Root/Headers/Header
+Signature: sFSqfLRZfTVfWUYOr2yIfPqpSNe/QuBPd4juLu5JlC4=
+Modified: 638914677751021774
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17310625\Announcement\Message Root\Headers\Header.yml
+ID: "bd3a3cb8-48c5-408a-9431-b129090a4266"
+Parent: "d95432d7-9432-4f33-8990-c3ac7f00a7fd"
+Template: "783c9239-41c4-4d84-afe5-1060f582b617"
+Path: /sitecore/content/Email/Messages/2025/08/21T17310625/Announcement/Message Root/Headers/Header
+Signature: kbAZGQxR1nPxfR5+L+r+wi7jptPW16zoJvVu82+XUy0=
+Modified: 638914677751346871
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16222635\Announcement\Message Root\Main Images\Main Image.yml
+ID: "ea5b630a-78be-4362-b914-07458bf8b1f7"
+Parent: "b5549c2d-88fc-445e-ad31-56668f97c03d"
+Template: "0f849f10-b19a-4b65-bc57-306ea6d2c9fb"
+Path: /sitecore/content/Email/Messages/2025/08/21T16222635/Announcement/Message Root/Main Images/Main Image
+Signature: 7HWOW+1dx6xsN9VIDvh2V3z6ZVoCLB6NF8tyQI57iKU=
+Modified: 638914677751001780
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17310625\Announcement\Message Root\Main Images\Main Image.yml
+ID: "ea40fc0d-7067-4443-82f9-59bb9e2393dd"
+Parent: "d807ea27-0802-405c-8b59-8993fe1786b6"
+Template: "0f849f10-b19a-4b65-bc57-306ea6d2c9fb"
+Path: /sitecore/content/Email/Messages/2025/08/21T17310625/Announcement/Message Root/Main Images/Main Image
+Signature: mvd+EuXJ7+5VfMcTnWi+lXsAmEyZ77FrkZEjqNKTVf0=
+Modified: 638914677751331782
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16222635\Announcement\Message Root\Previews\Preview.yml
+ID: "ede5b9a9-f648-43fd-bf3a-b975125e1a79"
+Parent: "9ff22569-6185-4d27-93b1-2191434e70bf"
+Template: "37fdae00-3647-421e-88e2-6ca1ef2b5249"
+Path: /sitecore/content/Email/Messages/2025/08/21T16222635/Announcement/Message Root/Previews/Preview
+Signature: 6C1Qig61ElWQSPqPr4JVbdFsk/oa1yy7Lhrx5+q6mVo=
+Modified: 638914677750991779
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17443037\Contact us submit\Message Root\Main Images\Main Image.yml
+ID: "46899f17-7777-40ca-a48a-43d0c43cb57d"
+Parent: "1fef9c65-1ca7-4ab5-becc-9993a6ccda93"
+Template: "0f849f10-b19a-4b65-bc57-306ea6d2c9fb"
+Path: /sitecore/content/Email/Messages/2025/08/21T17443037/Contact us submit/Message Root/Main Images/Main Image
+Signature: zrjE/ssklDrmguWnk/neMm9+eSkvnpi4Ngrqt3dpK1c=
+Modified: 638914677751512185
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17310625\Announcement\Message Root\Body Texts\Body Text.yml
+ID: "5533a64c-ef3e-419b-81c1-27b0b63880bb"
+Parent: "b96e57c3-9f30-47b5-b833-777eacf7c528"
+Template: "7dfbcf4b-4f57-4c02-bc5f-d87256e7c4a7"
+Path: /sitecore/content/Email/Messages/2025/08/21T17310625/Announcement/Message Root/Body Texts/Body Text
+Signature: 3y/B2YOoH+uFNQhQIOf+/Ev+7bpzZHtn4TyxZz6wBxs=
+Modified: 638914677751366980
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17443037\Contact us submit\Message Root\Previews\Preview.yml
+ID: "2e29cda7-1979-4cea-b152-e7532d021b05"
+Parent: "588155c8-6e91-483a-a34e-23b15aeb0117"
+Template: "37fdae00-3647-421e-88e2-6ca1ef2b5249"
+Path: /sitecore/content/Email/Messages/2025/08/21T17443037/Contact us submit/Message Root/Previews/Preview
+Signature: aCPi/GW97limYLn8Bf3Lw6cbRiSTH/08//6oWc22//8=
+Modified: 638914677751492197
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17340613\Call To Action Focus\Message Root\Previews\Preview.yml
+ID: "267d5fd5-8171-424e-b672-0f5852691580"
+Parent: "51b3abc6-73fa-4b2d-9f45-0216ffe51689"
+Template: "37fdae00-3647-421e-88e2-6ca1ef2b5249"
+Path: /sitecore/content/Email/Messages/2025/08/21T17340613/Call To Action Focus/Message Root/Previews/Preview
+Signature: yDjDS44sfgNvXVQSyE3lEc89LvH3msY4SKb1msXkfE8=
+Modified: 638914677751406975
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16164398\Announcement\Message Root\Footers\Footer\Privacy Policy.yml
+ID: "f04bcd9f-020c-4991-ac7a-678458b458ee"
+Parent: "f9e0a1bc-054c-4293-9213-eeb595b2d3c3"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/content/Email/Messages/2025/08/21T16164398/Announcement/Message Root/Footers/Footer/Privacy Policy
+Signature: oOkTlwY78esj6jh1bX+2u1uYxak9bAo0EVG3qLSYE7E=
+Modified: 638914677751582290
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17443037\Contact us submit\Message Root\Body Texts\Body Text.yml
+ID: "3eb11793-7328-4b31-84d6-5e69c7a52e3b"
+Parent: "8b67dd52-54a3-45b0-8261-4331bf590d76"
+Template: "7dfbcf4b-4f57-4c02-bc5f-d87256e7c4a7"
+Path: /sitecore/content/Email/Messages/2025/08/21T17443037/Contact us submit/Message Root/Body Texts/Body Text
+Signature: A8rP5l65E7bFTxoq24XxaqW3Zr7Y4jk4Uc/qwsAA0Dc=
+Modified: 638914677751532181
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16164398\Announcement\Message Root\Footers\Footer\Unsubscribe.yml
+ID: "528e2815-d171-408f-a86a-0da2f99f4d5d"
+Parent: "f9e0a1bc-054c-4293-9213-eeb595b2d3c3"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/content/Email/Messages/2025/08/21T16164398/Announcement/Message Root/Footers/Footer/Unsubscribe
+Signature: KGXNwRBgpaRn8M28k3Hgucfb9PnAiKYZ8rTJCzaEL74=
+Modified: 638914677751602282
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17443037\Contact us submit\Message Root\Calls To Action\Call To Action.yml
+ID: "b577ea87-cee5-429d-ba34-3eb3c778ed3f"
+Parent: "f3f2a282-4e0e-44bb-9c7d-b295dc553bfe"
+Template: "ff7f82ea-a147-4bc3-90d1-318c92aa8740"
+Path: /sitecore/content/Email/Messages/2025/08/21T17443037/Contact us submit/Message Root/Calls To Action/Call To Action
+Signature: a2f9zXWl691YUnZN54McGUVphzhb9FsoTXj0iVjPaEU=
+Modified: 638914677751552289
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17310625\Announcement\Message Root\Footers\Footer\Unsubscribe.yml
+ID: "8b4b1ab1-ae23-4e77-8ca2-ee3e8a0fb56d"
+Parent: "dbb5a341-a5f1-443b-b53a-193846963038"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/content/Email/Messages/2025/08/21T17310625/Announcement/Message Root/Footers/Footer/Unsubscribe
+Signature: AHxOc30Kw2pZsCjDAYpvrjvEI27/p8QqhzSfPUqJW9o=
+Modified: 638914677752007450
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17443037\Contact us submit\Message Root\Footers\Footer.yml
+ID: "ac9dcfb7-6f66-4981-bb11-08d89f13ce19"
+Parent: "7cf8b265-3d75-4759-acf6-96d8446e0979"
+Template: "45fa579c-efe8-4a02-b3f0-9da81e6f7aa0"
+Path: /sitecore/content/Email/Messages/2025/08/21T17443037/Contact us submit/Message Root/Footers/Footer
+Signature: UTrLKgaVFg7fJrBM9ysqROr+1tpGxIhT13SS9fCke9g=
+Modified: 638914677751562299
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17310625\Announcement\Message Root\Footers\Footer\Update your preferences.yml
+ID: "abb8b09e-0d02-44c6-82b5-02758902f7ee"
+Parent: "dbb5a341-a5f1-443b-b53a-193846963038"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/content/Email/Messages/2025/08/21T17310625/Announcement/Message Root/Footers/Footer/Update your preferences
+Signature: IOjTTigryDzC+zlMiVLfqb9zCEICITbbk52672SbMlo=
+Modified: 638914677752017440
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16222635\Announcement\Message Root\Footers\Footer\Privacy Policy.yml
+ID: "e6ec05b2-ab37-4916-a987-873ad1595cba"
+Parent: "7e37e7a6-8626-46ff-88fd-266e4dfee790"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/content/Email/Messages/2025/08/21T16222635/Announcement/Message Root/Footers/Footer/Privacy Policy
+Signature: ht6sYcUxoiog3G3JnY8gDykrah1Qg3+WSF7UWNupqA8=
+Modified: 638914677751947481
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17340613\Call To Action Focus\Message Root\Footers\Footer\Privacy Policy.yml
+ID: "927f5212-a9e7-45ca-b36b-ad3c935005a1"
+Parent: "13f55145-fe95-4484-9234-47d35bae1c9e"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/content/Email/Messages/2025/08/21T17340613/Call To Action Focus/Message Root/Footers/Footer/Privacy Policy
+Signature: MH9OOvzY8DGkXyMzfk5/z2tl9QrEqCOOQ225eSVNKoM=
+Modified: 638914677752037449
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16222635\Announcement\Message Root\Footers\Footer\Unsubscribe.yml
+ID: "ef83e581-21fd-4c1b-a2be-8b0188826fb9"
+Parent: "7e37e7a6-8626-46ff-88fd-266e4dfee790"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/content/Email/Messages/2025/08/21T16222635/Announcement/Message Root/Footers/Footer/Unsubscribe
+Signature: HMFDeLcyQ6jeN22tWhnN3AfZrM6dHYnKeGNXsJnSbfo=
+Modified: 638914677751957454
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17340613\Call To Action Focus\Message Root\Footers\Footer\Unsubscribe.yml
+ID: "fef3ff8a-43ef-4b37-88f8-ce2310793148"
+Parent: "13f55145-fe95-4484-9234-47d35bae1c9e"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/content/Email/Messages/2025/08/21T17340613/Call To Action Focus/Message Root/Footers/Footer/Unsubscribe
+Signature: c+Cu758LGGARCAf6qfqLZzJ4JEAzXeOrdZdW0JWBYd8=
+Modified: 638914677752047445
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16222635\Announcement\Message Root\Footers\Footer\Update your preferences.yml
+ID: "a9db40b8-bf33-4b0e-9218-48d86e3b699b"
+Parent: "7e37e7a6-8626-46ff-88fd-266e4dfee790"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/content/Email/Messages/2025/08/21T16222635/Announcement/Message Root/Footers/Footer/Update your preferences
+Signature: XACGitFAWqGb3ABDJejoCCPR2yqwxCuNNRSqCXXzO5M=
+Modified: 638914677751977471
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17310625\Announcement\Message Root\Footers\Footer\Privacy Policy.yml
+ID: "01e87af4-4948-4ca8-bd8a-7b080a7cd4ba"
+Parent: "dbb5a341-a5f1-443b-b53a-193846963038"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/content/Email/Messages/2025/08/21T17310625/Announcement/Message Root/Footers/Footer/Privacy Policy
+Signature: bHZ3QqOLsOH4vaT9effwoG9Lvr7EyNY3eM/cgCboZQQ=
+Modified: 638914677751997447
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email.yml
+ID: "5a6d13f7-49dd-408a-add3-68b5d83d92d0"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "cf9c8a2a-2794-4fea-980a-ef8426f3d6c3"
+Path: /sitecore/content/Email
+Signature: xSArZ6WLa0+lhY7P2Ak+SF3E3XTmH56J53p5C5FRg5Q=
+Modified: 638914677742129327
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025.yml
+ID: "26379b52-2fb4-4733-8075-c13426588139"
+Parent: "e8efbd0e-8a1b-4c7e-b233-c0662e383690"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025
+Signature: XRDjgF2cf12gbpGHvlHmxF7US1Fa8XP6sFPFN443Fik=
+Modified: 638914677742561831
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Message Types\Automated\Default.yml
+ID: "3e9d4b1b-1cb8-4b2d-9c06-8d78cce531b8"
+Parent: "73426d65-a75b-4ce5-9adc-cc8894c6dff9"
+Template: "9795c562-98d9-4a9e-bc9c-c6b7a079fdf4"
+Path: /sitecore/content/Email/Message Types/Automated/Default
+Signature: Bnvz/lgXdaCCQZFnhOP4NEV8DqIO1mvXsw30XztheEI=
+Modified: 638914677742598327
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08.yml
+ID: "5d135126-e302-41e3-ac7f-7cfb9ee7dca8"
+Parent: "26379b52-2fb4-4733-8075-c13426588139"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08
+Signature: XRDjgF2cf12gbpGHvlHmxF7US1Fa8XP6sFPFN443Fik=
+Modified: 638914677742704079
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16202485.yml
+ID: "fcf1f614-ab65-46d0-91ba-c0b72ce2d8fc"
+Parent: "5d135126-e302-41e3-ac7f-7cfb9ee7dca8"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16202485
+Signature: mCZI5x0IJU+qwIQ9VopDMEFc6jLn0TuC6Pk+OGuz6G0=
+Modified: 638914677742820595
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17443037.yml
+ID: "95cf8a51-359e-49a5-bc50-a34a8878c787"
+Parent: "5d135126-e302-41e3-ac7f-7cfb9ee7dca8"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17443037
+Signature: jgvZjdEHjzjRXezBYHkua/rJGRiL7B0q1G+MGdxtlG4=
+Modified: 638914677742880945
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\Service Messages\Self-Service Subscription\Unsubscribe Notification.yml
+ID: "49ee3202-2475-417d-96ed-8a1ce98f1a8b"
+Parent: "ad711857-8a35-4f69-b5f8-7bcd3370bc63"
+Template: "ecf0a9c8-fe56-45d8-b750-6bde3a34a532"
+Path: "/sitecore/content/Email/Messages/Service Messages/Self-Service Subscription/Unsubscribe Notification"
+Signature: aoG6/6r3xtGIejljfcLUjAq3MLPMZlLf1ieiPILGV1o=
+Modified: 638914677742967648
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\Service Messages\Status Messages\Dispatch Completed.yml
+ID: "684520fd-9c0a-4b56-b82e-5f6e03cfd1c8"
+Parent: "a71943b7-a88e-41fc-8341-eb1b3a7a8905"
+Template: "ecf0a9c8-fe56-45d8-b750-6bde3a34a532"
+Path: /sitecore/content/Email/Messages/Service Messages/Status Messages/Dispatch Completed
+Signature: BQhr+ezXuU+J292ssjFo5Q2j/i/YotZ8QRhOoKGyLLM=
+Modified: 638914677742997762
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17310625\Announcement.yml
+ID: "f6bd70cd-a19f-4fe4-bd5b-738eefba7071"
+Parent: "7ce8b4f0-5400-4407-a8dd-0897b1e939d2"
+Template: "078d8a76-f971-4891-b422-76c0bcf9fa03"
+Path: /sitecore/content/Email/Messages/2025/08/21T17310625/Announcement
+Signature: I+9lFzuRpbSnPsHHuix81j7iaiErcU/5zhne/eGYQSY=
+Modified: 638914677749301107
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17340613\Call To Action Focus.yml
+ID: "9b6f579d-e53f-4d12-9d52-fe460939d3ee"
+Parent: "ff5a2347-dab9-4616-b540-06b4d5a04500"
+Template: "078d8a76-f971-4891-b422-76c0bcf9fa03"
+Path: /sitecore/content/Email/Messages/2025/08/21T17340613/Call To Action Focus
+Signature: UhiTtkhQR3/ePYqkgJha1E5MwTf08QusZLc7tFtKIq4=
+Modified: 638914677749321092
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17310625\Announcement\Message Root.yml
+ID: "b4b042d6-7869-4299-8394-de11dd94eaa7"
+Parent: "f6bd70cd-a19f-4fe4-bd5b-738eefba7071"
+Template: "3f12d78c-b7b7-4157-98fc-da3322ee1a5b"
+Path: /sitecore/content/Email/Messages/2025/08/21T17310625/Announcement/Message Root
+Signature: x7A934FuMaRqL3XMKKCeqX1ZzndsZwIQzgMpLhfz5OU=
+Modified: 638914677749411121
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17340613\Call To Action Focus\Message Root.yml
+ID: "99c6020a-95ec-4377-97ce-7827fb851d0a"
+Parent: "9b6f579d-e53f-4d12-9d52-fe460939d3ee"
+Template: "3f12d78c-b7b7-4157-98fc-da3322ee1a5b"
+Path: /sitecore/content/Email/Messages/2025/08/21T17340613/Call To Action Focus/Message Root
+Signature: ABQlrZRb3QgAyGxXy/yusGtnWaIZns2qMC9jsF/Zuvw=
+Modified: 638914677749431113
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16164398\Announcement\Message Root\Headers.yml
+ID: "36fec7b2-b256-4521-b74a-2b84d0cb8269"
+Parent: "bfe1436f-5129-46c5-b9d8-7f98920a5a5a"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16164398/Announcement/Message Root/Headers
+Signature: 10pehjejneRMV1xV9xg+SWh5QP1YgncQOTMUcuqy3LM=
+Modified: 638914677749511104
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16164398\Announcement\Message Root\Images.yml
+ID: "e00b003a-3e0c-43e7-988e-03725b91eb56"
+Parent: "bfe1436f-5129-46c5-b9d8-7f98920a5a5a"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16164398/Announcement/Message Root/Images
+Signature: e+d5/81whzCJcltFLwkhBlnQObIgVlytx7u9jmGMWpQ=
+Modified: 638914677749561246
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16202485\Announcement\Message Root\Body Texts.yml
+ID: "7f7ef7e6-63c2-47ab-a817-6ffbb6dab38c"
+Parent: "fc027d29-0831-46dc-8670-dcf153e673c9"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16202485/Announcement/Message Root/Body Texts
+Signature: 6RWoS2FTafrXGTev4/C2q1Zo41aWjkJKxVtEBT5QepE=
+Modified: 638914677749661229
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16202485\Announcement\Message Root\Calls To Action.yml
+ID: "845b9b65-4a3e-4a10-89fc-54100d7e84f1"
+Parent: "fc027d29-0831-46dc-8670-dcf153e673c9"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16202485/Announcement/Message Root/Calls To Action
+Signature: GwJgMcr0HydDk4OFJFm1Y3STpcCY9UyFMAkyXH+GdiU=
+Modified: 638914677749746436
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16202485\Announcement\Message Root\Images.yml
+ID: "7519ac0e-7110-4099-af95-2af967e39c3a"
+Parent: "fc027d29-0831-46dc-8670-dcf153e673c9"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16202485/Announcement/Message Root/Images
+Signature: TuiPPmz6o02viIL4byatxC9DKvQiYCV9e8jYYQAl7S8=
+Modified: 638914677749681244
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16202485\Announcement\Message Root\Main Images.yml
+ID: "dec490c7-b0e6-4282-b27d-70cbfc85323a"
+Parent: "fc027d29-0831-46dc-8670-dcf153e673c9"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16202485/Announcement/Message Root/Main Images
+Signature: qiczof0ZQ/MJBU4yOxP/1FKfXLfgie2F3Xm5VBOzgns=
+Modified: 638914677749631214
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16222635\Announcement\Message Root\Calls To Action.yml
+ID: "04ac5c62-a348-4e5a-ae95-3e4fb8ee13b3"
+Parent: "930b57e6-36c1-4c0c-a005-d0710a5f38dd"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16222635/Announcement/Message Root/Calls To Action
+Signature: 34HG3mVVZAuDi5bhocipZSz1TB5c00pt4Ud+qVjWpR0=
+Modified: 638914677749866443
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16222635\Announcement\Message Root\Footers.yml
+ID: "c9a1fd38-38fb-4dc1-be0d-9cc15751d5bf"
+Parent: "930b57e6-36c1-4c0c-a005-d0710a5f38dd"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16222635/Announcement/Message Root/Footers
+Signature: hp9+CKNUlOKVJ0WrRT+Wc0UgqtUqf2e9Mni6b6BSW34=
+Modified: 638914677749876449
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16222635\Announcement\Message Root\Template Parameters.yml
+ID: "452a7494-1dbb-4848-9397-f296dd3f600f"
+Parent: "930b57e6-36c1-4c0c-a005-d0710a5f38dd"
+Template: "04057e52-81de-4ecc-806a-e783fd62c763"
+Path: /sitecore/content/Email/Messages/2025/08/21T16222635/Announcement/Message Root/Template Parameters
+Signature: 1kr/ZwR+pTlBo0rJwgBWppTHdeutBFbsrJbh4oybLCQ=
+Modified: 638914677750036441
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16222635\Announcement\Message Root\Two Column Body Texts.yml
+ID: "708bf668-f02d-4f42-8c84-7b710d5a91b6"
+Parent: "930b57e6-36c1-4c0c-a005-d0710a5f38dd"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T16222635/Announcement/Message Root/Two Column Body Texts
+Signature: F+oGBfYvhRryZsIXrTG5n5KbMRR47C5wK4FQsGwBAwI=
+Modified: 638914677749846450
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17310625\Announcement\Message Root\Images.yml
+ID: "0b872913-66ad-4551-83f1-998461a8dbcc"
+Parent: "b4b042d6-7869-4299-8394-de11dd94eaa7"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17310625/Announcement/Message Root/Images
+Signature: nUg0RMYy0PpYtjb3cF3Gtt6mQmpGAm1f6bfjRopgeU8=
+Modified: 638914677750111663
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17310625\Announcement\Message Root\Main Images.yml
+ID: "d807ea27-0802-405c-8b59-8993fe1786b6"
+Parent: "b4b042d6-7869-4299-8394-de11dd94eaa7"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17310625/Announcement/Message Root/Main Images
+Signature: rv8tdQGruEo8QRCwKnRM7Y1RQ0UejG6HBmzd/+6vTMg=
+Modified: 638914677750061539
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17340613\Call To Action Focus\Message Root\Calls To Action.yml
+ID: "25f6db36-ecea-4200-b27e-0da523e73aab"
+Parent: "99c6020a-95ec-4377-97ce-7827fb851d0a"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17340613/Call To Action Focus/Message Root/Calls To Action
+Signature: fpnv+TdEpX3q9Ch7PwRvdlPDdFRf07gPfpLAC/DWNh8=
+Modified: 638914677750246876
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17340613\Call To Action Focus\Message Root\Footers.yml
+ID: "392bd885-c568-4225-b491-1d0fcd7140c9"
+Parent: "99c6020a-95ec-4377-97ce-7827fb851d0a"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17340613/Call To Action Focus/Message Root/Footers
+Signature: ONittaPo3MLVq9x4A2SKjN3CBmQRUOyDsxFBOPjjx+A=
+Modified: 638914677750256867
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17340613\Call To Action Focus\Message Root\Headers.yml
+ID: "459992d4-2c2e-409a-87be-8921b134edc0"
+Parent: "99c6020a-95ec-4377-97ce-7827fb851d0a"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17340613/Call To Action Focus/Message Root/Headers
+Signature: 9hWSJNxBhupUi0RRfGnJGavxsSOReEEkKVpsPvVuyA0=
+Modified: 638914677750186875
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17340613\Call To Action Focus\Message Root\Images.yml
+ID: "81dcddec-016c-42e2-9da5-e0d93ba8e791"
+Parent: "99c6020a-95ec-4377-97ce-7827fb851d0a"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17340613/Call To Action Focus/Message Root/Images
+Signature: lYM9bRwvEOO/bbSwtForo146Z7VfMgA93rbLknnFo1w=
+Modified: 638914677750226858
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17443037\Contact us submit\Message Root\Images.yml
+ID: "2635cce6-e5a0-4b05-86ec-ce31390e4403"
+Parent: "ad5b6197-8867-474d-821f-d4755fa9912e"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17443037/Contact us submit/Message Root/Images
+Signature: g7oRYQpedBOjKS3FJPlOiZMIeLd4U0l7v3V8KJKcyS4=
+Modified: 638914677750420003
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17443037\Contact us submit\Message Root\Main Images.yml
+ID: "1fef9c65-1ca7-4ab5-becc-9993a6ccda93"
+Parent: "ad5b6197-8867-474d-821f-d4755fa9912e"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17443037/Contact us submit/Message Root/Main Images
+Signature: RMILdNqLHER5OYEeS8Er3iocp0ZiQIf+aXo0eraZgro=
+Modified: 638914677750304739
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17443037\Contact us submit\Message Root\Previews.yml
+ID: "588155c8-6e91-483a-a34e-23b15aeb0117"
+Parent: "ad5b6197-8867-474d-821f-d4755fa9912e"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Email/Messages/2025/08/21T17443037/Contact us submit/Message Root/Previews
+Signature: ofsW7oVhwZyu8QiQZlwp6zbACEmkOYEXx6u2j599R9M=
+Modified: 638914677750286868
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17443037\Contact us submit\Message Root\Template Parameters.yml
+ID: "914d4523-5d00-44ac-8fb3-09bddd3994c0"
+Parent: "ad5b6197-8867-474d-821f-d4755fa9912e"
+Template: "04057e52-81de-4ecc-806a-e783fd62c763"
+Path: /sitecore/content/Email/Messages/2025/08/21T17443037/Contact us submit/Message Root/Template Parameters
+Signature: l3EziMIN34efbueyESOmhmcok5D3tmGkvlylGbr2SY4=
+Modified: 638914677750755340
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16202485\Announcement\Message Root\Previews\Preview.yml
+ID: "6949d82a-cdec-4aa9-8e2d-6f9619d60f02"
+Parent: "3cd42047-eaed-47bc-aa15-7f48e61689ab"
+Template: "37fdae00-3647-421e-88e2-6ca1ef2b5249"
+Path: /sitecore/content/Email/Messages/2025/08/21T16202485/Announcement/Message Root/Previews/Preview
+Signature: 4EgbKcJQcIiEtvF5Qtp4TzhwCjEiWqPAdD5/yAdqC6M=
+Modified: 638914677750886623
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16222635\Announcement\Message Root\Body Texts\Body Text.yml
+ID: "3b49e069-cde4-4a31-83c9-9020022b4f20"
+Parent: "6a7338b4-36de-47f7-a4bf-c181395ab3b4"
+Template: "7dfbcf4b-4f57-4c02-bc5f-d87256e7c4a7"
+Path: /sitecore/content/Email/Messages/2025/08/21T16222635/Announcement/Message Root/Body Texts/Body Text
+Signature: kAtmnlofEizrdgdpnp3sfWu6dyLU9syAoMZM+GIVVOE=
+Modified: 638914677751241798
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16222635\Announcement\Message Root\Calls To Action\Call To Action.yml
+ID: "b8760f8b-41ed-484f-9aca-4f5a75a83078"
+Parent: "04ac5c62-a348-4e5a-ae95-3e4fb8ee13b3"
+Template: "ff7f82ea-a147-4bc3-90d1-318c92aa8740"
+Path: /sitecore/content/Email/Messages/2025/08/21T16222635/Announcement/Message Root/Calls To Action/Call To Action
+Signature: PrKH6FB08IOM7SmIohNYxRlh4IsNkeOFg+OYPY/IXFI=
+Modified: 638914677751281794
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16222635\Announcement\Message Root\Footers\Footer.yml
+ID: "7e37e7a6-8626-46ff-88fd-266e4dfee790"
+Parent: "c9a1fd38-38fb-4dc1-be0d-9cc15751d5bf"
+Template: "45fa579c-efe8-4a02-b3f0-9da81e6f7aa0"
+Path: /sitecore/content/Email/Messages/2025/08/21T16222635/Announcement/Message Root/Footers/Footer
+Signature: wEtYHXrNT7i9KhW17VcrORAV/QWlznxBW654mhssNAU=
+Modified: 638914677751301825
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17310625\Announcement\Message Root\Previews\Preview.yml
+ID: "0ba3b2a6-de52-417c-a858-c126f374cbc2"
+Parent: "29ab5e78-33af-45a3-9b1e-4b29df891d30"
+Template: "37fdae00-3647-421e-88e2-6ca1ef2b5249"
+Path: /sitecore/content/Email/Messages/2025/08/21T17310625/Announcement/Message Root/Previews/Preview
+Signature: Q8lyaCpd7hf28G23jkKYD11VE56AxOXzIH52HbHeUgc=
+Modified: 638914677751311813
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17340613\Call To Action Focus\Message Root\Calls To Action\Call To Action.yml
+ID: "777dcc96-8d1d-4cc5-9bc9-0b4655993dcc"
+Parent: "25f6db36-ecea-4200-b27e-0da523e73aab"
+Template: "ff7f82ea-a147-4bc3-90d1-318c92aa8740"
+Path: /sitecore/content/Email/Messages/2025/08/21T17340613/Call To Action Focus/Message Root/Calls To Action/Call To Action
+Signature: QwuNoGlfxmyLupFBd7cKZo7215/tRK7JafOeNmsUBUI=
+Modified: 638914677751446975
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17340613\Call To Action Focus\Message Root\Footers\Footer.yml
+ID: "13f55145-fe95-4484-9234-47d35bae1c9e"
+Parent: "392bd885-c568-4225-b491-1d0fcd7140c9"
+Template: "45fa579c-efe8-4a02-b3f0-9da81e6f7aa0"
+Path: /sitecore/content/Email/Messages/2025/08/21T17340613/Call To Action Focus/Message Root/Footers/Footer
+Signature: 03Do3xW8RM/ftnX+Mt7ywW06z6IBbV5p4NtC905wmbY=
+Modified: 638914677751472167
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17340613\Call To Action Focus\Message Root\Main Images\Main Image.yml
+ID: "7f814985-6c37-4c43-8d7b-23d88f119bad"
+Parent: "cbea6126-1aeb-485a-a2c6-e9119c974dd9"
+Template: "0f849f10-b19a-4b65-bc57-306ea6d2c9fb"
+Path: /sitecore/content/Email/Messages/2025/08/21T17340613/Call To Action Focus/Message Root/Main Images/Main Image
+Signature: 8uttSH08PJH6Rz+fmGL0SloxQcHmsKb3DiQR+xT2TTE=
+Modified: 638914677751426975
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16164398\Announcement\Message Root\Footers\Footer\Update your preferences.yml
+ID: "fa01fb71-81e4-4452-958b-cc8027c556a4"
+Parent: "f9e0a1bc-054c-4293-9213-eeb595b2d3c3"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/content/Email/Messages/2025/08/21T16164398/Announcement/Message Root/Footers/Footer/Update your preferences
+Signature: wnxOll9b7CSY3Q16tF2XfNb2ZH0z4YDpIW4uCGUs3uM=
+Modified: 638914677751747457
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16202485\Announcement\Message Root\Footers\Footer\Privacy Policy.yml
+ID: "0a7944fc-fbcd-417c-98fa-b0e02cb72412"
+Parent: "40cbc0ce-3720-4865-b829-aa35de96ad4c"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/content/Email/Messages/2025/08/21T16202485/Announcement/Message Root/Footers/Footer/Privacy Policy
+Signature: eQmRxeWrad6yk46E+zbUDqSq/jKHwUrNCR6blPZ61sI=
+Modified: 638914677751887466
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16202485\Announcement\Message Root\Footers\Footer\Unsubscribe.yml
+ID: "746a471c-c452-475f-9dc4-d5ad67e5a36a"
+Parent: "40cbc0ce-3720-4865-b829-aa35de96ad4c"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/content/Email/Messages/2025/08/21T16202485/Announcement/Message Root/Footers/Footer/Unsubscribe
+Signature: 4+t8JxvjFF5tBsvrF2mjczLH1L+ll6dgAHYYdFYf+LI=
+Modified: 638914677751907459
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T16202485\Announcement\Message Root\Footers\Footer\Update your preferences.yml
+ID: "812aab18-12ee-4baf-a579-b8b0a89e8929"
+Parent: "40cbc0ce-3720-4865-b829-aa35de96ad4c"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/content/Email/Messages/2025/08/21T16202485/Announcement/Message Root/Footers/Footer/Update your preferences
+Signature: 2JdtHmL98/Nio/nr1GGljZ+hPt61aKMqJDtyjca0CMU=
+Modified: 638914677751927482
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17340613\Call To Action Focus\Message Root\Footers\Footer\Update your preferences.yml
+ID: "a9d18486-54ef-492e-9cd8-4d2dd99a8a05"
+Parent: "13f55145-fe95-4484-9234-47d35bae1c9e"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/content/Email/Messages/2025/08/21T17340613/Call To Action Focus/Message Root/Footers/Footer/Update your preferences
+Signature: 8ddrYGJjUEQI8OUN5gE2BgSGE8i3HZQPPLCsrB1JJd8=
+Modified: 638914677752067444
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17443037\Contact us submit\Message Root\Footers\Footer\Privacy Policy.yml
+ID: "7e073298-cd19-4541-b613-9a1b8db48d67"
+Parent: "ac9dcfb7-6f66-4981-bb11-08d89f13ce19"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/content/Email/Messages/2025/08/21T17443037/Contact us submit/Message Root/Footers/Footer/Privacy Policy
+Signature: jC3TxRMoPx4UKhFjV2ZFrbbkEUsMKYwUiz2RNa2GNbg=
+Modified: 638914677752077447
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17443037\Contact us submit\Message Root\Footers\Footer\Unsubscribe.yml
+ID: "67a8395f-694b-4a30-9466-7b33cdaf6bda"
+Parent: "ac9dcfb7-6f66-4981-bb11-08d89f13ce19"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/content/Email/Messages/2025/08/21T17443037/Contact us submit/Message Root/Footers/Footer/Unsubscribe
+Signature: K83dUy9S/j/XQrfpvqMYLwmLhGt7L5yLQEsSHv78ROw=
+Modified: 638914677752097483
+---
+File: |
+  C:\Training\sitea\src\sitecore\serialization\Project\Email\Email\Messages\2025\08\21T17443037\Contact us submit\Message Root\Footers\Footer\Update your preferences.yml
+ID: "989ccbef-7883-4916-8698-4b3bab1c942b"
+Parent: "ac9dcfb7-6f66-4981-bb11-08d89f13ce19"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/content/Email/Messages/2025/08/21T17443037/Contact us submit/Message Root/Footers/Footer/Update your preferences
+Signature: jRdlJ1gk5vp9wVmBylhIXYBntuCZwaUMwimd5/K0VDU=
+Modified: 638914677752107465

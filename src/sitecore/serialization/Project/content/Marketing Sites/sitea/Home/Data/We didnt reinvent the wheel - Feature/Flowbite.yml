@@ -1,0 +1,70 @@
+﻿---
+ID: "71ac83c2-f73f-48e4-a78c-32f73d77ee42"
+Parent: "40f1480f-193b-4019-9414-84378bbb81cb"
+Template: "09221d67-8977-4664-9388-1b62827ef5e0"
+Path: "/sitecore/content/Marketing Sites/sitea/Home/Data/We didnt reinvent the wheel - Feature/Flowbite"
+BranchID: "5b6a6e22-0f54-4695-9657-a8f7e1f9d542"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{76613892-D9EF-4357-B99D-8B0513B01C82}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T071715Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "20328625-6102-426f-b2c2-5a5d0bb8e9f5"
+    - ID: "b02bf0e2-b97a-47c0-b02a-a43ac0371cc9"
+      Hint: icon
+      Value: "{5B0834D4-1238-4123-92FA-B0ABC8CE1671}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c1804b44-ef1c-4d83-880a-7dbde013e7b9"
+      Hint: link
+      Value: |
+        <link text="Explore Flowbite and take your marketplace to the next level." anchor="" linktype="internal" class="" title="" target="" querystring="" id="{56B7350D-C8FD-40E2-AE99-7D67018A35F7}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T073451Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250822T071715Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "102d1d47-fc99-4a80-8650-526ba6241304"
+    - ID: "b02bf0e2-b97a-47c0-b02a-a43ac0371cc9"
+      Hint: icon
+      Value: "{5B0834D4-1238-4123-92FA-B0ABC8CE1671}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c1804b44-ef1c-4d83-880a-7dbde013e7b9"
+      Hint: link
+      Value: |
+        <link linktype="internal" text="Explora Flowbite y lleva tu mercado al siguiente nivel." querystring="" target="" id="{56B7350D-C8FD-40E2-AE99-7D67018A35F7}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250822T133547Z
